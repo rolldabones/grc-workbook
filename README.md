@@ -636,6 +636,8 @@ The metaphor is a thinking aid. Use it where it sharpens thinking and let it fal
 
 Part II turns to the augmentation of the integrated capability with artificial intelligence. The same equation governs. PP ≈ Ω(C | SP) ↑ UO. The integration of artificial intelligence does not alter the equation. It changes the way capabilities are deployed within it. Part II frames that integration through three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI. Informed Intent. Final Liability.
 
+Prompt or agent, one rule. **Human-Made, for Easy Work, Simply Done.** Grounded in the workflow. Built to make it easier. Easy to maintain, operate and fix.
+
 ## Module 9. Slow AI Inside the Cycle
 
 > *“Speed without discipline is just faster malpractice.”*
@@ -1308,7 +1310,7 @@ The watch returns one last time. The deepest point of the metaphor is governed r
 
 A workbook completed and shelved is paper. A workbook completed and used is a capability.
 
-***Final liability rests with the Human.***
+***Final Liability rests with the Human.***
 
 # References and Authorities
 
