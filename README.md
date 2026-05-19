@@ -1,18 +1,24 @@
-# The Governance, Risk Management and Compliance Workbook
+*The Governance, Risk Management and Compliance Workbook*
+
+**THE GOVERNANCE, RISK MANAGEMENT**
+
+**AND COMPLIANCE WORKBOOK**
 
 *Foundations, Augmentation and AI Governance*
 
-Built on the OCEG GRC Capability Model.
+Built on the OCEG GRC Capability Model
 
-$$PP \approx \Omega(C \mid SP) \uparrow UO$$
+**PP ≈ Ω(C | SP) ↑ UO**
 
-Anchored in three operating doctrines: **Slow AI**, **Informed Intent**, **Final Liability**.
+*Anchored in three operating doctrines*
 
-Son-U Michael Paik. *v3.9 final, May 2026.*
+**Slow AI  ·  Informed Intent  ·  Final Liability**
 
----
+Son-U Michael Paik
 
-# Contents
+*v3.10, May 2026*
+
+# **Contents**
 
 **Front Matter**
 
@@ -72,7 +78,7 @@ Closing
 
 References and Authorities
 
-# How to Use This Workbook
+# **How to Use This Workbook**
 
 This workbook is a working instrument, not a reference text. It is built on the OCEG GRC Capability Model 3.5, often called the Red Book, and compressed into a single equation that runs through the work. PP ≈ Ω(C | SP) ↑ UO. Principled Performance is approached through the operation of the GRC Operational Cycle, deploying a defined set of capabilities, conditioned by the organization's Starting Point and guided toward the Universal Outcomes.
 
@@ -90,7 +96,7 @@ Each module has the same anatomy. Concept. Application. Worksheet. Outputs. The 
 
 A note on the watch. The workbook uses the mechanical watch as a recurring illustration of the GRC capability. Each module opens with a short watch motif and Module 8 develops the analogy in full. The watch is a thinking aid, not a thesis. It earns its place where it sharpens the discipline and is dropped where it would obscure it. Readers who prefer to read past the metaphor lose nothing of the model.
 
-# The Equation
+# **The Equation**
 
 The workbook compresses the OCEG GRC Capability Model into a single equation that recurs across every module. The equation is not arithmetic. It is a statement of dependence among five variables. Change any one and the result changes.
 
@@ -110,7 +116,7 @@ Two organizations using the same model produce different programs because they s
 
 Note on attribution. The four components, twenty elements, ten Universal Outcomes and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), which is an open standard. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG. The equation form above is a compression used in this workbook to keep the model accessible.
 
-# The Three Doctrines
+# **The Three Doctrines**
 
 The three doctrines below condition every artificial intelligence augmentation discussed in Part II. They are stated as constraints because their job is to limit choice. An organization that adopts all three has narrowed the field of available conduct in useful ways. An organization that adopts only one has bought optionality without discipline.
 
@@ -132,15 +138,15 @@ Informed Intent requires that any consequential artificial intelligence action b
 
 Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who bears the consequence. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch’s click. Once the record is preserved, the organization cannot unwind backward into denial.
 
-# Part I. Fundamental Governance, Risk Management and Compliance
+# **Part I. Fundamental Governance, Risk Management and Compliance**
 
 Part I unpacks the equation PP ≈ Ω(C | SP) ↑ UO. It treats governance, risk management and compliance as an integrated capability rather than three adjacent departments. The reader who completes Part I will know what Principled Performance is, what the Operational Cycle does, which capabilities are deployed within the cycle, how the Starting Point conditions everything that follows and which Universal Outcomes the entire system must aim at.
 
-## Module 1. The Equation
+## **Module 1. The Equation**
 
-> *“An equation is not a slogan. It is a compression of an argument into a form one can interrogate.”*
+*“An equation is not a slogan. It is a compression of an argument into a form one can interrogate.”*
 
-> **The watch.** *A mechanical watch is the equation made physical. The mainspring stores energy. The gear train transmits it. The escapement releases it in measured increments. The dial displays the result. PP ≈ Ω(C | SP) ↑ UO compresses the same architecture into algebra. The components named on the page are the components of a precision instrument.*
+***The watch. ****A mechanical watch is the equation made physical. The mainspring stores energy. The gear train transmits it. The escapement releases it in measured increments. The dial displays the result. PP ≈ Ω(C | SP) ↑ UO compresses the same architecture into algebra. The components named on the page are the components of a precision instrument.*
 
 **CONCEPT**
 
@@ -194,11 +200,11 @@ Begin by locating the organization on each variable in the equation. Brief, cand
 
 - Equation diagnosis. The weakest variable and its consequence.
 
-## Module 2. LEARN. Context, Culture, Stakeholders
+## **Module 2. LEARN. Context, Culture, Stakeholders**
 
-> *“An organization that cannot describe its environment cannot govern within it.”*
+*“An organization that cannot describe its environment cannot govern within it.”*
 
-> **The watch.** *A watchmaker’s first question is not which controls a watch should have. It is what kind of watch this is to be. Dress, dive, field, pilot, chronograph, marine chronometer and perpetual calendar each impose different design assumptions because each operates in a different environment. LEARN is the disciplined examination of the environment the movement must run in.*
+***The watch. ****A watchmaker’s first question is not which controls a watch should have. It is what kind of watch this is to be. Dress, dive, field, pilot, chronograph, marine chronometer and perpetual calendar each impose different design assumptions because each operates in a different environment. LEARN is the disciplined examination of the environment the movement must run in.*
 
 **CONCEPT**
 
@@ -256,11 +262,11 @@ Complete one entry per element. Brevity is permitted. Accuracy is not optional.
 
 - LEARN cadence schedule with owner and trigger conditions.
 
-## Module 3. ALIGN. Direction, Objectives, Risk and Design
+## **Module 3. ALIGN. Direction, Objectives, Risk and Design**
 
-> *“Strategy without alignment is wishful thinking that consumes payroll.”*
+*“Strategy without alignment is wishful thinking that consumes payroll.”*
 
-> **The watch.** *Risk appetite is the torque specification of the movement. Too little torque and the watch may not run. Too much and the parts wear, slip or break. ALIGN converts strategic ambition into a torque setting the gear train can carry without distortion.*
+***The watch. ****Risk appetite is the torque specification of the movement. Too little torque and the watch may not run. Too much and the parts wear, slip or break. ALIGN converts strategic ambition into a torque setting the gear train can carry without distortion.*
 
 **CONCEPT**
 
@@ -324,11 +330,11 @@ Use the ALIGN worksheet immediately after the LEARN worksheet. ALIGN cannot be d
 
 - Design table linking each material uncertainty to a response and a mechanism.
 
-## Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives
+## **Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives**
 
-> *“Performance is what happens when the design meets the day.”*
+*“Performance is what happens when the design meets the day.”*
 
-> **The watch.** *The gear train transmits energy through interlocking wheels. Controls are the jewels that reduce friction at points of repeated stress. Policies are the technical specification sheet. Education is the apprenticeship that allows the watchmaker to service the instrument. Incentives are the lubrication choice. None of these is decorative. Each is mechanical.*
+***The watch. ****The gear train transmits energy through interlocking wheels. Controls are the jewels that reduce friction at points of repeated stress. Policies are the technical specification sheet. Education is the apprenticeship that allows the watchmaker to service the instrument. Incentives are the lubrication choice. None of these is decorative. Each is mechanical.*
 
 **CONCEPT**
 
@@ -392,11 +398,11 @@ Each element below requires a concrete artifact. Do not leave any line blank.
 
 - Incentive map with contradiction analysis.
 
-## Module 5. PERFORM II. Notification, Inquiry, Response
+## **Module 5. PERFORM II. Notification, Inquiry, Response**
 
-> *“The system that cannot hear bad news fast cannot govern.”*
+*“The system that cannot hear bad news fast cannot govern.”*
 
-> **The watch.** *Shock protection does not promise the watch will never be dropped. It promises that one drop will not destroy the movement. Notification, Inquiry and Response are the shock-protection assembly of the enterprise.*
+***The watch. ****Shock protection does not promise the watch will never be dropped. It promises that one drop will not destroy the movement. Notification, Inquiry and Response are the shock-protection assembly of the enterprise.*
 
 **CONCEPT**
 
@@ -448,11 +454,11 @@ These elements are most usefully audited against actual incidents. Use the most 
 
 - Loop-closure entries connecting Response to upstream changes.
 
-## Module 6. REVIEW. Monitoring, Assurance, Improvement
+## **Module 6. REVIEW. Monitoring, Assurance, Improvement**
 
-> *“What is not reviewed is not governed. It is merely operated.”*
+*“What is not reviewed is not governed. It is merely operated.”*
 
-> **The watch.** *Even excellent movements drift. Regulation in watchmaking is the calibration of the watch against an external time reference, performed periodically and after impact. REVIEW is regulation. It does not ask whether the organization once built a good mechanism. It asks whether the organization is still telling time.*
+***The watch. ****Even excellent movements drift. Regulation in watchmaking is the calibration of the watch against an external time reference, performed periodically and after impact. REVIEW is regulation. It does not ask whether the organization once built a good mechanism. It asks whether the organization is still telling time.*
 
 **CONCEPT**
 
@@ -471,6 +477,8 @@ Monitoring is calibrated. A green indicator that stays green when the underlying
 Assurance is independent confirmation that the capability is designed and operating as represented. The Red Book aligns Assurance with the integrated audit and assurance discipline expressed in its companion Burgundy Book. Assurance is performed by a function or party that is not the owner of the capability under review.
 
 Assurance has multiple sources. Internal audit, external audit, regulatory examination, third-party certification and second-line review each contribute. A coherent assurance map names each source, the scope, the cadence and the dependency. Overlapping assurance is acceptable. Unmapped assurance is dangerous.
+
+This pattern, in which capability owners perform the work, risk and compliance functions monitor and challenge it, and an independent assurance function reviews both, is what industry commonly calls the three lines of defense. The terminology is interoperable with the OCEG cycle. The work is the same.
 
 **R3. Improvement**
 
@@ -504,11 +512,11 @@ REVIEW is the most useful place to begin honesty. Complete the worksheet without
 
 - Feedback-loop trace document.
 
-## Module 7. Starting Point and Universal Outcomes
+## **Module 7. Starting Point and Universal Outcomes**
 
-> *“Two organizations using the same model arrive at very different programs. The difference is the Starting Point and the outcome the program is pulled toward.”*
+*“Two organizations using the same model arrive at very different programs. The difference is the Starting Point and the outcome the program is pulled toward.”*
 
-> **The watch.** *A dress watch and a dive watch are both watches. They cannot be designed from the same starting assumptions because they exist for different purposes and operate in different conditions. The Starting Point names what kind of watch is being built. The Universal Outcomes name the use to which it will be put.*
+***The watch. ****A dress watch and a dive watch are both watches. They cannot be designed from the same starting assumptions because they exist for different purposes and operate in different conditions. The Starting Point names what kind of watch is being built. The Universal Outcomes name the use to which it will be put.*
 
 **CONCEPT**
 
@@ -552,11 +560,11 @@ Complete both halves. The two together produce the program's design thesis.
 
 - Outcome risk note with mitigation owner.
 
-## Module 8. The Watch as Illustration
+## **Module 8. The Watch as Illustration**
 
-> *“A metaphor is a thinking aid, not a thesis. It earns its place by clarifying.”*
+*“A metaphor is a thinking aid, not a thesis. It earns its place by clarifying.”*
 
-> **The watch.** *This module is the metaphor itself. The mechanical watch is held alongside the GRC capability not as a model of it, but as a picture against which the model can be inspected. Where the picture clarifies, it is used. Where it obscures, it is dropped.*
+***The watch. ****This module is the metaphor itself. The mechanical watch is held alongside the GRC capability not as a model of it, but as a picture against which the model can be inspected. Where the picture clarifies, it is used. Where it obscures, it is dropped.*
 
 **CONCEPT**
 
@@ -632,17 +640,17 @@ The metaphor is a thinking aid. Use it where it sharpens thinking and let it fal
 
 - Service interval calendar. Capability, last service, next service, owner.
 
-# Part II. Augmenting the Capability with Artificial Intelligence
+# **Part II. Augmenting the Capability with Artificial Intelligence**
 
 Part II turns to the augmentation of the integrated capability with artificial intelligence. The same equation governs. PP ≈ Ω(C | SP) ↑ UO. The integration of artificial intelligence does not alter the equation. It changes the way capabilities are deployed within it. Part II frames that integration through three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI. Informed Intent. Final Liability.
 
 Prompt or agent, one rule. **Human-Made, for Easy Work, Simply Done.** Grounded in the workflow. Built to make it easier. Easy to maintain, operate and fix.
 
-## Module 9. Slow AI Inside the Cycle
+## **Module 9. Slow AI Inside the Cycle**
 
-> *“Speed without discipline is just faster malpractice.”*
+*“Speed without discipline is just faster malpractice.”*
 
-> **The watch.** *The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence. It is not opposition to speed. It is the disciplined release of power.*
+***The watch. ****The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence. It is not opposition to speed. It is the disciplined release of power.*
 
 **CONCEPT**
 
@@ -688,11 +696,11 @@ Slow AI is a written discipline. Verbal commitments do not satisfy it.
 
 - Cycle-phase tier map.
 
-## Module 10. Informed Intent as a Five-Condition Gate
+## **Module 10. Informed Intent as a Five-Condition Gate**
 
-> *“A signature without knowledge is administrative. A signature without time is reflexive. Both produce the same harm.”*
+*“A signature without knowledge is administrative. A signature without time is reflexive. Both produce the same harm.”*
 
-> **The watch.** *The crown winds the movement and sets the hands. It is small. It is also the authority interface. Anyone who turns the crown changes the watch. Informed Intent is the discipline that asks, before any consequential action: was the crown turned by someone who knew what was being set?*
+***The watch. ****The crown winds the movement and sets the hands. It is small. It is also the authority interface. Anyone who turns the crown changes the watch. Informed Intent is the discipline that asks, before any consequential action: was the crown turned by someone who knew what was being set?*
 
 **CONCEPT**
 
@@ -742,11 +750,11 @@ Use a single artificial intelligence authorization in the organization as the te
 
 - Refusal cases catalog confirming Permission condition.
 
-## Module 11. Final Liability and the Evidence Pack
+## **Module 11. Final Liability and the Evidence Pack**
 
-> *“The artificial intelligence carries no consequence. The named human does. The system is designed around that fact.”*
+*“The artificial intelligence carries no consequence. The named human does. The system is designed around that fact.”*
 
-> **The watch.** *The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. A named human carries the consequence only when the record is preserved.*
+***The watch. ****The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. A named human carries the consequence only when the record is preserved.*
 
 **CONCEPT**
 
@@ -790,11 +798,11 @@ Final Liability is verified by walking the organization's most consequential art
 
 - Continuity register.
 
-## Module 12. Augmentation by Cycle Phase
+## **Module 12. Augmentation by Cycle Phase**
 
-> *“Artificial intelligence does different work in different phases. The discipline differs accordingly.”*
+*“Artificial intelligence does different work in different phases. The discipline differs accordingly.”*
 
-> **The watch.** *Artificial intelligence in the GRC capability is the automatic winding rotor. It changes the energy profile of the watch. Self-winding watches did not change what timekeeping is. They changed how the mainspring is loaded and at what rate. The escapement, the balance and the regulation matter more, not less, once winding becomes automatic.*
+***The watch. ****Artificial intelligence in the GRC capability is the automatic winding rotor. It changes the energy profile of the watch. Self-winding watches did not change what timekeeping is. They changed how the mainspring is loaded and at what rate. The escapement, the balance and the regulation matter more, not less, once winding becomes automatic.*
 
 **CONCEPT**
 
@@ -859,11 +867,11 @@ Populate the right two columns of the table above for your organization. Note an
 
 - Replacement audit flagging any unintended substitution.
 
-## Module 13. Augmentation by Function
+## **Module 13. Augmentation by Function**
 
-> *“The cycle is the same. The function reads it differently.”*
+*“The cycle is the same. The function reads it differently.”*
 
-> **The watch.** *A complication is any function beyond basic timekeeping. A date, a chronograph, a moon phase, a perpetual calendar, a tourbillon. Each is layered on the core movement. The movement must still keep time. Legal, Compliance, Risk, Information Security, Privacy and Internal Audit are complications of the GRC capability. Each operates on the same Operational Cycle. Each reads it from a different vantage point.*
+***The watch. ****A complication is any function beyond basic timekeeping. A date, a chronograph, a moon phase, a perpetual calendar, a tourbillon. Each is layered on the core movement. The movement must still keep time. Legal, Compliance, Risk, Information Security, Privacy and Internal Audit are complications of the GRC capability. Each operates on the same Operational Cycle. Each reads it from a different vantage point.*
 
 **CONCEPT**
 
@@ -882,6 +890,8 @@ Information security uses artificial intelligence for detection, triage, respons
 Privacy uses artificial intelligence for impact assessment support, breach analysis, request handling and consent monitoring. The doctrinal constraints are calibrated to data subjects. No automated individual decision-making without legal basis. Named privacy owner on every assessment.
 
 Internal Audit uses artificial intelligence for population testing, sample selection, anomaly detection and drafting support. The doctrinal constraints are calibrated to independence. The artificial intelligence is not the auditor. It is the auditor's tool. The auditor's conclusion is human.
+
+These functions are commonly grouped under the three lines of defense convention. Legal, compliance, risk, information security and privacy may sit in either the first or second line depending on whether they hold decision power or only advise. Internal audit sits in the third line.
 
 **AUGMENTATION PATTERNS BY FUNCTION**
 
@@ -916,15 +926,15 @@ Populate the table for your organization. The constraint column is the one most 
 
 - Constraint-gap list per function.
 
-# Part III. Governing Artificial Intelligence as a System
+# **Part III. Governing Artificial Intelligence as a System**
 
 Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen, audited and improved within the same Operational Cycle. The same equation, PP ≈ Ω(C | SP) ↑ UO, governs. The unit of analysis is the AI system rather than the organization, but the elements and outcomes are the same.
 
-## Module 14. AI Inventory and Classification
+## **Module 14. AI Inventory and Classification**
 
-> *“What is not inventoried cannot be governed. What is not classified cannot be tiered.”*
+*“What is not inventoried cannot be governed. What is not classified cannot be tiered.”*
 
-> **The watch.** *The service log records every adjustment, replacement and certification a watch has received. A movement without a service history is a movement no one can be accountable for. An AI inventory is the service log of the AI estate.*
+***The watch. ****The service log records every adjustment, replacement and certification a watch has received. A movement without a service history is a movement no one can be accountable for. An AI inventory is the service log of the AI estate.*
 
 **CONCEPT**
 
@@ -968,11 +978,11 @@ Begin the inventory immediately, even if incomplete. An incomplete inventory bea
 
 - Review cadence and trigger list.
 
-## Module 15. Human Oversight as Capability, Not Compliance
+## **Module 15. Human Oversight as Capability, Not Compliance**
 
-> *“Oversight is the balance assembly of the system. A sticker on the case that reads oversight is not oversight.”*
+*“Oversight is the balance assembly of the system. A sticker on the case that reads oversight is not oversight.”*
 
-> **The watch.** *Human oversight is the balance assembly. The balance wheel oscillates. The hairspring restores it to center. The pallet fork engages the escape wheel. Each component is mechanically connected, and the system regulates the watch by interaction. A sticker on the case that reads oversight is not oversight. The balance assembly must oscillate.*
+***The watch. ****Human oversight is the balance assembly. The balance wheel oscillates. The hairspring restores it to center. The pallet fork engages the escape wheel. Each component is mechanically connected, and the system regulates the watch by interaction. A sticker on the case that reads oversight is not oversight. The balance assembly must oscillate.*
 
 **CONCEPT**
 
@@ -1020,11 +1030,11 @@ Walk a real oversight role in your organization and confirm each property.
 
 - Effectiveness log of interventions.
 
-## Module 16. Agentic AI as Self-Moving Complication
+## **Module 16. Agentic AI as Self-Moving Complication**
 
-> *“An agent is a system that takes action. A governance regime that treated chatbots is not a regime that governs agents.”*
+*“An agent is a system that takes action. A governance regime that treated chatbots is not a regime that governs agents.”*
 
-> **The watch.** *A tourbillon rotates the balance assembly to average out positional error. It is impressive. It is also famously brittle if the rest of the movement is not sound. An agent is a self-moving complication. The temptation is to admire the tourbillon. The discipline is to ensure the case, the crown, the mainspring, the click and the regulation are all rated for what the tourbillon now allows.*
+***The watch. ****A tourbillon rotates the balance assembly to average out positional error. It is impressive. It is also famously brittle if the rest of the movement is not sound. An agent is a self-moving complication. The temptation is to admire the tourbillon. The discipline is to ensure the case, the crown, the mainspring, the click and the regulation are all rated for what the tourbillon now allows.*
 
 **CONCEPT**
 
@@ -1070,11 +1080,11 @@ Inventory every live agentic deployment. The unit of analysis is the agent, not 
 
 - Scope expansion log with gate evidence.
 
-## Module 17. Audit and Assurance of AI Systems
+## **Module 17. Audit and Assurance of AI Systems**
 
-> *“Assurance over artificial intelligence is the discipline of testing what cannot be opened to ordinary inspection.”*
+*“Assurance over artificial intelligence is the discipline of testing what cannot be opened to ordinary inspection.”*
 
-> **The watch.** *An open caseback shows the movement. Auditability requires that the mechanism be visible to a competent observer at appropriate times. Compliance is chronometer certification. It is proof that the watch met defined standards under defined conditions. Certification is not the watch. It is evidence about the watch.*
+***The watch. ****An open caseback shows the movement. Auditability requires that the mechanism be visible to a competent observer at appropriate times. Compliance is chronometer certification. It is proof that the watch met defined standards under defined conditions. Certification is not the watch. It is evidence about the watch.*
 
 **CONCEPT**
 
@@ -1088,7 +1098,7 @@ The audit scope begins with the AI inventory and classification. Every entry abo
 
 Evidence is layered. Documentary evidence demonstrates that policies and procedures exist. Operational evidence demonstrates that they have been followed. Performance evidence demonstrates that the system performs as represented. Outcome evidence demonstrates that affected parties have not been harmed. The strongest audit conclusions are supported by all four. The weakest are supported only by documentary evidence.
 
-Independence is structural. The audit function does not report to the function that owns the AI systems. The audit function has direct access to the board or its committee. The audit function may use AI tools without becoming AI-dependent. The auditor's conclusion remains human.
+Independence is structural. The audit function, often called the third line, does not report to the function that owns the AI systems. The audit function has direct access to the board or its committee. The audit function may use AI tools without becoming AI-dependent. The auditor's conclusion remains human.
 
 Conformity assessment regimes apply to high-consequence AI in many jurisdictions. The typical pattern produces a technical file, a declaration of conformity and, where applicable, a registration, marking or certification. The conformity assessment does not replace ongoing assurance. It is a point-in-time event with post-market obligations. The reader is expected to identify the equivalent conformity, registration, certification or pre-deployment obligation applicable to each system in each jurisdiction and to maintain the corresponding technical file. The method of evidencing conformity is consistent across regimes even where the regulator and the document set differ.
 
@@ -1120,11 +1130,11 @@ Build the AI audit plan against the inventory.
 
 - Audit cadence calendar.
 
-## Module 18. The Governance Test
+## **Module 18. The Governance Test**
 
-> *“An organization that cannot answer thirty-seven binary questions about its AI program does not have a program. It has a position.”*
+*“An organization that cannot answer thirty-seven binary questions about its AI program does not have a program. It has a position.”*
 
-> **The watch.** *A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
+***The watch. ****A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
 
 **CONCEPT**
 
@@ -1208,7 +1218,7 @@ Mark each item Yes only if the artifact exists, is current and would survive ext
 
 - High-consequence or otherwise regulated systems have current technical files or equivalent documentation under every applicable regime.
 
-- Internal audit independence over AI systems is confirmed.
+- Internal audit independence over AI systems is confirmed, with reporting line to the board or audit committee rather than to the function that owns the AI estate.
 
 - An AI incident register exists and is reviewed at least quarterly.
 
@@ -1238,7 +1248,7 @@ Score the test. State the count. Do not narrate the count.
 
 - Schedule of future administrations.
 
-# Quick Mapping Reference
+# **Quick Mapping Reference**
 
 Two views of the integrated capability are gathered here for quick consultation. The first is the OCEG cycle and its twenty elements. The second is the watch-component analogue used as a recurring illustration in this workbook.
 
@@ -1298,7 +1308,7 @@ Recurring throughout the workbook as a short opener at each module and developed
 | **Self-moving complication** | Agentic artificial intelligence. | Who set the goal and where does it stop? |
 | **Balance assembly, not sticker** | Meaningful human oversight. | Is the oversight mechanical or cosmetic? |
 
-# Closing
+# **Closing**
 
 Governance, risk management and compliance is the discipline of converting organizational energy into accountable action. The equation PP ≈ Ω(C | SP) ↑ UO holds that discipline in compact form. Principled Performance is approached, never claimed. The cycle turns continuously rather than seasonally. The twenty capabilities are deployed rather than displayed. The Starting Point is named honestly. The Universal Outcomes are ranked rather than aspired to.
 
@@ -1312,7 +1322,7 @@ A workbook completed and shelved is paper. A workbook completed and used is a ca
 
 ***Final Liability rests with the Human.***
 
-# References and Authorities
+# **References and Authorities**
 
 The workbook treats the following instruments as reference time. The references are not exhaustive. Sectoral, national and emerging instruments overlay them. The reader is responsible for the law and standards applicable to their own enterprise, jurisdiction and use cases. The legal standing of any specific obligation is for qualified counsel to determine. The workbook is a governance instrument, not legal advice.
 
