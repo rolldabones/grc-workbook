@@ -1,5 +1,4 @@
-*The Governance, Risk Management and Compliance Workbook*
-
+[GRC_Workbook_v3_11.md](https://github.com/user-attachments/files/28529218/GRC_Workbook_v3_11.md)
 **THE GOVERNANCE, RISK MANAGEMENT**
 
 **AND COMPLIANCE WORKBOOK**
@@ -8,79 +7,79 @@
 
 Built on the OCEG GRC Capability Model
 
-**PP ≈ Ω(C | SP) ↑ UO**
+**PP ≈ Ω(C \| SP) ↑ UO**
 
 *Anchored in three operating doctrines*
 
-**Slow AI  ·  Informed Intent  ·  Final Liability**
+**Slow AI · Informed Intent · Final Liability**
 
 Son-U Michael Paik
 
-*v3.10, May 2026*
+*v3.11, May 2026*
 
-# **Contents**
+# Contents
 
 **Front Matter**
 
-How to Use This Workbook
-
-The Equation
-
-The Three Doctrines
+> How to Use This Workbook
+>
+> The Equation
+>
+> The Three Doctrines
 
 **Part I. Fundamental Governance, Risk Management and Compliance**
 
-Module 1. The Equation
-
-Module 2. LEARN. Context, Culture, Stakeholders
-
-Module 3. ALIGN. Direction, Objectives, Risk and Design
-
-Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives
-
-Module 5. PERFORM II. Notification, Inquiry, Response
-
-Module 6. REVIEW. Monitoring, Assurance, Improvement
-
-Module 7. Starting Point and Universal Outcomes
-
-Module 8. The Watch as Illustration
+> Module 1. The Equation
+>
+> Module 2. LEARN. Context, Culture, Stakeholders
+>
+> Module 3. ALIGN. Direction, Objectives, Risk and Design
+>
+> Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives
+>
+> Module 5. PERFORM II. Notification, Inquiry, Response
+>
+> Module 6. REVIEW. Monitoring, Assurance, Improvement
+>
+> Module 7. Starting Point and Universal Outcomes
+>
+> Module 8. The Watch as Illustration
 
 **Part II. Augmenting the Capability with Artificial Intelligence**
 
-Module 9. Slow AI Inside the Cycle
-
-Module 10. Informed Intent as a Five-Condition Gate
-
-Module 11. Final Liability and the Evidence Pack
-
-Module 12. Augmentation by Cycle Phase
-
-Module 13. Augmentation by Function
+> Module 9. Slow AI Inside the Cycle
+>
+> Module 10. Informed Intent as a Five-Condition Gate
+>
+> Module 11. Final Liability and the Evidence Pack
+>
+> Module 12. Augmentation by Cycle Phase
+>
+> Module 13. Augmentation by Function
 
 **Part III. Governing Artificial Intelligence as a System**
 
-Module 14. AI Inventory and Classification
-
-Module 15. Human Oversight as Capability, Not Compliance
-
-Module 16. Agentic AI as Self-Moving Complication
-
-Module 17. Audit and Assurance of AI Systems
-
-Module 18. The Governance Test
+> Module 14. AI Inventory and Classification
+>
+> Module 15. Human Oversight as Capability, Not Compliance
+>
+> Module 16. Agentic AI as Self-Moving Complication
+>
+> Module 17. Audit and Assurance of AI Systems
+>
+> Module 18. The Governance Test
 
 **Back Matter**
 
-Quick Mapping Reference
+> Quick Mapping Reference
+>
+> Closing
+>
+> References and Authorities
 
-Closing
+# How to Use This Workbook
 
-References and Authorities
-
-# **How to Use This Workbook**
-
-This workbook is a working instrument, not a reference text. It is built on the OCEG GRC Capability Model 3.5, often called the Red Book, and compressed into a single equation that runs through the work. PP ≈ Ω(C | SP) ↑ UO. Principled Performance is approached through the operation of the GRC Operational Cycle, deploying a defined set of capabilities, conditioned by the organization's Starting Point and guided toward the Universal Outcomes.
+This workbook is a working instrument, not a reference text. It is built on the OCEG GRC Capability Model 3.5, often called the Red Book, and compressed into a single equation that runs through the work. PP ≈ Ω(C \| SP) ↑ UO. Principled Performance is approached through the operation of the GRC Operational Cycle, deploying a defined set of capabilities, conditioned by the organization's Starting Point and guided toward the Universal Outcomes.
 
 A note on scope. The workbook helps organizations address governance, risk management and compliance in the age of artificial intelligence. It is not, except for Part III, an AI GRC workbook. Part I treats the GRC capability as-is and as-intended, the model that un-augmented humans operate. Part II treats how that work can be augmented by artificial intelligence. Part III treats AI GRC, the governance of the augmentations introduced in Part II and of any other artificial intelligence deployed in the organization. The capability must exist before it can be augmented and before it can be applied to artificial intelligence as a unit of governance.
 
@@ -96,11 +95,11 @@ Each module has the same anatomy. Concept. Application. Worksheet. Outputs. The 
 
 A note on the watch. The workbook uses the mechanical watch as a recurring illustration of the GRC capability. Each module opens with a short watch motif and Module 8 develops the analogy in full. The watch is a thinking aid, not a thesis. It earns its place where it sharpens the discipline and is dropped where it would obscure it. Readers who prefer to read past the metaphor lose nothing of the model.
 
-# **The Equation**
+# The Equation
 
 The workbook compresses the OCEG GRC Capability Model into a single equation that recurs across every module. The equation is not arithmetic. It is a statement of dependence among five variables. Change any one and the result changes.
 
-**PP ≈ Ω(C | SP) ↑ UO**
+**PP ≈ Ω(C \| SP) ↑ UO**
 
 Principled Performance (PP) is the reliable achievement of objectives, the addressing of uncertainty and the conduct of business with integrity. It is the goal of the system, not a metric. No single dashboard renders it. The equation describes how an organization works toward it.
 
@@ -108,7 +107,7 @@ The Operational Cycle (Ω) is the continuous and iterative application of four p
 
 Capabilities (C) are the twenty functional elements that the organization deploys within the cycle. They are LEARN. L1 External Context. L2 Internal Context. L3 Culture. L4 Stakeholders. ALIGN. A1 Direction. A2 Objectives. A3 Identification. A4 Analysis. A5 Design. PERFORM. P1 Controls. P2 Policies. P3 Communication. P4 Education. P5 Incentives. P6 Notification. P7 Inquiry. P8 Response. REVIEW. R1 Monitoring. R2 Assurance. R3 Improvement. Each is required. None is optional.
 
-Starting Point (| SP) is the context that initiates and shapes the deployment of the cycle. SP0 Blank Canvas. SP1 Topical. SP2 Discipline. SP3 Element. SP4 Crisis. An organization rarely begins from neutral ground. Honest naming of the Starting Point disciplines everything that follows.
+Starting Point (\| SP) is the context that initiates and shapes the deployment of the cycle. SP0 Blank Canvas. SP1 Topical. SP2 Discipline. SP3 Element. SP4 Crisis. An organization rarely begins from neutral ground. Honest naming of the Starting Point disciplines everything that follows.
 
 Universal Outcomes (↑ UO) are the ten overarching aims toward which the program is pulled. U1 Achieve Objectives. U2 Balance Risk and Reward. U3 Improve Culture. U4 Enhance Stakeholder Confidence. U5 Integrate Decision-Making. U6 Prevent Undesired Conduct. U7 Promote Desired Conduct. U8 Sense and Respond. U9 Improve Total Performance. U10 Honor Values. The list is not a menu. A program that produces only one or two outcomes is not capable. It is partial.
 
@@ -116,7 +115,7 @@ Two organizations using the same model produce different programs because they s
 
 Note on attribution. The four components, twenty elements, ten Universal Outcomes and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), which is an open standard. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG. The equation form above is a compression used in this workbook to keep the model accessible.
 
-# **The Three Doctrines**
+# The Three Doctrines
 
 The three doctrines below condition every artificial intelligence augmentation discussed in Part II. They are stated as constraints because their job is to limit choice. An organization that adopts all three has narrowed the field of available conduct in useful ways. An organization that adopts only one has bought optionality without discipline.
 
@@ -138,21 +137,21 @@ Informed Intent requires that any consequential artificial intelligence action b
 
 Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who bears the consequence. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch’s click. Once the record is preserved, the organization cannot unwind backward into denial.
 
-# **Part I. Fundamental Governance, Risk Management and Compliance**
+# Part I. Fundamental Governance, Risk Management and Compliance
 
-Part I unpacks the equation PP ≈ Ω(C | SP) ↑ UO. It treats governance, risk management and compliance as an integrated capability rather than three adjacent departments. The reader who completes Part I will know what Principled Performance is, what the Operational Cycle does, which capabilities are deployed within the cycle, how the Starting Point conditions everything that follows and which Universal Outcomes the entire system must aim at.
+Part I unpacks the equation PP ≈ Ω(C \| SP) ↑ UO. It treats governance, risk management and compliance as an integrated capability rather than three adjacent departments. The reader who completes Part I will know what Principled Performance is, what the Operational Cycle does, which capabilities are deployed within the cycle, how the Starting Point conditions everything that follows and which Universal Outcomes the entire system must aim at.
 
-## **Module 1. The Equation**
+## Module 1. The Equation
 
-*“An equation is not a slogan. It is a compression of an argument into a form one can interrogate.”*
-
-***The watch. ****A mechanical watch is the equation made physical. The mainspring stores energy. The gear train transmits it. The escapement releases it in measured increments. The dial displays the result. PP ≈ Ω(C | SP) ↑ UO compresses the same architecture into algebra. The components named on the page are the components of a precision instrument.*
+> *“An equation is not a slogan. It is a compression of an argument into a form one can interrogate.”*
+>
+> ***The watch.** A mechanical watch is the equation made physical. The mainspring stores energy. The gear train transmits it. The escapement releases it in measured increments. The dial displays the result. PP ≈ Ω(C \| SP) ↑ UO compresses the same architecture into algebra. The components named on the page are the components of a precision instrument.*
 
 **CONCEPT**
 
 Governance, risk management and compliance is most usefully expressed as a single integrated capability rather than three adjacent functions. The OCEG GRC Capability Model 3.5, also known as the Red Book, captures this in four interacting components and twenty discrete elements. The equation used throughout this workbook compresses that model into a workable form.
 
-PP ≈ Ω(C | SP) ↑ UO. Principled Performance is approached through the continuous operation of the GRC Operational Cycle, deploying a defined set of capabilities, conditioned by the organization's Starting Point and guided toward the Universal Outcomes. The equation is not arithmetic. It is a statement of dependence. Change any variable and the result changes.
+PP ≈ Ω(C \| SP) ↑ UO. Principled Performance is approached through the continuous operation of the GRC Operational Cycle, deploying a defined set of capabilities, conditioned by the organization's Starting Point and guided toward the Universal Outcomes. The equation is not arithmetic. It is a statement of dependence. Change any variable and the result changes.
 
 Principled Performance, denoted PP, is the reliable achievement of objectives, the addressing of uncertainty and the act of conducting business with integrity. It is the goal, not a metric. No single dashboard renders it. The equation describes how an organization works toward it.
 
@@ -176,21 +175,25 @@ Most importantly, the equation is a stable reference under change. Regulations c
 
 Begin by locating the organization on each variable in the equation. Brief, candid answers serve better than long ones.
 
-- State the organization's Principled Performance in one sentence. The reliable achievement, the uncertainty addressed and the conduct standard.
+1.  State the organization's Principled Performance in one sentence. The reliable achievement, the uncertainty addressed and the conduct standard.
 
-- Identify whether the four phases of the cycle are present, named and connected by feedback. Note which phase is weakest.
+<!-- -->
 
-- List which of the twenty elements the organization can name and locate today. Note which it cannot.
+1.  Identify whether the four phases of the cycle are present, named and connected by feedback. Note which phase is weakest.
 
-- Name the Starting Point. SP0 Blank Canvas, SP1 Topical, SP2 Discipline, SP3 Element or SP4 Crisis. Justify the choice.
+2.  List which of the twenty elements the organization can name and locate today. Note which it cannot.
 
-- Rank the ten Universal Outcomes in order of current priority for the organization. The ranking is the operating thesis.
+3.  Name the Starting Point. SP0 Blank Canvas, SP1 Topical, SP2 Discipline, SP3 Element or SP4 Crisis. Justify the choice.
 
-- Identify the single variable in the equation most responsible for current weakness. Be specific.
+4.  Rank the ten Universal Outcomes in order of current priority for the organization. The ranking is the operating thesis.
+
+5.  Identify the single variable in the equation most responsible for current weakness. Be specific.
 
 **OUTPUTS**
 
 - One-sentence Principled Performance statement.
+
+<!-- -->
 
 - Element inventory. Twenty entries marked present, partial or absent.
 
@@ -200,11 +203,11 @@ Begin by locating the organization on each variable in the equation. Brief, cand
 
 - Equation diagnosis. The weakest variable and its consequence.
 
-## **Module 2. LEARN. Context, Culture, Stakeholders**
+## Module 2. LEARN. Context, Culture, Stakeholders
 
-*“An organization that cannot describe its environment cannot govern within it.”*
-
-***The watch. ****A watchmaker’s first question is not which controls a watch should have. It is what kind of watch this is to be. Dress, dive, field, pilot, chronograph, marine chronometer and perpetual calendar each impose different design assumptions because each operates in a different environment. LEARN is the disciplined examination of the environment the movement must run in.*
+> *“An organization that cannot describe its environment cannot govern within it.”*
+>
+> ***The watch.** A watchmaker’s first question is not which controls a watch should have. It is what kind of watch this is to be. Dress, dive, field, pilot, chronograph, marine chronometer and perpetual calendar each impose different design assumptions because each operates in a different environment. LEARN is the disciplined examination of the environment the movement must run in.*
 
 **CONCEPT**
 
@@ -240,15 +243,17 @@ A stakeholder map names each party, names what they require, names how they comm
 
 Complete one entry per element. Brevity is permitted. Accuracy is not optional.
 
-- External Context. List the five most consequential external conditions for this organization this quarter. Mark which have changed in the past twelve months.
+1.  External Context. List the five most consequential external conditions for this organization this quarter. Mark which have changed in the past twelve months.
 
-- Internal Context. State the operating model in five sentences. Identify the single largest gap between the diagram and the reality.
+<!-- -->
 
-- Culture. Name three repeatable behaviors that reveal what this organization actually rewards. Cite evidence.
+1.  Internal Context. State the operating model in five sentences. Identify the single largest gap between the diagram and the reality.
 
-- Stakeholders. Identify the stakeholder whose interests are least represented in current decision forums and explain why.
+2.  Culture. Name three repeatable behaviors that reveal what this organization actually rewards. Cite evidence.
 
-- Cadence. State how often each of the above is refreshed and by whom.
+3.  Stakeholders. Identify the stakeholder whose interests are least represented in current decision forums and explain why.
+
+4.  Cadence. State how often each of the above is refreshed and by whom.
 
 **OUTPUTS**
 
@@ -262,11 +267,11 @@ Complete one entry per element. Brevity is permitted. Accuracy is not optional.
 
 - LEARN cadence schedule with owner and trigger conditions.
 
-## **Module 3. ALIGN. Direction, Objectives, Risk and Design**
+## Module 3. ALIGN. Direction, Objectives, Risk and Design
 
-*“Strategy without alignment is wishful thinking that consumes payroll.”*
-
-***The watch. ****Risk appetite is the torque specification of the movement. Too little torque and the watch may not run. Too much and the parts wear, slip or break. ALIGN converts strategic ambition into a torque setting the gear train can carry without distortion.*
+> *“Strategy without alignment is wishful thinking that consumes payroll.”*
+>
+> ***The watch.** Risk appetite is the torque specification of the movement. Too little torque and the watch may not run. Too much and the parts wear, slip or break. ALIGN converts strategic ambition into a torque setting the gear train can carry without distortion.*
 
 **CONCEPT**
 
@@ -308,15 +313,17 @@ Design is documented in advance, not reconstructed afterward. A Design that exis
 
 Use the ALIGN worksheet immediately after the LEARN worksheet. ALIGN cannot be done in the abstract.
 
-- Direction. Write the organization's Direction in three sentences. Test against the three hardest live tradeoffs.
+1.  Direction. Write the organization's Direction in three sentences. Test against the three hardest live tradeoffs.
 
-- Objectives. List the top five corporate Objectives for the current period. For each, state the named owner and the measure.
+<!-- -->
 
-- Identification. List the top ten material uncertainties affecting the Objectives. Mark which are threats, opportunities or both.
+1.  Objectives. List the top five corporate Objectives for the current period. For each, state the named owner and the measure.
 
-- Analysis. For each of the top ten, record likelihood, consequence, velocity and controllability. Note the basis.
+2.  Identification. List the top ten material uncertainties affecting the Objectives. Mark which are threats, opportunities or both.
 
-- Design. For each of the top ten, record the chosen response and the mechanism that implements it. Note the owner.
+3.  Analysis. For each of the top ten, record likelihood, consequence, velocity and controllability. Note the basis.
+
+4.  Design. For each of the top ten, record the chosen response and the mechanism that implements it. Note the owner.
 
 **OUTPUTS**
 
@@ -330,11 +337,11 @@ Use the ALIGN worksheet immediately after the LEARN worksheet. ALIGN cannot be d
 
 - Design table linking each material uncertainty to a response and a mechanism.
 
-## **Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives**
+## Module 4. PERFORM I. Controls, Policies, Communication, Education, Incentives
 
-*“Performance is what happens when the design meets the day.”*
-
-***The watch. ****The gear train transmits energy through interlocking wheels. Controls are the jewels that reduce friction at points of repeated stress. Policies are the technical specification sheet. Education is the apprenticeship that allows the watchmaker to service the instrument. Incentives are the lubrication choice. None of these is decorative. Each is mechanical.*
+> *“Performance is what happens when the design meets the day.”*
+>
+> ***The watch.** The gear train transmits energy through interlocking wheels. Controls are the jewels that reduce friction at points of repeated stress. Policies are the technical specification sheet. Education is the apprenticeship that allows the watchmaker to service the instrument. Incentives are the lubrication choice. None of these is decorative. Each is mechanical.*
 
 **CONCEPT**
 
@@ -376,15 +383,17 @@ A Direction that says safety first and a bonus plan that pays only on shipped un
 
 Each element below requires a concrete artifact. Do not leave any line blank.
 
-- Controls. List the ten most important controls in the organization. Mark each as proactive, detective or responsive. Identify any category absent or thin.
+1.  Controls. List the ten most important controls in the organization. Mark each as proactive, detective or responsive. Identify any category absent or thin.
 
-- Policies. Identify the three most-used policies. Confirm date, version, owner and last review. Flag any that fail.
+<!-- -->
 
-- Communication. Name the three primary channels by which mandatory messages reach the front line. State the confirmation mechanism for each.
+1.  Policies. Identify the three most-used policies. Confirm date, version, owner and last review. Flag any that fail.
 
-- Education. List current mandatory training. State what each program teaches, how it tests and whether it changes behavior. Cite evidence.
+2.  Communication. Name the three primary channels by which mandatory messages reach the front line. State the confirmation mechanism for each.
 
-- Incentives. Identify the three formal incentive structures with the largest effect on conduct. Identify any incentive that contradicts stated Direction.
+3.  Education. List current mandatory training. State what each program teaches, how it tests and whether it changes behavior. Cite evidence.
+
+4.  Incentives. Identify the three formal incentive structures with the largest effect on conduct. Identify any incentive that contradicts stated Direction.
 
 **OUTPUTS**
 
@@ -398,11 +407,11 @@ Each element below requires a concrete artifact. Do not leave any line blank.
 
 - Incentive map with contradiction analysis.
 
-## **Module 5. PERFORM II. Notification, Inquiry, Response**
+## Module 5. PERFORM II. Notification, Inquiry, Response
 
-*“The system that cannot hear bad news fast cannot govern.”*
-
-***The watch. ****Shock protection does not promise the watch will never be dropped. It promises that one drop will not destroy the movement. Notification, Inquiry and Response are the shock-protection assembly of the enterprise.*
+> *“The system that cannot hear bad news fast cannot govern.”*
+>
+> ***The watch.** Shock protection does not promise the watch will never be dropped. It promises that one drop will not destroy the movement. Notification, Inquiry and Response are the shock-protection assembly of the enterprise.*
 
 **CONCEPT**
 
@@ -432,15 +441,17 @@ Response is consistent across position. An organization that disciplines junior 
 
 These elements are most usefully audited against actual incidents. Use the most recent twelve months as the test window.
 
-- Notification. List all live channels and last twelve months of intake volume. Estimate the gap between actual concerns and reported concerns. Cite evidence.
+1.  Notification. List all live channels and last twelve months of intake volume. Estimate the gap between actual concerns and reported concerns. Cite evidence.
 
-- Inquiry. Select two recent inquiries. Confirm scope, independence, evidence preservation, documentation and conclusion. Identify any deficiency.
+<!-- -->
 
-- Response. For those two inquiries, document the remedial, disciplinary, corrective and disclosure outcomes. Test consistency against comparable past incidents.
+1.  Inquiry. Select two recent inquiries. Confirm scope, independence, evidence preservation, documentation and conclusion. Identify any deficiency.
 
-- Protection. Confirm the protections available to reporters and whether any retaliation claims have arisen in the past twelve months.
+2.  Response. For those two inquiries, document the remedial, disciplinary, corrective and disclosure outcomes. Test consistency against comparable past incidents.
 
-- Learning loop. Identify the change made in LEARN, ALIGN or PERFORM I as a result of these inquiries.
+3.  Protection. Confirm the protections available to reporters and whether any retaliation claims have arisen in the past twelve months.
+
+4.  Learning loop. Identify the change made in LEARN, ALIGN or PERFORM I as a result of these inquiries.
 
 **OUTPUTS**
 
@@ -454,11 +465,11 @@ These elements are most usefully audited against actual incidents. Use the most 
 
 - Loop-closure entries connecting Response to upstream changes.
 
-## **Module 6. REVIEW. Monitoring, Assurance, Improvement**
+## Module 6. REVIEW. Monitoring, Assurance, Improvement
 
-*“What is not reviewed is not governed. It is merely operated.”*
-
-***The watch. ****Even excellent movements drift. Regulation in watchmaking is the calibration of the watch against an external time reference, performed periodically and after impact. REVIEW is regulation. It does not ask whether the organization once built a good mechanism. It asks whether the organization is still telling time.*
+> *“What is not reviewed is not governed. It is merely operated.”*
+>
+> ***The watch.** Even excellent movements drift. Regulation in watchmaking is the calibration of the watch against an external time reference, performed periodically and after impact. REVIEW is regulation. It does not ask whether the organization once built a good mechanism. It asks whether the organization is still telling time.*
 
 **CONCEPT**
 
@@ -490,15 +501,17 @@ Improvement is tracked through corrective and preventive action plans with named
 
 REVIEW is the most useful place to begin honesty. Complete the worksheet without smoothing.
 
-- Monitoring. List the five most important indicators the organization watches. Identify which would have caught the most recent material incident in advance.
+1.  Monitoring. List the five most important indicators the organization watches. Identify which would have caught the most recent material incident in advance.
 
-- Assurance. Produce an assurance map. Sources, scopes, cadences. Identify gaps and unintended overlaps.
+<!-- -->
 
-- Improvement. Examine the last twenty corrective and preventive action items closed. Test for verification of effect. State the rate.
+1.  Assurance. Produce an assurance map. Sources, scopes, cadences. Identify gaps and unintended overlaps.
 
-- Independence. Confirm the reporting line for the internal audit function. Identify any compromise.
+2.  Improvement. Examine the last twenty corrective and preventive action items closed. Test for verification of effect. State the rate.
 
-- Feedback. Trace one recent REVIEW finding all the way back to a documented change in LEARN, ALIGN or PERFORM.
+3.  Independence. Confirm the reporting line for the internal audit function. Identify any compromise.
+
+4.  Feedback. Trace one recent REVIEW finding all the way back to a documented change in LEARN, ALIGN or PERFORM.
 
 **OUTPUTS**
 
@@ -512,11 +525,11 @@ REVIEW is the most useful place to begin honesty. Complete the worksheet without
 
 - Feedback-loop trace document.
 
-## **Module 7. Starting Point and Universal Outcomes**
+## Module 7. Starting Point and Universal Outcomes
 
-*“Two organizations using the same model arrive at very different programs. The difference is the Starting Point and the outcome the program is pulled toward.”*
-
-***The watch. ****A dress watch and a dive watch are both watches. They cannot be designed from the same starting assumptions because they exist for different purposes and operate in different conditions. The Starting Point names what kind of watch is being built. The Universal Outcomes name the use to which it will be put.*
+> *“Two organizations using the same model arrive at very different programs. The difference is the Starting Point and the outcome the program is pulled toward.”*
+>
+> ***The watch.** A dress watch and a dive watch are both watches. They cannot be designed from the same starting assumptions because they exist for different purposes and operate in different conditions. The Starting Point names what kind of watch is being built. The Universal Outcomes name the use to which it will be put.*
 
 **CONCEPT**
 
@@ -538,15 +551,17 @@ Together, Starting Point and Universal Outcomes are the conditions under which t
 
 Complete both halves. The two together produce the program's design thesis.
 
-- Declare the Starting Point. SP0, SP1, SP2, SP3 or SP4. Justify the choice with concrete evidence.
+1.  Declare the Starting Point. SP0, SP1, SP2, SP3 or SP4. Justify the choice with concrete evidence.
 
-- Identify the political residue of the chosen Starting Point. Who funded the program, who is invested in its current shape and what that constrains.
+<!-- -->
 
-- Rank the ten Universal Outcomes in current operating priority for the organization. State the basis.
+1.  Identify the political residue of the chosen Starting Point. Who funded the program, who is invested in its current shape and what that constrains.
 
-- Identify which two Outcomes have moved most in priority over the past two years and why.
+2.  Rank the ten Universal Outcomes in current operating priority for the organization. State the basis.
 
-- Identify which single Outcome is most at risk of being neglected under current resourcing. Note the consequence.
+3.  Identify which two Outcomes have moved most in priority over the past two years and why.
+
+4.  Identify which single Outcome is most at risk of being neglected under current resourcing. Note the consequence.
 
 **OUTPUTS**
 
@@ -560,11 +575,11 @@ Complete both halves. The two together produce the program's design thesis.
 
 - Outcome risk note with mitigation owner.
 
-## **Module 8. The Watch as Illustration**
+## Module 8. The Watch as Illustration
 
-*“A metaphor is a thinking aid, not a thesis. It earns its place by clarifying.”*
-
-***The watch. ****This module is the metaphor itself. The mechanical watch is held alongside the GRC capability not as a model of it, but as a picture against which the model can be inspected. Where the picture clarifies, it is used. Where it obscures, it is dropped.*
+> *“A metaphor is a thinking aid, not a thesis. It earns its place by clarifying.”*
+>
+> ***The watch.** This module is the metaphor itself. The mechanical watch is held alongside the GRC capability not as a model of it, but as a picture against which the model can be inspected. Where the picture clarifies, it is used. Where it obscures, it is dropped.*
 
 **CONCEPT**
 
@@ -620,17 +635,19 @@ The metaphor has limits worth naming. A watch is closed. A modern enterprise is 
 
 The metaphor is a thinking aid. Use it where it sharpens thinking and let it fall away where it does not.
 
-- Identify the single element of the model whose function becomes clearer under the watch metaphor for your team. Name the element and the analogue.
+1.  Identify the single element of the model whose function becomes clearer under the watch metaphor for your team. Name the element and the analogue.
 
-- Identify one element where the watch metaphor obscures rather than clarifies. State the obstruction.
+<!-- -->
 
-- Use the dial-and-hands analogue to test the organization's current public reporting. Does the dial show the user only what is needed, accurately, in real time.
+1.  Identify one element where the watch metaphor obscures rather than clarifies. State the obstruction.
 
-- Use the service-interval analogue to test the organization's REVIEW cadence. Is service performed before deviation, or only after.
+2.  Use the dial-and-hands analogue to test the organization's current public reporting. Does the dial show the user only what is needed, accurately, in real time.
 
-- Identify the organization’s escapement. Is release calibrated by risk, or is every action treated as the same tier?
+3.  Use the service-interval analogue to test the organization's REVIEW cadence. Is service performed before deviation, or only after.
 
-- Identify the organization’s hairspring. Name three documented occasions where culture restored behavior to center under pressure.
+4.  Identify the organization’s escapement. Is release calibrated by risk, or is every action treated as the same tier?
+
+5.  Identify the organization’s hairspring. Name three documented occasions where culture restored behavior to center under pressure.
 
 **OUTPUTS**
 
@@ -640,17 +657,17 @@ The metaphor is a thinking aid. Use it where it sharpens thinking and let it fal
 
 - Service interval calendar. Capability, last service, next service, owner.
 
-# **Part II. Augmenting the Capability with Artificial Intelligence**
+# Part II. Augmenting the Capability with Artificial Intelligence
 
-Part II turns to the augmentation of the integrated capability with artificial intelligence. The same equation governs. PP ≈ Ω(C | SP) ↑ UO. The integration of artificial intelligence does not alter the equation. It changes the way capabilities are deployed within it. Part II frames that integration through three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI. Informed Intent. Final Liability.
+Part II turns to the augmentation of the integrated capability with artificial intelligence. The same equation governs. PP ≈ Ω(C \| SP) ↑ UO. The integration of artificial intelligence does not alter the equation. It changes the way capabilities are deployed within it. Part II frames that integration through three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI. Informed Intent. Final Liability.
 
 Prompt or agent, one rule. **Human-Made, for Easy Work, Simply Done.** Grounded in the workflow. Built to make it easier. Easy to maintain, operate and fix.
 
-## **Module 9. Slow AI Inside the Cycle**
+## Module 9. Slow AI Inside the Cycle
 
-*“Speed without discipline is just faster malpractice.”*
-
-***The watch. ****The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence. It is not opposition to speed. It is the disciplined release of power.*
+> *“Speed without discipline is just faster malpractice.”*
+>
+> ***The watch.** The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence. It is not opposition to speed. It is the disciplined release of power.*
 
 **CONCEPT**
 
@@ -674,15 +691,17 @@ Slow AI Kitchen is the operating method that implements the doctrine at the task
 
 Slow AI is a written discipline. Verbal commitments do not satisfy it.
 
-- Define the tier scale used in your organization. Six entries is a reasonable target. State what each tier permits and what it forbids.
+1.  Define the tier scale used in your organization. Six entries is a reasonable target. State what each tier permits and what it forbids.
 
-- For every live artificial intelligence use case, place the current tier and the proposed next tier on the record. List the gating evidence required to move.
+<!-- -->
 
-- Identify the independent reviewer of tier movement. State the reporting line.
+1.  For every live artificial intelligence use case, place the current tier and the proposed next tier on the record. List the gating evidence required to move.
 
-- Define retraction triggers. State the threshold for involuntary downgrade and the named decision-maker.
+2.  Identify the independent reviewer of tier movement. State the reporting line.
 
-- Map the tier scale to each of the four phases of the cycle. Identify any phase in which the scale does not yet apply.
+3.  Define retraction triggers. State the threshold for involuntary downgrade and the named decision-maker.
+
+4.  Map the tier scale to each of the four phases of the cycle. Identify any phase in which the scale does not yet apply.
 
 **OUTPUTS**
 
@@ -696,11 +715,11 @@ Slow AI is a written discipline. Verbal commitments do not satisfy it.
 
 - Cycle-phase tier map.
 
-## **Module 10. Informed Intent as a Five-Condition Gate**
+## Module 10. Informed Intent as a Five-Condition Gate
 
-*“A signature without knowledge is administrative. A signature without time is reflexive. Both produce the same harm.”*
-
-***The watch. ****The crown winds the movement and sets the hands. It is small. It is also the authority interface. Anyone who turns the crown changes the watch. Informed Intent is the discipline that asks, before any consequential action: was the crown turned by someone who knew what was being set?*
+> *“A signature without knowledge is administrative. A signature without time is reflexive. Both produce the same harm.”*
+>
+> ***The watch.** The crown winds the movement and sets the hands. It is small. It is also the authority interface. Anyone who turns the crown changes the watch. Informed Intent is the discipline that asks, before any consequential action: was the crown turned by someone who knew what was being set?*
 
 **CONCEPT**
 
@@ -726,17 +745,19 @@ The five conditions are tested at the level of the action, not the level of the 
 
 Use a single artificial intelligence authorization in the organization as the test case. Run the five conditions against it.
 
-- Knowledge. State what the authorizing human is required to know in order to authorize. Confirm whether that knowledge is documented.
+1.  Knowledge. State what the authorizing human is required to know in order to authorize. Confirm whether that knowledge is documented.
 
-- Evidence. List the evidence available at the moment of authorization. Confirm whether dissenting views and alternatives considered are included.
+<!-- -->
 
-- Authority. Confirm that the authorizing human has the documented institutional power to bind the organization to the action.
+1.  Evidence. List the evidence available at the moment of authorization. Confirm whether dissenting views and alternatives considered are included.
 
-- Time. Record the time elapsed between availability of material and the signature. Confirm whether the time is realistic for the action.
+2.  Authority. Confirm that the authorizing human has the documented institutional power to bind the organization to the action.
 
-- Permission. Confirm that refusal is available without retaliation. Identify any retaliation evidence in adjacent decisions.
+3.  Time. Record the time elapsed between availability of material and the signature. Confirm whether the time is realistic for the action.
 
-- Per-action audit. Identify any authorization in the organization where one or more of the five conditions is currently absent. State the consequence.
+4.  Permission. Confirm that refusal is available without retaliation. Identify any retaliation evidence in adjacent decisions.
+
+5.  Per-action audit. Identify any authorization in the organization where one or more of the five conditions is currently absent. State the consequence.
 
 **OUTPUTS**
 
@@ -750,11 +771,11 @@ Use a single artificial intelligence authorization in the organization as the te
 
 - Refusal cases catalog confirming Permission condition.
 
-## **Module 11. Final Liability and the Evidence Pack**
+## Module 11. Final Liability and the Evidence Pack
 
-*“The artificial intelligence carries no consequence. The named human does. The system is designed around that fact.”*
-
-***The watch. ****The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. A named human carries the consequence only when the record is preserved.*
+> *“The artificial intelligence carries no consequence. The named human does. The system is designed around that fact.”*
+>
+> ***The watch.** The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. A named human carries the consequence only when the record is preserved.*
 
 **CONCEPT**
 
@@ -776,15 +797,17 @@ Across the OCEG cycle, the doctrine produces specific artifacts. In LEARN, named
 
 Final Liability is verified by walking the organization's most consequential artificial intelligence action and asking the three questions in sequence.
 
-- Named human. Identify the human currently named on the most consequential live artificial intelligence action. Confirm authority and alternate.
+1.  Named human. Identify the human currently named on the most consequential live artificial intelligence action. Confirm authority and alternate.
 
-- Evidence pack. Locate the pack. Verify the system description, the inputs and outputs, the residual risk statement, the alternatives considered and the authorization record.
+<!-- -->
 
-- Corrective and preventive action capacity. Identify the team, the budget and the escalation route that would respond to the failure mode. Confirm capacity.
+1.  Evidence pack. Locate the pack. Verify the system description, the inputs and outputs, the residual risk statement, the alternatives considered and the authorization record.
 
-- Coverage. Repeat the three questions for every artificial intelligence use case at Tier 2 or higher under your Slow AI scale. Note any gaps.
+2.  Corrective and preventive action capacity. Identify the team, the budget and the escalation route that would respond to the failure mode. Confirm capacity.
 
-- Continuity. Confirm that the named human survives staff turnover. Identify any single-person dependencies.
+3.  Coverage. Repeat the three questions for every artificial intelligence use case at Tier 2 or higher under your Slow AI scale. Note any gaps.
+
+4.  Continuity. Confirm that the named human survives staff turnover. Identify any single-person dependencies.
 
 **OUTPUTS**
 
@@ -798,11 +821,11 @@ Final Liability is verified by walking the organization's most consequential art
 
 - Continuity register.
 
-## **Module 12. Augmentation by Cycle Phase**
+## Module 12. Augmentation by Cycle Phase
 
-*“Artificial intelligence does different work in different phases. The discipline differs accordingly.”*
-
-***The watch. ****Artificial intelligence in the GRC capability is the automatic winding rotor. It changes the energy profile of the watch. Self-winding watches did not change what timekeeping is. They changed how the mainspring is loaded and at what rate. The escapement, the balance and the regulation matter more, not less, once winding becomes automatic.*
+> *“Artificial intelligence does different work in different phases. The discipline differs accordingly.”*
+>
+> ***The watch.** Artificial intelligence in the GRC capability is the automatic winding rotor. It changes the energy profile of the watch. Self-winding watches did not change what timekeeping is. They changed how the mainspring is loaded and at what rate. The escapement, the balance and the regulation matter more, not less, once winding becomes automatic.*
 
 **CONCEPT**
 
@@ -822,40 +845,42 @@ The table at the end of this module provides a per-element view. The reader is e
 
 **AUGMENTATION TABLE BY ELEMENT**
 
-| **Element** | **Augmentation pattern** | **Doctrinal constraint** |
-| --- | --- | --- |
-| **L1. External Context** | Regulatory horizon scanning, market synthesis, signal aggregation. | Slow AI tier 1-2. Citations verifiable. Source documents reviewed by named human. |
-| **L2. Internal Context** | Document synthesis, org-chart reconciliation, contract analysis. | Informed Intent. Privileged material excluded or contained. Named human on output. |
-| **L3. Culture** | Sentiment analysis of internal communications, exception pattern detection. | Slow AI tier 1. No employee surveillance. Cultural reading remains human. |
-| **L4. Stakeholders** | Stakeholder mapping, requirement extraction, channel monitoring. | Final Liability. Named human owns map. No automated stakeholder action. |
-| **A1. Direction** | Scenario generation, strategic option synthesis. | Slow AI tier 2. Recommendation only. Decision human. |
-| **A2. Objectives** | Measure design support, OKR drafting, indicator suggestion. | Informed Intent. Human authority over Objective adoption. |
-| **A3. Identification** | Risk surfacing, scenario expansion, near-miss aggregation. | Slow AI tier 2-3. Bias audit on identification set required. |
-| **A4. Analysis** | Likelihood estimation, consequence modeling, velocity assessment. | Informed Intent. Confidence and basis recorded with every estimate. |
-| **A5. Design** | Response option generation, control library mapping. | Final Liability. Named human on every Design record. |
-| **P1. Controls** | Control authoring support, exception triage, monitoring automation. | Slow AI tier 3-4 depending on control criticality. Human-in-the-loop on responsive controls. |
-| **P2. Policies** | Policy drafting, harmonization, plain-language rewriting. | Informed Intent. Policy adoption signed by named human with authority. |
-| **P3. Communication** | Message drafting, channel optimization, confirmation tracking. | Slow AI tier 2. No autonomous broadcast on policy. |
-| **P4. Education** | Curriculum drafting, assessment generation, personalized tutoring. | Slow AI tier 2-3. Human-led for high-judgment content. |
-| **P5. Incentives** | Incentive modeling, contradiction detection, simulation of behavior. | Informed Intent. No autonomous change to compensation logic. |
-| **P6. Notification** | Intake triage, signal clustering, urgency scoring. | Slow AI tier 2. Retaliation risk audit applied to artificial intelligence used in intake. |
-| **P7. Inquiry** | Evidence aggregation, timeline construction, interview transcript analysis. | Informed Intent. Conclusions remain human. Bias audit required. |
-| **P8. Response** | Remedial option generation, disclosure drafting, consistency check. | Final Liability. Disciplinary and disclosure decisions human. |
-| **R1. Monitoring** | Indicator aggregation, anomaly detection, threshold testing. | Slow AI tier 3-4. Threshold change requires named human. |
-| **R2. Assurance** | Evidence sampling, finding drafting, control walkthrough support. | Informed Intent. Assurance independence preserved. No self-review. |
-| **R3. Improvement** | Root cause analysis, corrective option generation, verification tracking. | Final Liability. Corrective and preventive action closure verified by named human. |
+| **Element**              | **Augmentation pattern**                                                    | **Doctrinal constraint**                                                                     |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **L1. External Context** | Regulatory horizon scanning, market synthesis, signal aggregation.          | Slow AI tier 1-2. Citations verifiable. Source documents reviewed by named human.            |
+| **L2. Internal Context** | Document synthesis, org-chart reconciliation, contract analysis.            | Informed Intent. Privileged material excluded or contained. Named human on output.           |
+| **L3. Culture**          | Sentiment analysis of internal communications, exception pattern detection. | Slow AI tier 1. No employee surveillance. Cultural reading remains human.                    |
+| **L4. Stakeholders**     | Stakeholder mapping, requirement extraction, channel monitoring.            | Final Liability. Named human owns map. No automated stakeholder action.                      |
+| **A1. Direction**        | Scenario generation, strategic option synthesis.                            | Slow AI tier 2. Recommendation only. Decision human.                                         |
+| **A2. Objectives**       | Measure design support, OKR drafting, indicator suggestion.                 | Informed Intent. Human authority over Objective adoption.                                    |
+| **A3. Identification**   | Risk surfacing, scenario expansion, near-miss aggregation.                  | Slow AI tier 2-3. Bias audit on identification set required.                                 |
+| **A4. Analysis**         | Likelihood estimation, consequence modeling, velocity assessment.           | Informed Intent. Confidence and basis recorded with every estimate.                          |
+| **A5. Design**           | Response option generation, control library mapping.                        | Final Liability. Named human on every Design record.                                         |
+| **P1. Controls**         | Control authoring support, exception triage, monitoring automation.         | Slow AI tier 3-4 depending on control criticality. Human-in-the-loop on responsive controls. |
+| **P2. Policies**         | Policy drafting, harmonization, plain-language rewriting.                   | Informed Intent. Policy adoption signed by named human with authority.                       |
+| **P3. Communication**    | Message drafting, channel optimization, confirmation tracking.              | Slow AI tier 2. No autonomous broadcast on policy.                                           |
+| **P4. Education**        | Curriculum drafting, assessment generation, personalized tutoring.          | Slow AI tier 2-3. Human-led for high-judgment content.                                       |
+| **P5. Incentives**       | Incentive modeling, contradiction detection, simulation of behavior.        | Informed Intent. No autonomous change to compensation logic.                                 |
+| **P6. Notification**     | Intake triage, signal clustering, urgency scoring.                          | Slow AI tier 2. Retaliation risk audit applied to artificial intelligence used in intake.    |
+| **P7. Inquiry**          | Evidence aggregation, timeline construction, interview transcript analysis. | Informed Intent. Conclusions remain human. Bias audit required.                              |
+| **P8. Response**         | Remedial option generation, disclosure drafting, consistency check.         | Final Liability. Disciplinary and disclosure decisions human.                                |
+| **R1. Monitoring**       | Indicator aggregation, anomaly detection, threshold testing.                | Slow AI tier 3-4. Threshold change requires named human.                                     |
+| **R2. Assurance**        | Evidence sampling, finding drafting, control walkthrough support.           | Informed Intent. Assurance independence preserved. No self-review.                           |
+| **R3. Improvement**      | Root cause analysis, corrective option generation, verification tracking.   | Final Liability. Corrective and preventive action closure verified by named human.           |
 
 **WORKSHEET**
 
 Populate the right two columns of the table above for your organization. Note any element where the augmentation pattern is currently absent or undisciplined.
 
-- For each of the four phases, identify the single highest-value augmentation underway.
+1.  For each of the four phases, identify the single highest-value augmentation underway.
 
-- For each, identify the single highest-risk augmentation underway.
+<!-- -->
 
-- For each, identify the doctrinal constraint that is least well observed.
+1.  For each, identify the single highest-risk augmentation underway.
 
-- Identify the element where artificial intelligence has effectively replaced human judgment. Note whether this is intentional and authorized.
+2.  For each, identify the doctrinal constraint that is least well observed.
+
+3.  Identify the element where artificial intelligence has effectively replaced human judgment. Note whether this is intentional and authorized.
 
 **OUTPUTS**
 
@@ -867,11 +892,11 @@ Populate the right two columns of the table above for your organization. Note an
 
 - Replacement audit flagging any unintended substitution.
 
-## **Module 13. Augmentation by Function**
+## Module 13. Augmentation by Function
 
-*“The cycle is the same. The function reads it differently.”*
-
-***The watch. ****A complication is any function beyond basic timekeeping. A date, a chronograph, a moon phase, a perpetual calendar, a tourbillon. Each is layered on the core movement. The movement must still keep time. Legal, Compliance, Risk, Information Security, Privacy and Internal Audit are complications of the GRC capability. Each operates on the same Operational Cycle. Each reads it from a different vantage point.*
+> *“The cycle is the same. The function reads it differently.”*
+>
+> ***The watch.** A complication is any function beyond basic timekeeping. A date, a chronograph, a moon phase, a perpetual calendar, a tourbillon. Each is layered on the core movement. The movement must still keep time. Legal, Compliance, Risk, Information Security, Privacy and Internal Audit are complications of the GRC capability. Each operates on the same Operational Cycle. Each reads it from a different vantage point.*
 
 **CONCEPT**
 
@@ -895,26 +920,28 @@ These functions are commonly grouped under the three lines of defense convention
 
 **AUGMENTATION PATTERNS BY FUNCTION**
 
-| **Function** | **Can do with artificial intelligence** | **Must not do with artificial intelligence** | **Condition** |
-| --- | --- | --- | --- |
-| **Legal** | Contract review draft. Regulatory horizon scan. Litigation timeline. | Privileged content to non-zero-retention systems. Final legal positions unsigned. | Privileged material containment. Named lawyer on every position. |
-| **Compliance** | Obligation mapping. Policy drafting. Training content. Control mapping. | Paraphrased obligations replacing source. Autonomous regulatory disclosure. | Mapping auditable to source. Disclosure signed by named officer. |
-| **Risk** | Identification expansion. Analysis support. Scenario generation. Modeling. | Final quantification on high-consequence exposures. Autonomous appetite change. | Confidence and basis recorded. Quantification reviewed by named human. |
-| **Information Security** | Detection. Triage. Threat modeling. Drafting incident reports. | Autonomous response affecting users or partners. Closed-loop self-assurance. | Bounded autonomy. Human-on-the-loop for material action. |
-| **Privacy** | Impact assessment support. Request triage. Consent log analysis. | Automated individual decision-making without legal basis. Subject profiling for unstated purposes. | Legal basis confirmed. Named privacy owner per assessment. |
-| **Internal Audit** | Population testing. Sample selection. Anomaly detection. Drafting. | Self-review of artificial intelligence by artificial intelligence. Conclusion generation. | Independence preserved. Human auditor conclusion. |
+| **Function**             | **Can do with artificial intelligence**                                    | **Must not do with artificial intelligence**                                                       | **Condition**                                                          |
+|--------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Legal**                | Contract review draft. Regulatory horizon scan. Litigation timeline.       | Privileged content to non-zero-retention systems. Final legal positions unsigned.                  | Privileged material containment. Named lawyer on every position.       |
+| **Compliance**           | Obligation mapping. Policy drafting. Training content. Control mapping.    | Paraphrased obligations replacing source. Autonomous regulatory disclosure.                        | Mapping auditable to source. Disclosure signed by named officer.       |
+| **Risk**                 | Identification expansion. Analysis support. Scenario generation. Modeling. | Final quantification on high-consequence exposures. Autonomous appetite change.                    | Confidence and basis recorded. Quantification reviewed by named human. |
+| **Information Security** | Detection. Triage. Threat modeling. Drafting incident reports.             | Autonomous response affecting users or partners. Closed-loop self-assurance.                       | Bounded autonomy. Human-on-the-loop for material action.               |
+| **Privacy**              | Impact assessment support. Request triage. Consent log analysis.           | Automated individual decision-making without legal basis. Subject profiling for unstated purposes. | Legal basis confirmed. Named privacy owner per assessment.             |
+| **Internal Audit**       | Population testing. Sample selection. Anomaly detection. Drafting.         | Self-review of artificial intelligence by artificial intelligence. Conclusion generation.          | Independence preserved. Human auditor conclusion.                      |
 
 **WORKSHEET**
 
 Populate the table for your organization. The constraint column is the one most often left implicit and most often the source of failure.
 
-- For each function, name the lead and confirm their Final Liability artifact set.
+1.  For each function, name the lead and confirm their Final Liability artifact set.
 
-- For each function, identify the artificial intelligence currently in use and the tier under the Slow AI scale.
+<!-- -->
 
-- For each function, audit Informed Intent at the authorization points.
+1.  For each function, identify the artificial intelligence currently in use and the tier under the Slow AI scale.
 
-- Identify any function in which artificial intelligence is in use without explicit doctrinal constraints.
+2.  For each function, audit Informed Intent at the authorization points.
+
+3.  Identify any function in which artificial intelligence is in use without explicit doctrinal constraints.
 
 **OUTPUTS**
 
@@ -926,15 +953,15 @@ Populate the table for your organization. The constraint column is the one most 
 
 - Constraint-gap list per function.
 
-# **Part III. Governing Artificial Intelligence as a System**
+# Part III. Governing Artificial Intelligence as a System
 
-Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen, audited and improved within the same Operational Cycle. The same equation, PP ≈ Ω(C | SP) ↑ UO, governs. The unit of analysis is the AI system rather than the organization, but the elements and outcomes are the same.
+Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen, audited and improved within the same Operational Cycle. The same equation, PP ≈ Ω(C \| SP) ↑ UO, governs. The unit of analysis is the AI system rather than the organization, but the elements and outcomes are the same.
 
-## **Module 14. AI Inventory and Classification**
+## Module 14. AI Inventory and Classification
 
-*“What is not inventoried cannot be governed. What is not classified cannot be tiered.”*
-
-***The watch. ****The service log records every adjustment, replacement and certification a watch has received. A movement without a service history is a movement no one can be accountable for. An AI inventory is the service log of the AI estate.*
+> *“What is not inventoried cannot be governed. What is not classified cannot be tiered.”*
+>
+> ***The watch.** The service log records every adjustment, replacement and certification a watch has received. A movement without a service history is a movement no one can be accountable for. An AI inventory is the service log of the AI estate.*
 
 **CONCEPT**
 
@@ -956,15 +983,17 @@ The inventory and classification are reviewed on a defined cadence and on the oc
 
 Begin the inventory immediately, even if incomplete. An incomplete inventory beats no inventory.
 
-- Build the inventory header. Define every required field. Name, owner, purpose, data, lineage, third parties, Final Liability holder, deployment date, change history.
+1.  Build the inventory header. Define every required field. Name, owner, purpose, data, lineage, third parties, Final Liability holder, deployment date, change history.
 
-- Enter every known live AI system. Include shadow AI flagged as such.
+<!-- -->
 
-- Classify each entry against every applicable regime in every jurisdiction in which the organization develops, deploys or touches affected parties with the system. The method is the same across jurisdictions. The rules vary. Record the applicable instruments and any uncertainty where present.
+1.  Enter every known live AI system. Include shadow AI flagged as such.
 
-- Classify each entry under internal consequence. Define your tiers and apply them.
+2.  Classify each entry against every applicable regime in every jurisdiction in which the organization develops, deploys or touches affected parties with the system. The method is the same across jurisdictions. The rules vary. Record the applicable instruments and any uncertainty where present.
 
-- Define the review cadence and the triggering events for re-classification.
+3.  Classify each entry under internal consequence. Define your tiers and apply them.
+
+4.  Define the review cadence and the triggering events for re-classification.
 
 **OUTPUTS**
 
@@ -978,11 +1007,25 @@ Begin the inventory immediately, even if incomplete. An incomplete inventory bea
 
 - Review cadence and trigger list.
 
-## **Module 15. Human Oversight as Capability, Not Compliance**
+**WORKED EXAMPLE**
 
-*“Oversight is the balance assembly of the system. A sticker on the case that reads oversight is not oversight.”*
+The method above is jurisdiction-agnostic. The European Union supplies a concrete instance worth working in full because each of its moving parts exercises one of the three doctrines. In May 2026 the European Commission published draft guidelines for classifying high-risk AI systems under Article 6 of the AI Act. The guidelines are interpretive and not binding. Only the Court of Justice gives an authoritative reading. They decide whether the obligations attach, not whether a system is safe. They are the gate, not the destination.
 
-***The watch. ****Human oversight is the balance assembly. The balance wheel oscillates. The hairspring restores it to center. The pallet fork engages the escape wheel. Each component is mechanically connected, and the system regulates the watch by interaction. A sticker on the case that reads oversight is not oversight. The balance assembly must oscillate.*
+Article 6 runs along two pathways. The first covers an AI system that is a safety component of a regulated product, or is itself such a product, where that product must undergo third-party conformity assessment. The second covers the listed use cases. Every entry in the inventory is tested against both.
+
+Informed Intent governs the first reading. Article 6 turns on intended purpose, and the Commission reads intent from the provider’s own materials. A system presented as broadly capable, without consistent and concrete limits on high-risk use, is deemed to be intended for those uses and is classified high-risk. A disclaimer in the terms of service does not cure a presentation that promotes the use. Intent is real only when it is expressed clearly, concretely and coherently across every document. The classification turns on what the organization said it built, so the inventory records the intended purpose as expressed across all materials rather than as privately understood.
+
+Final Liability governs the second reading. Intent does not shield the provider. A system built only for efficiency or comfort is still a safety component if its failure could endanger health or safety. The Commission’s own illustrations are combustion-efficiency control that could cause a fire, lift-door timing that could injure and lane assistance that could steer into a collision. Consequence governs, not the label. Liability also migrates. A distributor, importer or deployer that puts its name on a system, modifies it substantially or repurposes it into a high-risk use inherits the provider’s obligations. The named human is whoever last shaped purpose or presentation. A lighter conformity route does not lower the classification, because procedure does not dissolve accountability.
+
+Slow AI governs the timing. The guidance hands the careful operator a failure-mode vocabulary. Incorrect outputs, loss of function, performance instability and drift, latency errors and misclassification that drives a hazardous decision, each judged in the product context rather than in the abstract. Classification is fast. Understanding how the system fails is slow, and it is the work that follows the gate. The European timetable rewards the deliberate, deferring the substantive obligations for the listed use cases and the regulated products by a period of years after classification, with a later backstop for public authorities, and a system loses its grandfathered status the moment it undergoes a significant design change. Because those application dates have been legislated, deferred and revised, this example does not pin to any of them; the operator should confirm the current schedule against the primary source. The dates do not move with the technical standards, which remain unfinished, so the inventory and the failure analysis begin now.
+
+Worked into the inventory, the European instance fills the fields the module already requires. The applicable pathway, Article 6(1) for the product-safety route or Article 6(2) for a listed use case. The intended purpose as expressed across all materials. The failure modes that could create a safety hazard. The conformity route and the entry-into-application date. The named human who carries Final Liability. The method does not change at the border. The regime supplies the rules and the doctrines supply the discipline for reading them.
+
+## Module 15. Human Oversight as Capability, Not Compliance
+
+> *“Oversight is the balance assembly of the system. A sticker on the case that reads oversight is not oversight.”*
+>
+> ***The watch.** Human oversight is the balance assembly. The balance wheel oscillates. The hairspring restores it to center. The pallet fork engages the escape wheel. Each component is mechanically connected, and the system regulates the watch by interaction. A sticker on the case that reads oversight is not oversight. The balance assembly must oscillate.*
 
 **CONCEPT**
 
@@ -1008,15 +1051,17 @@ The balance assembly is what allows the named human to function. The balance whe
 
 Walk a real oversight role in your organization and confirm each property.
 
-- Knowledge. Identify the oversight human for a Tier 3 or higher AI system. Confirm and document what they know about the system. Identify gaps.
+1.  Knowledge. Identify the oversight human for a Tier 3 or higher AI system. Confirm and document what they know about the system. Identify gaps.
 
-- Authority. Confirm in writing the actions the oversight human can take. Pause, restrict, escalate, retract. Verify the authority is recognized by the system itself.
+<!-- -->
 
-- Time and information. Sample one week of the information presented to the oversight human. Confirm volume, salience and form are workable.
+1.  Authority. Confirm in writing the actions the oversight human can take. Pause, restrict, escalate, retract. Verify the authority is recognized by the system itself.
 
-- Calibration. Verify that oversight depth scales with system consequence. Flag any inversion.
+2.  Time and information. Sample one week of the information presented to the oversight human. Confirm volume, salience and form are workable.
 
-- Effectiveness. Identify any oversight intervention in the past twelve months. If none, identify why.
+3.  Calibration. Verify that oversight depth scales with system consequence. Flag any inversion.
+
+4.  Effectiveness. Identify any oversight intervention in the past twelve months. If none, identify why.
 
 **OUTPUTS**
 
@@ -1030,11 +1075,11 @@ Walk a real oversight role in your organization and confirm each property.
 
 - Effectiveness log of interventions.
 
-## **Module 16. Agentic AI as Self-Moving Complication**
+## Module 16. Agentic AI as Self-Moving Complication
 
-*“An agent is a system that takes action. A governance regime that treated chatbots is not a regime that governs agents.”*
-
-***The watch. ****A tourbillon rotates the balance assembly to average out positional error. It is impressive. It is also famously brittle if the rest of the movement is not sound. An agent is a self-moving complication. The temptation is to admire the tourbillon. The discipline is to ensure the case, the crown, the mainspring, the click and the regulation are all rated for what the tourbillon now allows.*
+> *“An agent is a system that takes action. A governance regime that treated chatbots is not a regime that governs agents.”*
+>
+> ***The watch.** A tourbillon rotates the balance assembly to average out positional error. It is impressive. It is also famously brittle if the rest of the movement is not sound. An agent is a self-moving complication. The temptation is to admire the tourbillon. The discipline is to ensure the case, the crown, the mainspring, the click and the regulation are all rated for what the tourbillon now allows.*
 
 **CONCEPT**
 
@@ -1058,15 +1103,17 @@ Informed Intent applies at scope expansion. Each expansion of agent scope is an 
 
 Inventory every live agentic deployment. The unit of analysis is the agent, not the use case.
 
-- Bounded scope. For each agent, document the action set, the prohibitions and the enforcement mechanism.
+1.  Bounded scope. For each agent, document the action set, the prohibitions and the enforcement mechanism.
 
-- Reversibility. For each agent, classify each action as reversible or not. Confirm human authorization on the irreversible set.
+<!-- -->
 
-- Switches. For each agent, identify and test the pre-authorized moves. Document the test.
+1.  Reversibility. For each agent, classify each action as reversible or not. Confirm human authorization on the irreversible set.
 
-- Final Liability. Confirm the named human, the evidence pack design and the corrective and preventive action capacity for each agent.
+2.  Switches. For each agent, identify and test the pre-authorized moves. Document the test.
 
-- Scope expansion log. Identify any expansion in the past six months. Confirm that each ran the Informed Intent five-condition gate.
+3.  Final Liability. Confirm the named human, the evidence pack design and the corrective and preventive action capacity for each agent.
+
+4.  Scope expansion log. Identify any expansion in the past six months. Confirm that each ran the Informed Intent five-condition gate.
 
 **OUTPUTS**
 
@@ -1080,11 +1127,11 @@ Inventory every live agentic deployment. The unit of analysis is the agent, not 
 
 - Scope expansion log with gate evidence.
 
-## **Module 17. Audit and Assurance of AI Systems**
+## Module 17. Audit and Assurance of AI Systems
 
-*“Assurance over artificial intelligence is the discipline of testing what cannot be opened to ordinary inspection.”*
-
-***The watch. ****An open caseback shows the movement. Auditability requires that the mechanism be visible to a competent observer at appropriate times. Compliance is chronometer certification. It is proof that the watch met defined standards under defined conditions. Certification is not the watch. It is evidence about the watch.*
+> *“Assurance over artificial intelligence is the discipline of testing what cannot be opened to ordinary inspection.”*
+>
+> ***The watch.** An open caseback shows the movement. Auditability requires that the mechanism be visible to a competent observer at appropriate times. Compliance is chronometer certification. It is proof that the watch met defined standards under defined conditions. Certification is not the watch. It is evidence about the watch.*
 
 **CONCEPT**
 
@@ -1108,15 +1155,17 @@ Sector certification, third-party audit and customer audit are additional layers
 
 Build the AI audit plan against the inventory.
 
-- Scope. Identify every AI system above the internal consequence threshold. Define the per-system audit scope.
+1.  Scope. Identify every AI system above the internal consequence threshold. Define the per-system audit scope.
 
-- Evidence. For each system, identify the four evidence layers and any layer currently absent.
+<!-- -->
 
-- Independence. Confirm the audit function's reporting line and access.
+1.  Evidence. For each system, identify the four evidence layers and any layer currently absent.
 
-- Conformity. For each system subject to a high-consequence classification under any applicable regime, identify the technical file or equivalent documentation status and the named owner. Different jurisdictions impose analogous obligations under different document sets and the reader is responsible for identifying them.
+2.  Independence. Confirm the audit function's reporting line and access.
 
-- Cadence. Define audit cadence per consequence tier. Identify any system overdue.
+3.  Conformity. For each system subject to a high-consequence classification under any applicable regime, identify the technical file or equivalent documentation status and the named owner. Different jurisdictions impose analogous obligations under different document sets and the reader is responsible for identifying them.
+
+4.  Cadence. Define audit cadence per consequence tier. Identify any system overdue.
 
 **OUTPUTS**
 
@@ -1130,11 +1179,11 @@ Build the AI audit plan against the inventory.
 
 - Audit cadence calendar.
 
-## **Module 18. The Governance Test**
+## Module 18. The Governance Test
 
-*“An organization that cannot answer thirty-seven binary questions about its AI program does not have a program. It has a position.”*
-
-***The watch. ****A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
+> *“An organization that cannot answer thirty-seven binary questions about its AI program does not have a program. It has a position.”*
+>
+> ***The watch.** A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
 
 **CONCEPT**
 
@@ -1150,93 +1199,97 @@ An organization that scores below twenty-five is at material risk. An organizati
 
 Mark each item Yes only if the artifact exists, is current and would survive external inspection. No partial credit.
 
-- An explicit Principled Performance statement exists for the organization.
+1.  An explicit Principled Performance statement exists for the organization.
 
-- The four phases of the Operational Cycle are named, documented and connected by feedback.
+<!-- -->
 
-- The twenty elements of the GRC Capability Model are mapped to current owners.
+1.  The four phases of the Operational Cycle are named, documented and connected by feedback.
 
-- The Starting Point is declared and justified.
+2.  The twenty elements of the GRC Capability Model are mapped to current owners.
 
-- The ten Universal Outcomes are ranked and dated.
+3.  The Starting Point is declared and justified.
 
-- An External Context register exists, dated within ninety days.
+4.  The ten Universal Outcomes are ranked and dated.
 
-- An Internal Context narrative exists, signed by an officer.
+5.  An External Context register exists, dated within ninety days.
 
-- A culture evidence file exists with documented behaviors and dates.
+6.  An Internal Context narrative exists, signed by an officer.
 
-- A stakeholder map identifies parties, requirements and channels.
+7.  A culture evidence file exists with documented behaviors and dates.
 
-- Direction is articulated and tested against contested decisions.
+8.  A stakeholder map identifies parties, requirements and channels.
 
-- Objectives are owned, measured and time-bound.
+9.  Direction is articulated and tested against contested decisions.
 
-- A risk identification log exists with multi-lens sources.
+10. Objectives are owned, measured and time-bound.
 
-- A risk analysis worksheet records likelihood, consequence, velocity and basis.
+11. A risk identification log exists with multi-lens sources.
 
-- A design table links every material uncertainty to a response.
+12. A risk analysis worksheet records likelihood, consequence, velocity and basis.
 
-- Controls are inventoried and tagged proactive, detective or responsive.
+13. A design table links every material uncertainty to a response.
 
-- Policies are dated, owned and reviewed on schedule.
+14. Controls are inventoried and tagged proactive, detective or responsive.
 
-- Communication channels are confirmed and confirmation-tested.
+15. Policies are dated, owned and reviewed on schedule.
 
-- Education is delivered with evaluation of behavior change.
+16. Communication channels are confirmed and confirmation-tested.
 
-- Incentives have been audited against Direction.
+17. Education is delivered with evaluation of behavior change.
 
-- Notification channels are present and not chilled.
+18. Incentives have been audited against Direction.
 
-- Inquiry is independent, evidence-preserving and documented.
+19. Notification channels are present and not chilled.
 
-- Response is consistent across position.
+20. Inquiry is independent, evidence-preserving and documented.
 
-- Monitoring indicators exist with stress-tested thresholds.
+21. Response is consistent across position.
 
-- An assurance map exists with sources, scopes and cadences.
+22. Monitoring indicators exist with stress-tested thresholds.
 
-- Corrective and preventive action items are verified for effect.
+23. An assurance map exists with sources, scopes and cadences.
 
-- A Slow AI tier scale exists and is applied to every use case.
+24. Corrective and preventive action items are verified for effect.
 
-- Informed Intent is operationalized as a five-condition gate.
+25. A Slow AI tier scale exists and is applied to every use case.
 
-- Final Liability names a human, evidence pack and corrective and preventive action capacity for every consequential AI action.
+26. Informed Intent is operationalized as a five-condition gate.
 
-- The AI inventory is current and includes shadow AI.
+27. Final Liability names a human, evidence pack and corrective and preventive action capacity for every consequential AI action.
 
-- Each AI entry is classified against every regime in force in every jurisdiction in which the system operates.
+28. The AI inventory is current and includes shadow AI.
 
-- Oversight roles have documented knowledge, authority and information design.
+29. Each AI entry is classified against every regime in force in every jurisdiction in which the system operates.
 
-- Agentic deployments have bounded scope, reversibility classification and switches.
+30. Oversight roles have documented knowledge, authority and information design.
 
-- An AI audit plan exists, scoped against the inventory.
+31. Agentic deployments have bounded scope, reversibility classification and switches.
 
-- High-consequence or otherwise regulated systems have current technical files or equivalent documentation under every applicable regime.
+32. An AI audit plan exists, scoped against the inventory.
 
-- Internal audit independence over AI systems is confirmed, with reporting line to the board or audit committee rather than to the function that owns the AI estate.
+33. High-consequence or otherwise regulated systems have current technical files or equivalent documentation under every applicable regime.
 
-- An AI incident register exists and is reviewed at least quarterly.
+34. Internal audit independence over AI systems is confirmed, with reporting line to the board or audit committee rather than to the function that owns the AI estate.
 
-- The Governance Test itself is administered at least quarterly with results on the board record.
+35. An AI incident register exists and is reviewed at least quarterly.
+
+36. The Governance Test itself is administered at least quarterly with results on the board record.
 
 **WORKSHEET**
 
 Score the test. State the count. Do not narrate the count.
 
-- Administer the thirty-seven items. Record Yes or No for each.
+1.  Administer the thirty-seven items. Record Yes or No for each.
 
-- State the total count.
+<!-- -->
 
-- Identify the three items most consequential among the No entries.
+1.  State the total count.
 
-- Assign an owner and a date to each of the three.
+2.  Identify the three items most consequential among the No entries.
 
-- Schedule the next administration.
+3.  Assign an owner and a date to each of the three.
+
+4.  Schedule the next administration.
 
 **OUTPUTS**
 
@@ -1248,69 +1301,69 @@ Score the test. State the count. Do not narrate the count.
 
 - Schedule of future administrations.
 
-# **Quick Mapping Reference**
+# Quick Mapping Reference
 
 Two views of the integrated capability are gathered here for quick consultation. The first is the OCEG cycle and its twenty elements. The second is the watch-component analogue used as a recurring illustration in this workbook.
 
 **OCEG Cycle and Elements**
 
-| **Phase** | **Element** | **Core question** |
-| --- | --- | --- |
-| **LEARN** | L1. External Context | What outside the organization affects its capacity to operate? |
-| **LEARN** | L2. Internal Context | What is the operating reality of structure, capital, talent and technology? |
-| **LEARN** | L3. Culture | What does the organization actually reward? |
-| **LEARN** | L4. Stakeholders | Whose interests are materially affected by our conduct? |
-| **ALIGN** | A1. Direction | What is the articulated intent of the organization? |
-| **ALIGN** | A2. Objectives | What measurable outcomes will we produce, by when, owned by whom? |
-| **ALIGN** | A3. Identification | What threats and opportunities affect our Objectives? |
-| **ALIGN** | A4. Analysis | How likely, how consequential, how fast, how controllable? |
-| **ALIGN** | A5. Design | What response and mechanism will manage each material uncertainty? |
-| **PERFORM** | P1. Controls | Which actions and constraints translate Design into behavior? |
-| **PERFORM** | P2. Policies | What is the codified rulebook, current, dated, owned? |
-| **PERFORM** | P3. Communication | How do mandatory messages reach and confirm with the front line? |
-| **PERFORM** | P4. Education | How do we build judgment under conditions resembling the real? |
-| **PERFORM** | P5. Incentives | What does the organization actually reward, in any currency? |
-| **PERFORM** | P6. Notification | How are concerns and incidents raised safely and reliably? |
-| **PERFORM** | P7. Inquiry | How are concerns examined with independence and preservation? |
-| **PERFORM** | P8. Response | How does the organization act, consistently, on inquiry findings? |
-| **REVIEW** | R1. Monitoring | Which indicators reveal whether the design is producing the intended effect? |
-| **REVIEW** | R2. Assurance | Who confirms independently that the capability operates as represented? |
-| **REVIEW** | R3. Improvement | How is the capability changed and the change verified? |
+| **Phase**   | **Element**          | **Core question**                                                            |
+|-------------|----------------------|------------------------------------------------------------------------------|
+| **LEARN**   | L1. External Context | What outside the organization affects its capacity to operate?               |
+| **LEARN**   | L2. Internal Context | What is the operating reality of structure, capital, talent and technology?  |
+| **LEARN**   | L3. Culture          | What does the organization actually reward?                                  |
+| **LEARN**   | L4. Stakeholders     | Whose interests are materially affected by our conduct?                      |
+| **ALIGN**   | A1. Direction        | What is the articulated intent of the organization?                          |
+| **ALIGN**   | A2. Objectives       | What measurable outcomes will we produce, by when, owned by whom?            |
+| **ALIGN**   | A3. Identification   | What threats and opportunities affect our Objectives?                        |
+| **ALIGN**   | A4. Analysis         | How likely, how consequential, how fast, how controllable?                   |
+| **ALIGN**   | A5. Design           | What response and mechanism will manage each material uncertainty?           |
+| **PERFORM** | P1. Controls         | Which actions and constraints translate Design into behavior?                |
+| **PERFORM** | P2. Policies         | What is the codified rulebook, current, dated, owned?                        |
+| **PERFORM** | P3. Communication    | How do mandatory messages reach and confirm with the front line?             |
+| **PERFORM** | P4. Education        | How do we build judgment under conditions resembling the real?               |
+| **PERFORM** | P5. Incentives       | What does the organization actually reward, in any currency?                 |
+| **PERFORM** | P6. Notification     | How are concerns and incidents raised safely and reliably?                   |
+| **PERFORM** | P7. Inquiry          | How are concerns examined with independence and preservation?                |
+| **PERFORM** | P8. Response         | How does the organization act, consistently, on inquiry findings?            |
+| **REVIEW**  | R1. Monitoring       | Which indicators reveal whether the design is producing the intended effect? |
+| **REVIEW**  | R2. Assurance        | Who confirms independently that the capability operates as represented?      |
+| **REVIEW**  | R3. Improvement      | How is the capability changed and the change verified?                       |
 
 **Watch Analogue**
 
 Recurring throughout the workbook as a short opener at each module and developed in full in Module 8. The list below is illustrative and not exhaustive.
 
-| **Watch component** | **GRC analogue** | **Core question** |
-| --- | --- | --- |
-| **Mainspring** | Enterprise energy. Capital, strategy, technology. | What force is being stored and released? |
-| **Barrel** | Board and executive containment. | Who controls organizational power? |
-| **Torque** | Risk appetite. | How much force may be transmitted? |
-| **Gear train** | Business processes. | Where does action actually flow? |
-| **Escapement** | Approval gates and proactive controls. | How is power released in governed increments? |
-| **Pallet fork** | Control functions, second line. | Where does institutional judgment engage? |
-| **Balance wheel** | Human judgment. | Who regulates action with evidence and authority? |
-| **Hairspring** | Culture and standards. | What restores behavior to center? |
-| **Jewels** | High-value control points. | Where should friction be reduced and wear prevented? |
-| **Lubrication** | Training, playbooks, usable tools. | Can people comply without heroics? |
-| **Dial** | Management reporting. | Does the report reveal decision-useful truth? |
-| **Hands** | External conduct and outcomes. | Do outputs match the mechanism's claims? |
-| **Crystal** | Transparency. | Who can see what they need to trust the system? |
-| **Case** | Institutional boundary. | What protects the mechanism from the environment? |
-| **Crown** | Delegated authority. | Who may set, change or stop the mechanism? |
-| **Click** | Records and institutional memory. | Can the organization prevent backward denial? |
-| **Shock protection** | Incident readiness. | Can the mechanism survive impact? |
-| **Servicing** | Audit, review and corrective action. | How does the mechanism learn and repair? |
-| **Chronometer certification** | Compliance evidence. | Can conformity be proved under a standard? |
-| **Watchmaker** | Institutional competence. | Do we have humans who can diagnose and adjust? |
-| **Automatic winding rotor** | Artificial intelligence. | How has the energy profile changed? |
-| **Slipping bridle** | Rate-limiting safeguard. Slow AI in mechanical form. | What prevents the system from being over-driven? |
-| **Self-moving complication** | Agentic artificial intelligence. | Who set the goal and where does it stop? |
-| **Balance assembly, not sticker** | Meaningful human oversight. | Is the oversight mechanical or cosmetic? |
+| **Watch component**               | **GRC analogue**                                     | **Core question**                                    |
+|-----------------------------------|------------------------------------------------------|------------------------------------------------------|
+| **Mainspring**                    | Enterprise energy. Capital, strategy, technology.    | What force is being stored and released?             |
+| **Barrel**                        | Board and executive containment.                     | Who controls organizational power?                   |
+| **Torque**                        | Risk appetite.                                       | How much force may be transmitted?                   |
+| **Gear train**                    | Business processes.                                  | Where does action actually flow?                     |
+| **Escapement**                    | Approval gates and proactive controls.               | How is power released in governed increments?        |
+| **Pallet fork**                   | Control functions, second line.                      | Where does institutional judgment engage?            |
+| **Balance wheel**                 | Human judgment.                                      | Who regulates action with evidence and authority?    |
+| **Hairspring**                    | Culture and standards.                               | What restores behavior to center?                    |
+| **Jewels**                        | High-value control points.                           | Where should friction be reduced and wear prevented? |
+| **Lubrication**                   | Training, playbooks, usable tools.                   | Can people comply without heroics?                   |
+| **Dial**                          | Management reporting.                                | Does the report reveal decision-useful truth?        |
+| **Hands**                         | External conduct and outcomes.                       | Do outputs match the mechanism's claims?             |
+| **Crystal**                       | Transparency.                                        | Who can see what they need to trust the system?      |
+| **Case**                          | Institutional boundary.                              | What protects the mechanism from the environment?    |
+| **Crown**                         | Delegated authority.                                 | Who may set, change or stop the mechanism?           |
+| **Click**                         | Records and institutional memory.                    | Can the organization prevent backward denial?        |
+| **Shock protection**              | Incident readiness.                                  | Can the mechanism survive impact?                    |
+| **Servicing**                     | Audit, review and corrective action.                 | How does the mechanism learn and repair?             |
+| **Chronometer certification**     | Compliance evidence.                                 | Can conformity be proved under a standard?           |
+| **Watchmaker**                    | Institutional competence.                            | Do we have humans who can diagnose and adjust?       |
+| **Automatic winding rotor**       | Artificial intelligence.                             | How has the energy profile changed?                  |
+| **Slipping bridle**               | Rate-limiting safeguard. Slow AI in mechanical form. | What prevents the system from being over-driven?     |
+| **Self-moving complication**      | Agentic artificial intelligence.                     | Who set the goal and where does it stop?             |
+| **Balance assembly, not sticker** | Meaningful human oversight.                          | Is the oversight mechanical or cosmetic?             |
 
-# **Closing**
+# Closing
 
-Governance, risk management and compliance is the discipline of converting organizational energy into accountable action. The equation PP ≈ Ω(C | SP) ↑ UO holds that discipline in compact form. Principled Performance is approached, never claimed. The cycle turns continuously rather than seasonally. The twenty capabilities are deployed rather than displayed. The Starting Point is named honestly. The Universal Outcomes are ranked rather than aspired to.
+Governance, risk management and compliance is the discipline of converting organizational energy into accountable action. The equation PP ≈ Ω(C \| SP) ↑ UO holds that discipline in compact form. Principled Performance is approached, never claimed. The cycle turns continuously rather than seasonally. The twenty elements are deployed rather than displayed. The Starting Point is named honestly. The Universal Outcomes are ranked rather than aspired to.
 
 Artificial intelligence does not change the equation. It tests it. The energy profile is higher, the cycle must turn faster, the capabilities must hold under greater load and the oversight must function in real time. The three doctrines are the operating constraints that make that possible. Slow AI controls the rate. Informed Intent disciplines authorization. Final Liability holds the named human in place when the system runs.
 
@@ -1322,13 +1375,13 @@ A workbook completed and shelved is paper. A workbook completed and used is a ca
 
 ***Final Liability rests with the Human.***
 
-# **References and Authorities**
+# References and Authorities
 
 The workbook treats the following instruments as reference time. The references are not exhaustive. Sectoral, national and emerging instruments overlay them. The reader is responsible for the law and standards applicable to their own enterprise, jurisdiction and use cases. The legal standing of any specific obligation is for qualified counsel to determine. The workbook is a governance instrument, not legal advice.
 
 **A note on AI law**
 
-AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defence is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what wins. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care in tempo. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
+AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what wins. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care in tempo. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
 
 **OCEG GRC Capability Model 3.5 (Red Book)**
 
