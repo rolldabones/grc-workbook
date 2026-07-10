@@ -623,7 +623,7 @@ Slow AI is a written discipline. Verbal commitments do not satisfy it.
 
 Informed Intent treats every authorization for a consequential artificial intelligence action as a gate with five conditions. Knowledge. Evidence. Authority. Time. Permission. The gate is open only when all five are present. A gate that opens with any condition missing is a procedural defect, not a successful authorization.
 
-The doctrine matters because most artificial intelligence harms occur after a human signature. The signature is real. The intent behind it is not. Informed Intent is the discipline that distinguishes meaningful authorization from clerical confirmation.
+The doctrine matters because most artificial intelligence harms occur after a human signature. The signature is real. The intent behind it is not. Informed Intent is the discipline that distinguishes meaningful authorization from clerical confirmation. At task level, the knowledge condition has a working instrument: the Definition of Done, developed with its confirmation discipline in *The Definition of Done Is the Work of the Human* ([github.com/rolldabones/definition-of-done](https://github.com/rolldabones/definition-of-done)).
 
 **APPLICATION**
 
