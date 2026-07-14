@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28784979/README.md)
 # The Governance, Risk Management and Compliance Workbook
 
 *Foundations, Augmentation and AI Governance*
@@ -13,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.0, June 2026*
+*v4.0.1, July 2026*
 
 ---
 
@@ -1264,3 +1263,5 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 **v3.11 (May 20, 2026).** WORKED EXAMPLE added to Module 14, working the EU AI Act Article 6 high-risk classification regime through the three doctrines against the European Commission's draft classification guidelines of 19 May 2026. Maintained offline. First published in this repository as part of v4.0.
 
 **v4.0 (June 10, 2026).** Second public release. Repository preamble and linked Contents added. Module Outputs converted to checklists. Governance Test items numbered, with a scoring table and a remediation map routing each item to its source module. Artifact Index added as a consolidated build plan and audit request list. License and Attribution section added, placing the whole workbook under CC BY-SA 4.0. Module 14 WORKED EXAMPLE incorporated verbatim from v3.11. Maker's mark standardized to Human-made. Heading, anchor and formatting hygiene pass for GitHub rendering. Consistency and proof pass throughout.
+
+**v4.0.1 (July 14, 2026).** Maintenance release. Stray upload-artifact link removed from the first line of the README. Masthead version updated. No content change.
