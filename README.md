@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.0.1, July 2026*
+*v4.1.0, 15 July 2026*
 
 ---
 
@@ -20,7 +20,7 @@ Son-U Michael Paik
 
 This repository publishes the Governance, Risk Management and Compliance Workbook as a free professional resource under a Creative Commons Attribution-ShareAlike 4.0 license. The workbook is a working instrument for building, augmenting and auditing an integrated governance, risk management and compliance capability. It is written for general counsel, compliance officers, risk leaders, auditors and the executives who sponsor them. It is built on the OCEG GRC Capability Model 3.5 and anchored in three operating doctrines developed in the author's book *Final Liability Rests with the Human* and operationalized in the companion methodology *Slow AI Kitchen* ([github.com/rolldabones/slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen)).
 
-Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts it produces into the operating cadence of your enterprise. The document is designed to be read top to bottom once and then worked module by module. Module outputs are formatted as checklists so a forked copy can track completion. The [Artifact Index](#artifact-index) maps every module output to the Governance Test item it evidences. Version history is recorded at the [end of the document](#version-history). Attribution and use terms are stated in [License and Attribution](#license-and-attribution).
+Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts it produces into the operating cadence of your enterprise. The document is designed to be read top to bottom once and then worked module by module. Module outputs are formatted as checklists so a forked copy can track completion. The [Artifact Index](#artifact-index) maps every module output to the Governance Test item it evidences. Version history is recorded in [CHANGELOG.md](CHANGELOG.md), with the current version noted at the [end of the document](#version-history). Attribution and use terms are stated in [License and Attribution](#license-and-attribution).
 
 ## Contents
 
@@ -62,6 +62,7 @@ Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-
 - [Artifact Index](#artifact-index)
 - [Quick Mapping Reference](#quick-mapping-reference)
 - [Closing](#closing)
+- [Part of the ecosystem](#part-of-the-ecosystem)
 - [License and Attribution](#license-and-attribution)
 - [References and Authorities](#references-and-authorities)
 - [Version History](#version-history)
@@ -1200,13 +1201,24 @@ A workbook completed and shelved is paper. A workbook completed and used is a ca
 
 ***Final Liability rests with the Human.***
 
+## Part of the ecosystem
+
+This workbook is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
+
+Nearest neighbors:
+- [grc](https://github.com/rolldabones/grc): the working method for the OCEG GRC Capability Model this workbook is built on, with build guides, a prompt pack and operating templates
+- [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board layer of the same suite; the handbook directs what this workbook builds
+- [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the task-level method that operationalizes the workbook's three doctrines for individual and team work
+- [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs that teach and implement the workbook in Client engagements
+- [RedCap-01](https://github.com/rolldabones/RedCap-01): a focused ERM diagnostic testing one slice of the capability this workbook builds, the link from objectives through risk to decisions
+
 ## License and Attribution
 
-© 2026 Son-U Michael Paik. This workbook is licensed in its entirety under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0). The full license text is at [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anyone is free to read, copy, share and adapt it for any purpose, including commercial use, on two conditions. Attribution: credit the author, link to this repository and note any changes made. ShareAlike: distribute any adaptation under the same license.
+© 2026 Son-U Michael Paik. This workbook is licensed in its entirety under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0, [LICENSE.md](LICENSE.md)). The full license text is at [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anyone is free to read, copy, share and adapt it for any purpose, including commercial use, on two conditions. Attribution: credit the author, link to this repository and note any changes made. ShareAlike: distribute any adaptation under the same license.
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.0 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.1.0 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1240,7 +1252,7 @@ Published December 2023 by ISO and IEC. The first international, certifiable man
 
 **Risk-tiered AI statutes**
 
-Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application running through 2028 under the Digital Omnibus adjustments, which remain subject to formal adoption at the time of writing. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
+Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application. Regulatory-currency note (15 July 2026): the Digital Omnibus on AI amending the Act was endorsed by the European Parliament on 16 June 2026 and approved by the Council on 29 June 2026; publication in the Official Journal was pending at this date, and until publication the original timeline remains the binding law. As adopted, the amendment defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
 
 **National and sub-national AI legislation**
 
@@ -1258,10 +1270,4 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-**v3.10 (May 2026).** Initial public release. Eighteen modules across three Parts, the thirty-seven item Governance Test, Quick Mapping Reference and References and Authorities.
-
-**v3.11 (May 20, 2026).** WORKED EXAMPLE added to Module 14, working the EU AI Act Article 6 high-risk classification regime through the three doctrines against the European Commission's draft classification guidelines of 19 May 2026. Maintained offline. First published in this repository as part of v4.0.
-
-**v4.0 (June 10, 2026).** Second public release. Repository preamble and linked Contents added. Module Outputs converted to checklists. Governance Test items numbered, with a scoring table and a remediation map routing each item to its source module. Artifact Index added as a consolidated build plan and audit request list. License and Attribution section added, placing the whole workbook under CC BY-SA 4.0. Module 14 WORKED EXAMPLE incorporated verbatim from v3.11. Maker's mark standardized to Human-made. Heading, anchor and formatting hygiene pass for GitHub rendering. Consistency and proof pass throughout.
-
-**v4.0.1 (July 14, 2026).** Maintenance release. Stray upload-artifact link removed from the first line of the README. Masthead version updated. No content change.
+Current version: **v4.1.0 (15 July 2026)**. Ecosystem integration release: Part of the ecosystem section, CHANGELOG.md and LICENSE.md added; the EU AI Act status note in References and Authorities re-dated to 15 July 2026 against the adopted Digital Omnibus; stale v4.0 reference in the suggested attribution corrected. No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
