@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.1.0, 15 July 2026*
+*v4.1.1, 30 July 2026*
 
 ---
 
@@ -1218,7 +1218,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.1.0 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.1.1 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1252,7 +1252,7 @@ Published December 2023 by ISO and IEC. The first international, certifiable man
 
 **Risk-tiered AI statutes**
 
-Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application. Regulatory-currency note (15 July 2026): the Digital Omnibus on AI amending the Act was endorsed by the European Parliament on 16 June 2026 and approved by the Council on 29 June 2026; publication in the Official Journal was pending at this date, and until publication the original timeline remains the binding law. As adopted, the amendment defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
+Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application. Regulatory-currency note (30 July 2026): the Digital Omnibus on AI amending the Act was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. It defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. Those deferrals are now binding law. The Act's general application date of 2 August 2026 is unchanged. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
 
 **National and sub-national AI legislation**
 
@@ -1270,4 +1270,4 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.1.0 (15 July 2026)**. Ecosystem integration release: Part of the ecosystem section, CHANGELOG.md and LICENSE.md added; the EU AI Act status note in References and Authorities re-dated to 15 July 2026 against the adopted Digital Omnibus; stale v4.0 reference in the suggested attribution corrected. No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.1.1 (30 July 2026)**. Patch release: the EU AI Act regulatory-currency note in References and Authorities re-dated to 30 July 2026 against Regulation (EU) 2026/1744, now in force. No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).

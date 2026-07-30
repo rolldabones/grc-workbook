@@ -2,6 +2,17 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.1.1 (2026-07-30)
+
+Patch release. Regulatory currency only.
+
+### Changed
+- References and Authorities: the EU AI Act regulatory-currency note re-dated from 15 July 2026 to 30 July 2026. The Digital Omnibus on AI is no longer pending publication. It was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026, so the deferral of stand-alone (Annex III) high-risk obligations to 2 December 2027 and of obligations for AI embedded in Annex I regulated products to 2 August 2028 is binding law rather than an adopted amendment awaiting publication. The note now also records that the Act's general application date of 2 August 2026 is unchanged.
+- Masthead, suggested attribution and README version pointer updated to v4.1.1 in lockstep.
+
+### Unchanged
+- The eighteen modules, the Governance Test, the Artifact Index and every other substantive section.
+
 ## v4.1.0 (2026-07-15)
 
 Ecosystem integration release under the repository improvement program.
