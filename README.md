@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.2.0, 13 August 2026 (KST)*
+*v4.2.1, 13 August 2026 (KST)*
 
 ---
 
@@ -1270,4 +1270,4 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.1.1 (30 July 2026)**. Patch release: the EU AI Act regulatory-currency note in References and Authorities re-dated to 30 July 2026 against Regulation (EU) 2026/1744, now in force. No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.2.1 (13 August 2026, KST)**. Patch release: version-string consistency fix in this README. The preceding minor release recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).

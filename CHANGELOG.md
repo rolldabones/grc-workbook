@@ -2,6 +2,10 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.2.1 (2026-08-13, KST)
+
+Maintenance sweep. The Current version line deep in the README still read v4.1.1 and described the previous release; the masthead had been bumped but this line had not. Found by the class C version-consistency check, which compares every version occurrence in the README rather than the first.
+
 ## v4.2.0 (2026-08-13, KST)
 
 Accountability canon alignment. The Final Liability consequence lines are recast toward the accountability canon now stated normatively in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md).
