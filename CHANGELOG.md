@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.2.0 (2026-08-13, KST)
+
+Accountability canon alignment. The Final Liability consequence lines are recast toward the accountability canon now stated normatively in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md).
+
+- The Final Liability tagline no longer says a named human "carries the consequence" of a consequential AI action. It says the action attaches to a named human with decision rights, oversight and the power to intervene. Consequence-bearing is an effect of accountability, not a definition of it, and the prior wording invited the reading that naming someone to absorb fallout satisfies the doctrine.
+- The body paragraph is recast on the same point and adds the nominee test: a name without decision rights, oversight and the power to intervene is a nominee, and nominating one is worse than naming nobody because it manufactures the appearance of accountability.
+- No change to Part I, Part II, the module structure, the OCEG mapping or the licensing. The doctrine rename to "final accountable decision owner" remains declined per the decision of 9 August 2026; the operative text aligns to the accountability canon instead.
+
+- License metadata sweep folded into this release: `SPDX-License-Identifier: CC-BY-SA-4.0` and the canonical Creative Commons legal code added inside the existing license file, filename unchanged, human summary retained above the legal code.
+
 ## v4.1.1 (2026-07-30)
 
 Patch release. Regulatory currency only.

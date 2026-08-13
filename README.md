@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.1.1, 30 July 2026*
+*v4.2.0, 13 August 2026 (KST)*
 
 ---
 
@@ -123,9 +123,9 @@ Informed Intent requires that any consequential artificial intelligence action b
 
 **Final Liability**
 
-*A named human carries the consequence of every consequential artificial intelligence action.*
+*Every consequential artificial intelligence action attaches to a named human with decision rights, oversight and the power to intervene.*
 
-Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who bears the consequence. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
+Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who holds the accountability: decision rights over the action, oversight of it, and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
 
 ## Part I. Fundamental Governance, Risk Management and Compliance
 
