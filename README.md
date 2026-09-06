@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.2.1, 13 August 2026 (KST)*
+*v4.2.2, 6 September 2026 (KST)*
 
 ---
 
@@ -1218,7 +1218,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.1.1 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.2.2 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1270,4 +1270,10 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.2.1 (13 August 2026, KST)**. Patch release: version-string consistency fix in this README. The preceding minor release recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.2.2 (6 September 2026, KST)**. Patch release: version-string consistency fix in this README. The preceding minor release recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+
+## How to Cite
+
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.2.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+
+A machine-readable citation is in [CITATION.cff](CITATION.cff).

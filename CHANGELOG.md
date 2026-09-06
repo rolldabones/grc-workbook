@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.2.2 (2026-09-06, KST)
+
+Citation infrastructure, doctrine citation line and lockstep maintenance. Session C of the September 2026 improvement pack, one patch release per repository across all 21 public repositories.
+
+- **`CITATION.cff` added** in the house form settled at D-C1: no `type` field, `version` and `date-released` in lockstep with the README, `license` as the SPDX identifier for this repository's licence, `abstract` taken from this repository's ECOSYSTEM.md role line rather than newly written.
+- **How to Cite block** aligned to this release and pointing at `CITATION.cff`.
+- **Second occurrence of the v4.2.1 defect, corrected.** The v4.2.1 release fixed the `Current version` line that still read `v4.1.1` and did not reach the Suggested attribution line, which read `v4.1.1` until today. That is trap 6 in the release that was itself a trap 6 fix. Found by reading, not by a guard.
+- All other files in this repository are unchanged byte for byte.
+
 ## v4.2.1 (2026-08-13, KST)
 
 Maintenance sweep. The Current version line deep in the README still read v4.1.1 and described the previous release; the masthead had been bumped but this line had not. Found by the class C version-consistency check, which compares every version occurrence in the README rather than the first.
