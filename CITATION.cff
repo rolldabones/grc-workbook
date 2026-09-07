@@ -4,8 +4,8 @@ title: "The Governance, Risk Management and Compliance Workbook"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 4.2.2
-date-released: "2026-09-06"
+version: 4.3.0
+date-released: "2026-09-07"
 license: CC-BY-SA-4.0
 repository-code: "https://github.com/rolldabones/grc-workbook"
 abstract: "The workbook: a module-by-module instrument for building, augmenting and auditing an integrated GRC capability on the OCEG model, with the three doctrines applied in Part II."

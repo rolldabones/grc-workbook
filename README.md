@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.2.2, 6 September 2026 (KST)*
+*v4.3.0, 7 September 2026 (KST)*
 
 ---
 
@@ -1014,7 +1014,7 @@ The test is administered to the organization at least quarterly, more often duri
 
 **APPLICATION**
 
-An organization that scores below twenty-five is at material risk. An organization that scores between twenty-five and thirty-two has the structure but lacks discipline. An organization that scores thirty-three or above is mature. The scores are not absolute. They are relative to the consequence of the program. A clinical AI vendor at thirty-three is doing better than an internal-productivity AI user at thirty-three.
+An organization that scores below twenty-five is at material risk. An organization that scores between twenty-five and thirty-two has the structure but lacks discipline. An organization that scores thirty-three or above is mature, provided it has failed no critical item. Items 28, 29, 30 and 31 are critical, and items 32 and 34 are critical where they apply. A No on any of them caps the reading at structure without discipline whatever the count, because a count that outvotes a critical failure is partial credit readmitted at the aggregate, and the watch above says what partial credit is for. The scores are not absolute. They are relative to the consequence of the program, and the thresholds are the author's judgment rather than a validated scale. A clinical AI vendor at thirty-three is doing better than an internal-productivity AI user at thirty-three.
 
 **THE GOVERNANCE TEST. 37 BINARY ITEMS**
 
@@ -1060,11 +1060,17 @@ Mark each item Yes only if the artifact exists, is current and would survive ext
 
 **SCORING**
 
-| **Count** | **Reading**                                                          |
-| --------- | -------------------------------------------------------------------- |
-| 33 to 37  | Mature. Calibrate the reading against the consequence of the program. |
-| 25 to 32  | Structure without discipline.                                         |
-| 0 to 24   | Material risk.                                                        |
+Four items are critical: 28, 29, 30 and 31. Two further items, 32 and 34, are critical where they apply. A No on any critical item caps the reading at **Structure without discipline** regardless of the count. There is no count that overrides a critical failure. Report the cap and the failed item together, never the count alone.
+
+| **Count** | **Reading** |
+| --------- | ----------- |
+| 33 to 37 | Mature, if no critical item is failed. Calibrate the reading against the consequence of the program. |
+| 25 to 32 | Structure without discipline. |
+| 0 to 24 | Material risk. |
+
+**Not applicable.** Items 32 and 34 may be marked Not applicable where the organization has no agentic deployment, or no high-consequence or regulated system. A Not applicable requires a written basis recorded on the same test record and is checked against the inventory at item 29. An organization whose inventory contains an agentic system cannot mark 32 Not applicable. Not applicable counts as a Yes for the count and does not trigger the cap. Every other item is answered Yes or No.
+
+**Basis of the thresholds.** The 33 and 25 boundaries are the author's judgment, calibrated against professional experience rather than derived from data. No validation study underlies them and none is claimed. The bands are readings, not ratings. A clinical AI vendor at thirty-three is doing better than an internal-productivity AI user at thirty-three, and both are worse off than the number suggests if a critical item is failed.
 
 **REMEDIATION MAP**
 
@@ -1218,7 +1224,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.2.2 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.0 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1270,10 +1276,10 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.2.2 (6 September 2026, KST)**. Patch release: version-string consistency fix in this README. The preceding minor release recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the eighteen modules, the Governance Test or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.0 (7 September 2026, KST)**. Minor release: the Governance Test scoring in Module 18 gains a critical-item cap. A No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are now stated as the author's judgment. Readings taken under the previous bands are superseded and are re-taken. The v4.2 line recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the other seventeen modules or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.2.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).

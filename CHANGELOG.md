@@ -2,6 +2,18 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.0 (2026-09-07, KST)
+
+The Governance Test score bands gain a critical-item cap. A substantive change to the instrument, so minor.
+
+- **The defect.** The scoring table read a count of 33 to 37 as Mature with no override, so an organization could be labeled Mature while failing items 28, 29, 31 and 32. The watch passage at the head of Module 18 states that the test is binary because counterfeits depend on partial credit; the band restored partial credit at the aggregate. Registered as `account-maintenance` RUNBOOK.md standing item 12 and remediated the same day.
+- **Critical set.** Items 28, 29, 30 and 31 are critical unconditionally: Final Liability naming, the inventory, classification against every regime in force and oversight roles. Items 32 and 34, agentic deployments and technical files for high-consequence or regulated systems, are critical where they apply. A No on any critical item caps the reading at **Structure without discipline** regardless of the count. There is no count that overrides a critical failure, and the cap is reported together with the failed item, never the count alone.
+- **Not applicable path.** Items 32 and 34 may be marked Not applicable where the organization has no agentic deployment, or no high-consequence or regulated system. A Not applicable requires a written basis on the same test record and is checked against the inventory at item 29; an inventory that contains an agentic system forecloses Not applicable on 32. Not applicable counts as a Yes and does not trigger the cap. Every other item stays Yes or No.
+- **Basis of the thresholds stated.** The 33 and 25 boundaries were asserted bare. They are now stated as the author's judgment, calibrated against professional experience rather than derived from data, with no validation study underlying them and none claimed. The bands are readings, not ratings.
+- **Both statements of the bands changed.** The SCORING table under THE GOVERNANCE TEST and the APPLICATION paragraph above the item list each stated the bands; both now agree and both name the cap. Fixing one and leaving the other is the propagation defect the account's class D exists to catch.
+- **Prior readings superseded.** Any Governance Test reading taken under the previous bands is superseded and is re-taken. Item 37 requires quarterly administration with results on the board record, so the re-take falls inside the existing cadence.
+- Masthead, Suggested attribution, Current version line, How to Cite and `CITATION.cff` moved to v4.3.0 in lockstep. No change to the other seventeen modules, the Remediation Map, the Artifact Index or `LICENSE.md`.
+
 ## v4.2.2 (2026-09-06, KST)
 
 Citation infrastructure, doctrine citation line and lockstep maintenance. Session C of the September 2026 improvement pack, one patch release per repository across all 21 public repositories.
