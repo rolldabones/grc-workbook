@@ -2,6 +2,30 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.1 (2026-09-08, KST)
+
+Patch. The Module 18 lines that the v4.3 line left behind are recast to agree with the SCORING block, and the repository gains the doctrine citation line it had never carried. These are corrections of substance, so the superseded wording is **STRUCK** and itemised below rather than quietly re-dated. Registered as `account-maintenance` `RUNBOOK.md` standing item 17 and remediated here. No change to the scoring rule itself, to the thirty-seven items, to the critical set, to the thresholds or to the Remediation Map.
+
+**The defect.** The v4.3 line changed the SCORING block and the APPLICATION paragraph and stopped there. Module 18's concept, worksheet and outputs, and the Artifact Index row for Module 18, went on describing the scoring the release had just superseded: binary entries only, a bare count, and no Not applicable. A reader following the worksheet literally would have produced exactly the record the SCORING block forbids, which is the account's recurring defect of a correct fact that stopped travelling.
+
+**Eight lines recast, in one file.** Four were registered under standing item 17. Four more of the same class were found in this repository by reading before the edit and are corrected in the same patch rather than left for a later one.
+
+- ~~"The test produces no narrative. It produces a count."~~ **STRUCK.** CONCEPT. It now produces a count, and the cap and the failed item with it where a critical item is failed. *Not registered under item 17; found by reading.*
+- ~~"Mark each item Yes only if the artifact exists, is current and would survive external inspection. No partial credit."~~ **STRUCK.** The instruction above the item list admitted only Yes and not-Yes and so foreclosed the Not applicable path the SCORING block opens on items 32 and 34. *Not registered under item 17; found by reading.*
+- ~~"Score the test. State the count. Do not narrate the count."~~ **STRUCK.** WORKSHEET lead line. It now requires the cap and the failed item alongside the count where any critical item is No. *Registered under item 17.*
+- ~~"Administer the thirty-seven items. Record Yes or No for each."~~ **STRUCK.** WORKSHEET. Not applicable is now named for items 32 and 34, with the written basis required on the same test record and checked against the inventory at item 29. *Registered under item 17.*
+- ~~"State the total count."~~ **STRUCK.** WORKSHEET. The count alone is the reporting form the SCORING block prohibits. *Not registered under item 17; found by reading.*
+- ~~"Completed Governance Test with binary entries."~~ **STRUCK.** OUTPUTS. "Binary entries" excluded a recorded Not applicable. *Registered under item 17.*
+- ~~"Count and consequence note."~~ **STRUCK.** OUTPUTS. The artifact is the count, and where any critical item is No, the cap at Structure without discipline named together with the failed item. Never the count alone. *Registered under item 17.*
+- ~~"Completed test with count. Remediation owners and dates. Administration schedule."~~ **STRUCK.** Artifact Index, Module 18 row. The v4.3 entry recorded "no change to the Artifact Index", which was true of the file and wrong as a judgment: the index states each module's output, and Module 18's output had changed. *Not registered under item 17; found by reading.*
+
+**Doctrine citation line added.** `README.md`, under Part of the ecosystem, in the account's existing form and verbatim as carried at `definition-of-done/README.md` and `computational-drafting/README.md`: the three doctrines are used here as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), and where this repository restates a doctrine it restates it at its own altitude and adds instruments, not doctrine. This repository has never carried that line. It was not added at v4.2.2, whose summary line names a doctrine citation line among that release's work; that summary was written for a session running across twenty-one repositories and, for this one, describes work the release did not do. Recorded here rather than corrected in a released entry.
+
+**`guards_e.py` E2 did not change state, and that is the finding.** E2 was quiet on this repository before the edit and is quiet after it. It tests for the literal string `DOCTRINE.md` anywhere in any non-changelog markdown file, and the Version History line has carried a passing mention of `DOCTRINE.md` since v4.2.0. That mention is deliberately left in place and unrewritten. Proved rather than reasoned about: with the passing mention stripped and the new line kept, E2 stays quiet, so the new line satisfies the guard on its own; with both removed, E2 fires MED, so the guard is live and not inert. The repository is now correct for a real reason, and the guard still cannot tell a citation from a passing mention. `account-maintenance` standing item 7 evidence.
+
+- Masthead, Suggested attribution, Current version line, How to Cite and `CITATION.cff` moved to v4.3.1 in lockstep, `date-released` with them. Version-history prose in the Current version line names the v4.3 and v4.2 lines rather than three-component tokens, which is this file's existing form and leaves class E4 no stale token to report.
+- `LICENSE.md` is unchanged byte for byte.
+
 ## v4.3.0 (2026-09-07, KST)
 
 The Governance Test score bands gain a critical-item cap. A substantive change to the instrument, so minor.

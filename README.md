@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.0, 7 September 2026 (KST)*
+*v4.3.1, 8 September 2026 (KST)*
 
 ---
 
@@ -1010,7 +1010,7 @@ Build the AI audit plan against the inventory.
 
 The Governance Test is a thirty-seven item diagnostic across the OCEG cycle, the three doctrines, the AI inventory, oversight, agentic AI and audit. Each item is binary. Yes means the artifact exists, is current and would survive inspection. No means it does not. There is no partial credit. The partial credit is granted by no regulator.
 
-The test is administered to the organization at least quarterly, more often during a Crisis Starting Point. It is the most efficient single artifact to put in front of an executive sponsor or a board committee. The test produces no narrative. It produces a count.
+The test is administered to the organization at least quarterly, more often during a Crisis Starting Point. It is the most efficient single artifact to put in front of an executive sponsor or a board committee. The test produces no narrative. It produces a count, and where a critical item is failed, the cap and the failed item with it.
 
 **APPLICATION**
 
@@ -1018,7 +1018,7 @@ An organization that scores below twenty-five is at material risk. An organizati
 
 **THE GOVERNANCE TEST. 37 BINARY ITEMS**
 
-Mark each item Yes only if the artifact exists, is current and would survive external inspection. No partial credit.
+Mark each item Yes only if the artifact exists, is current and would survive external inspection. Mark it No otherwise. Items 32 and 34 may be marked Not applicable on a written basis, under SCORING below. No partial credit.
 
 1. [ ] An explicit Principled Performance statement exists for the organization.
 2. [ ] The four phases of the Operational Cycle are named, documented and connected by feedback.
@@ -1093,18 +1093,18 @@ Route each No to the module that produces the missing artifact.
 
 **WORKSHEET**
 
-Score the test. State the count. Do not narrate the count.
+Score the test. State the count, and where any critical item is No, the cap and the failed item with it. Do not narrate the result.
 
-- Administer the thirty-seven items. Record Yes or No for each.
-- State the total count.
+- Administer the thirty-seven items. Record Yes or No for each, or Not applicable on items 32 and 34 where the SCORING conditions are met, with the written basis on the same test record and checked against the inventory at item 29.
+- State the result: the total count, and where any critical item is No, the cap at Structure without discipline together with the failed item. Never the count alone.
 - Identify the three items most consequential among the No entries.
 - Assign an owner and a date to each of the three.
 - Schedule the next administration.
 
 **OUTPUTS**
 
-- [ ] Completed Governance Test with binary entries.
-- [ ] Count and consequence note.
+- [ ] Completed Governance Test, every item Yes or No, with any Not applicable on items 32 or 34 carrying its written basis.
+- [ ] Result and consequence note: the count, and where any critical item is No, the cap at Structure without discipline named together with the failed item. Never the count alone.
 - [ ] Top three remediation owners and dates.
 - [ ] Schedule of future administrations.
 
@@ -1131,7 +1131,7 @@ The workbook produces its capability through artifacts. The index below gathers 
 | **15. Oversight**                   | Oversight role definitions. Authority register. Information design review. Calibration table. Effectiveness log.                            | 31             |
 | **16. Agentic AI**                  | Agent inventory. Reversibility classification. Switch register. Final Liability artifact set per agent. Scope expansion log.                | 32             |
 | **17. Audit and Assurance**         | AI audit plan. Evidence-layer status. Independence confirmation. Conformity status register. Audit cadence calendar.                        | 33 to 36       |
-| **18. The Governance Test**         | Completed test with count. Remediation owners and dates. Administration schedule.                                                           | 37             |
+| **18. The Governance Test**         | Completed test with result: count, plus cap and failed item where any critical item is No. Remediation owners and dates. Administration schedule. | 37 |
 
 ## Quick Mapping Reference
 
@@ -1211,6 +1211,8 @@ A workbook completed and shelved is paper. A workbook completed and used is a ca
 
 This workbook is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
 
+The three doctrines are used in this repository as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), the account's single normative statement. Where this repository restates a doctrine, it restates it at its own altitude and adds instruments, not doctrine (ECOSYSTEM.md protocol item 6).
+
 Nearest neighbors:
 - [grc](https://github.com/rolldabones/grc): the working method for the OCEG GRC Capability Model this workbook is built on, with build guides, a prompt pack and operating templates
 - [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board layer of the same suite; the handbook directs what this workbook builds
@@ -1224,7 +1226,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.0 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.1 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1276,10 +1278,10 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.0 (7 September 2026, KST)**. Minor release: the Governance Test scoring in Module 18 gains a critical-item cap. A No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are now stated as the author's judgment. Readings taken under the previous bands are superseded and are re-taken. The v4.2 line recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the other seventeen modules or the Artifact Index. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.1 (8 September 2026, KST)**. Patch release: the Module 18 concept, worksheet and outputs lines that still described the scoring superseded by the v4.3 line, and the Artifact Index row that did the same, are recast to agree with the SCORING block, and the repository gains the doctrine citation line it had never carried. The v4.3 line gave the Governance Test scoring a critical-item cap: a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are stated as the author's judgment. Readings taken under the bands the v4.3 line superseded are superseded and are re-taken. The v4.2 line recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the other seventeen modules. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.0. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
