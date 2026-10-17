@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.3 (2026-10-18, KST)
+
+Patch. Session T4 of the whole-account review of 15 October 2026, worked first under determination D4 as the item T3 carried over. Found outside the review in T3 and ruled by Michael on 17 October 2026: Module 11's Final Liability concept listed the named human's means in words that are neither the canon's three attributes (DOCTRINE.md section 8, list form) nor the list this workbook's own The Three Doctrines section uses. That is a variant compression, so the superseded wording is **STRUCK** below.
+
+- ~~"so that the named human can actually carry the consequence with knowledge, evidence and capacity to remediate."~~ **STRUCK.** Module 11, CONCEPT. Now "can actually carry the consequence: decision rights, oversight and the power to intervene, with the evidence to defend the decision and the capacity to remediate." The two operational requirements the Three Doctrines section already states (the evidence pack and the corrective and preventive action capacity) follow the canon list rather than replacing it.
+- README masthead, Version History, suggested attribution, How to Cite and `CITATION.cff` to v4.3.3 in lockstep.
+
 ## v4.3.2 (2026-10-17, KST)
 
 Patch. Session T3 of the whole-account review of 15 October 2026 (doc section 1; reviewer report 07, items A1, C1 and C6). The workbook stated Slow AI as a tempo or a rate of release in five places; DOCTRINE.md section 1 states it as a precondition with three conjunctive tests ("not a speed limit. It is a precondition"). That is rule variation, not altitude, so the superseded wording is **STRUCK** and itemised below. Release tiering stays the doctrine's instrument; no tier, gate, worksheet or Governance Test item changes.
