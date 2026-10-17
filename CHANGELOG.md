@@ -2,6 +2,20 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.2 (2026-10-17, KST)
+
+Patch. Session T3 of the whole-account review of 15 October 2026 (doc section 1; reviewer report 07, items A1, C1 and C6). The workbook stated Slow AI as a tempo or a rate of release in five places; DOCTRINE.md section 1 states it as a precondition with three conjunctive tests ("not a speed limit. It is a precondition"). That is rule variation, not altitude, so the superseded wording is **STRUCK** and itemised below. Release tiering stays the doctrine's instrument; no tier, gate, worksheet or Governance Test item changes.
+
+- ~~"Slow AI is the discipline of releasing speed in measured increments."~~ **STRUCK.** About This Workbook. Now the precondition sentence.
+- ~~"*Speed is released in increments the enterprise can absorb.*" and "Slow AI is the discipline of calibrated release. Capability is not deployed at the rate the technology permits. It is deployed at the rate the organization, the people and the affected parties can absorb without losing the capacity to govern."~~ **STRUCK.** The Three Doctrines. Now the DOCTRINE.md section 1 sentence as the tagline, the section 8 short form, the conjunctive test and tiering named as the instrument.
+- ~~"It is not opposition to speed. It is the disciplined release of power."~~ and ~~"The organization decides, in advance, the rate at which capability will be introduced"~~ and ~~"Slow AI is not a moratorium. It is a tempo."~~ **STRUCK.** Module 9. The module opens with the canon sentence; the conditions of introduction, expansion and retraction are tests of the three conditions at each tier.
+- ~~"Slow AI controls the rate."~~ **STRUCK.** Closing. Now "Slow AI sets the precondition for deployment."
+- ~~"Slow AI is reasonable care in tempo."~~ **STRUCK.** References and Authorities, the note on AI law. Now "reasonable care as a precondition of deployment".
+- The Final Liability attributes in The Three Doctrines read "decision rights over the action, oversight of it, and the power to intervene", a serial comma and a variant of the canon list; now the DOCTRINE.md section 8 list form, "decision rights, oversight and the power to intervene".
+- Closing line last: Part of the ecosystem, License and Attribution, References and Authorities, Version History and How to Cite now precede the Closing, whose last line is the closing line (80 lines followed it). Contents reordered to match and gains How to Cite.
+- Version History: the doubled "full history" sentence reduced to one.
+- README masthead, Version History, suggested attribution, How to Cite and `CITATION.cff` to v4.3.2 in lockstep.
+
 ## v4.3.1 (2026-09-08, KST)
 
 Patch. The Module 18 lines that the v4.3 line left behind are recast to agree with the SCORING block, and the repository gains the doctrine citation line it had never carried. These are corrections of substance, so the superseded wording is **STRUCK** and itemised below rather than quietly re-dated. Registered as `account-maintenance` `RUNBOOK.md` standing item 17 and remediated here. No change to the scoring rule itself, to the thirty-seven items, to the critical set, to the thresholds or to the Remediation Map.

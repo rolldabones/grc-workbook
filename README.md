@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.1, 8 September 2026 (KST)*
+*v4.3.2, 17 October 2026 (KST)*
 
 ---
 
@@ -61,11 +61,12 @@ Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-
 
 - [Artifact Index](#artifact-index)
 - [Quick Mapping Reference](#quick-mapping-reference)
-- [Closing](#closing)
 - [Part of the ecosystem](#part-of-the-ecosystem)
 - [License and Attribution](#license-and-attribution)
 - [References and Authorities](#references-and-authorities)
 - [Version History](#version-history)
+- [How to Cite](#how-to-cite)
+- [Closing](#closing)
 
 ## How to Use This Workbook
 
@@ -75,7 +76,7 @@ A note on scope. The workbook helps organizations address governance, risk manag
 
 Part I unpacks the equation. It treats governance, risk management and compliance as an integrated capability rather than three adjacent functions, and it builds the integrated capability element by element across the four phases of the cycle. The reader who completes Part I has a working mechanism.
 
-Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the discipline of releasing speed in measured increments. Informed Intent is the condition that authorization is meaningful only when the authorizing human knows what is being authorized. Final Liability is the constraint that a named human carries the consequence of every consequential artificial intelligence action.
+Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent is the condition that authorization is meaningful only when the authorizing human knows what is being authorized. Final Liability is the constraint that a named human carries the consequence of every consequential artificial intelligence action.
 
 Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen and audited within the same Operational Cycle. The unit of analysis becomes the AI system rather than the organization, but the elements and outcomes are the same.
 
@@ -111,9 +112,9 @@ The three doctrines below condition every artificial intelligence augmentation d
 
 **Slow AI**
 
-*Speed is released in increments the enterprise can absorb.*
+*AI that cannot be governed, explained and audited should not be deployed, however fast it would make the business.*
 
-Slow AI is the discipline of calibrated release. Capability is not deployed at the rate the technology permits. It is deployed at the rate the organization, the people and the affected parties can absorb without losing the capacity to govern. Slow AI is not opposition to artificial intelligence. It is opposition to ungoverned acceleration. The doctrine produces release tiers, gating criteria, fallback positions and a documented rate of adoption that an independent reviewer can inspect. It is the watch's escapement applied to artificial intelligence.
+Slow AI: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. A system that is explainable but unauditable fails, and so does one that is auditable but ungoverned. Slow AI is not opposition to artificial intelligence. It is opposition to deploying what the organization cannot govern. In this workbook the doctrine's instrument is release tiering: tiers, gating criteria, fallback positions and an adoption record that an independent reviewer can inspect, each tier admitting a system only once the three tests are met at that tier (Module 9). It is the watch's escapement applied to artificial intelligence.
 
 **Informed Intent**
 
@@ -125,7 +126,7 @@ Informed Intent requires that any consequential artificial intelligence action b
 
 *Every consequential artificial intelligence action attaches to a named human with decision rights, oversight and the power to intervene.*
 
-Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who holds the accountability: decision rights over the action, oversight of it, and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
+Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who holds the accountability: decision rights, oversight and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
 
 ## Part I. Fundamental Governance, Risk Management and Compliance
 
@@ -575,13 +576,13 @@ Prompt or agent, one rule. **Human-made, for Easy Work, Simply Done.** Grounded 
 
 > *"Speed without discipline is just faster malpractice."*
 >
-> **The watch.** *The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence. It is not opposition to speed. It is the disciplined release of power.*
+> **The watch.** *The escapement is the deepest design of the movement. The mainspring wants to release its energy all at once. The gear train wants to spin. The escapement interrupts that release and permits motion in measured increments. Slow AI is the escapement applied to artificial intelligence: no power passes that the mechanism cannot govern, explain and audit.*
 
 **CONCEPT**
 
-Slow AI is the operating discipline that conditions when and how artificial intelligence is allowed into the Operational Cycle. The doctrine treats deployment as a regulated release rather than a launch. The organization decides, in advance, the rate at which capability will be introduced, the conditions under which it will be expanded and the conditions under which it will be retracted.
+Slow AI is the precondition for letting artificial intelligence into the Operational Cycle: AI that cannot be governed, explained and audited should not be deployed, however fast it would make the business ([DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), section 1). The three tests are conjunctive. The doctrine treats deployment as a regulated release rather than a launch. The organization decides, in advance, the conditions under which capability will be introduced, the conditions under which it will be expanded and the conditions under which it will be retracted, and each condition tests whether the system is governed, explained and audited at that tier.
 
-Slow AI is not a moratorium. It is a tempo. The technology is now sufficiently fast that the binding constraint on adoption is rarely the technology. It is the organization's capacity to absorb the change without losing oversight. The doctrine forces the design conversation to begin with that capacity rather than with the model.
+Slow AI is not a moratorium, and it is not a speed limit. It is a precondition. The technology is now sufficiently fast that the binding constraint on adoption is rarely the technology. It is the organization's capacity to keep the system governed, explained and audited as it changes. The doctrine forces the design conversation to begin with that capacity rather than with the model.
 
 **APPLICATION**
 
@@ -1193,20 +1194,6 @@ Recurring throughout the workbook as a short opener at each module and developed
 | **Self-moving complication**      | Agentic artificial intelligence.                     | Who set the goal and where does it stop?             |
 | **Balance assembly, not sticker** | Meaningful human oversight.                          | Is the oversight mechanical or cosmetic?             |
 
-## Closing
-
-Governance, risk management and compliance is the discipline of converting organizational energy into accountable action. The equation PP ≈ Ω(C | SP) ↑ UO holds that discipline in compact form. Principled Performance is approached, never claimed. The cycle turns continuously rather than seasonally. The twenty elements are deployed rather than displayed. The Starting Point is named honestly. The Universal Outcomes are ranked rather than aspired to.
-
-Artificial intelligence does not change the equation. It tests it. The energy profile is higher, the cycle must turn faster, the capabilities must hold under greater load and the oversight must function in real time. The three doctrines are the operating constraints that make that possible. Slow AI controls the rate. Informed Intent disciplines authorization. Final Liability holds the named human in place when the system runs.
-
-The Governance Test in Module 18 is the diagnostic. Thirty-seven binary items. No partial credit. The score is not the goal. The score is the audit. The goal is a program that can be read, run, audited and improved by people who do not need to invent every artifact from scratch.
-
-The watch returns one last time. The deepest point of the metaphor is governed release. The mainspring alone cannot tell time. Power alone cannot tell time. Motion alone cannot tell time. Innovation alone cannot tell time. Artificial intelligence alone cannot tell time. The watch tells time because power is released through a disciplined architecture of constraint. The GRC capability is that discipline applied to organizational energy. The goal is not to stop motion. A stopped watch has eliminated operational risk by eliminating operation. The goal is better motion. Motion with purpose, tolerance, memory, correction, proof and a named human accountable when the mechanism runs out.
-
-A workbook completed and shelved is paper. A workbook completed and used is a capability.
-
-***Final Liability rests with the Human.***
-
 ## Part of the ecosystem
 
 This workbook is one component of a larger body of AI governance, risk management and compliance work. The canonical map of all repositories is [ECOSYSTEM.md](https://github.com/rolldabones/rolldabones/blob/main/ECOSYSTEM.md) in the profile repository.
@@ -1226,7 +1213,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.1 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.2 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1236,7 +1223,7 @@ The workbook treats the following instruments as reference time. The references 
 
 **A note on AI law**
 
-AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what wins. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care in tempo. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
+AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what wins. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care as a precondition of deployment. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
 
 **OCEG GRC Capability Model 3.5 (Red Book)**
 
@@ -1278,10 +1265,24 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.1 (8 September 2026, KST)**. Patch release: the Module 18 concept, worksheet and outputs lines that still described the scoring superseded by the v4.3 line, and the Artifact Index row that did the same, are recast to agree with the SCORING block, and the repository gains the doctrine citation line it had never carried. The v4.3 line gave the Governance Test scoring a critical-item cap: a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are stated as the author's judgment. Readings taken under the bands the v4.3 line superseded are superseded and are re-taken. The v4.2 line recast the Final Liability consequence lines toward the accountability canon in DOCTRINE.md and added the nominee test. Full history in [CHANGELOG.md](CHANGELOG.md). No change to the other seventeen modules. The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.2 (17 October 2026, KST)**. Patch release, session T3 of the whole-account review of 15 October 2026. Amendment note, 17 October 2026 (KST): the Slow AI statements in the overview, The Three Doctrines, Module 9 and the Closing stated the doctrine as a rate of release; DOCTRINE.md states it as a precondition with three conjunctive tests. They now state the canon, and release tiering stays the instrument. The Final Liability attributes in The Three Doctrines take the canon list form. The ecosystem, license, references, version and citation sections now precede the Closing, so the closing line is last. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to the Governance Test, its scoring or any worksheet. The v4.3.1 line recast the Module 18 lines to agree with the SCORING block and added the doctrine citation line; the v4.3 line gave the Governance Test scoring a critical-item cap (a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are the author's judgment). The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.1. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.2. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
+
+## Closing
+
+Governance, risk management and compliance is the discipline of converting organizational energy into accountable action. The equation PP ≈ Ω(C | SP) ↑ UO holds that discipline in compact form. Principled Performance is approached, never claimed. The cycle turns continuously rather than seasonally. The twenty elements are deployed rather than displayed. The Starting Point is named honestly. The Universal Outcomes are ranked rather than aspired to.
+
+Artificial intelligence does not change the equation. It tests it. The energy profile is higher, the cycle must turn faster, the capabilities must hold under greater load and the oversight must function in real time. The three doctrines are the operating constraints that make that possible. Slow AI sets the precondition for deployment. Informed Intent disciplines authorization. Final Liability holds the named human in place when the system runs.
+
+The Governance Test in Module 18 is the diagnostic. Thirty-seven binary items. No partial credit. The score is not the goal. The score is the audit. The goal is a program that can be read, run, audited and improved by people who do not need to invent every artifact from scratch.
+
+The watch returns one last time. The deepest point of the metaphor is governed release. The mainspring alone cannot tell time. Power alone cannot tell time. Motion alone cannot tell time. Innovation alone cannot tell time. Artificial intelligence alone cannot tell time. The watch tells time because power is released through a disciplined architecture of constraint. The GRC capability is that discipline applied to organizational energy. The goal is not to stop motion. A stopped watch has eliminated operational risk by eliminating operation. The goal is better motion. Motion with purpose, tolerance, memory, correction, proof and a named human accountable when the mechanism runs out.
+
+A workbook completed and shelved is paper. A workbook completed and used is a capability.
+
+***Final Liability rests with the Human.***
