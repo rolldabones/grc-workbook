@@ -2,6 +2,22 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.5 (2026-10-20, KST)
+
+Patch. Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik.
+
+- Legal and standards references corrected against primary sources. The Burgundy Book is named as the OCEG GRC Assessment Framework™ 3.5.1, and GRC Capability Model™ is marked as a trademark, not a registered one (GWB-02, GWB-23). The regulatory-currency note is re-dated and adds the Article 5(1)(ba) and (bb) prohibitions and the Article 111(4) transition for Article 50(2), both applying from 2 December 2026 (GWB-05). The Module 14 worked example adds the Article 6(3) derogation, its profiling exclusion, the Article 6(4) documentation duty and the Article 49(2) registration, and gives the deferred dates of 2 December 2027 and 2 August 2028 (GWB-10, GWB-12). The GDPR Article 22 constraint is restated on its three exceptions (GWB-11). The note on AI law is qualified as the author's synthesis, with the EU AI Act duties that do not turn on reasonableness (GWB-04).
+- Doctrine statements aligned with DOCTRINE.md. The Final Liability statements in About This Workbook and Module 11 use the section 8 sentence form, and the remaining "carries the consequence" lines are recast (GWB-06). Informed Intent now states both limbs, the instrument (purpose, authority, boundaries, exit) and the authorizer, and Module 10 gains an instrument line in its worksheet and an instrument record in its outputs (GWB-09).
+- Governance Test wording aligned with its SCORING block. "Binary" and "single audited count" are replaced with Yes or No, with Not applicable on items 32 and 34 (GWB-07).
+- Missing outputs added. Module 1 records an owner for each element, Module 2 sets the ninety-day refresh for the External Context register and Module 17 produces the AI incident register reviewed at least quarterly, so items 3, 6 and 36 route to modules that produce them. The Artifact Index follows (GWB-08). The Module 12 and 13 worksheets ask for an added organization column rather than overwriting the prescribed patterns (GWB-13). About This Workbook says how to copy a single module (GWB-22).
+- Readability. Wording fixes at P2 Policies, P5 Incentives and References and Authorities (GWB-16, GWB-17). OCEG, NIST, OKR and KST are spelled out at first use (GWB-18). The Part II slogan is explained in one sentence (GWB-19). The Version History paragraph is cut to the current release (GWB-21).
+- LICENSE section 6 lettering now matches the Creative Commons legal code: the closing paragraph of 6(b) is unlettered, and the next two paragraphs are c. and d. (GWB-24). Text unchanged.
+- `CITATION.cff`: the abstract now says the doctrines are applied in Parts II and III, and a preferred citation names the publisher, GRC Solutions Korea, as How to Cite does (GWB-15).
+- Erratum to earlier entries (GWB-14): entries before v4.2.0 predate this file's conventions. v4.0, v3.11 and v3.10 carry two-component versions, and entries before v4.2.0 carry no KST date suffix. They stay as cut.
+- Note on earlier entries (GWB-20): some shipped entries use maintenance shorthand from the account-maintenance repository, whose records are not published here. "Determination D4" is the review plan's rule that an unfinished session's remainder is worked first the next day. "Reviewer report 07" is an unpublished review report. "RUNBOOK.md standing item" is an entry in that repository's register of open maintenance items. "`guards_e.py` E2" is its automated check for a citation of DOCTRINE.md. "Trap 6" is its rule that a version bump must reach every occurrence. The entries stay as cut.
+- Not changed: the OCEG licence statements (GWB-01, accepted by the owner as they stand). The Starting Points and the A4 element name are held until they can be checked against the Red Book 3.5 text (GWB-03, X-03).
+- README masthead, Version History, suggested attribution, How to Cite and `CITATION.cff` to v4.3.5 in lockstep.
+
 ## v4.3.4 (2026-10-20, KST)
 
 - LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.

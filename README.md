@@ -12,7 +12,7 @@ Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.4, 20 October 2026 (Korea Standard Time, KST)*
+*v4.3.5, 20 October 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -20,7 +20,7 @@ Son-U Michael Paik
 
 This repository publishes the Governance, Risk Management and Compliance Workbook as a free professional resource under a Creative Commons Attribution-ShareAlike 4.0 license. The workbook is a working instrument for building, augmenting and auditing an integrated governance, risk management and compliance capability. It is written for general counsel, compliance officers, risk leaders, auditors and the executives who sponsor them. It is built on the OCEG GRC Capability Model 3.5 and anchored in three operating doctrines developed in the author's book *Final Liability Rests with the Human* and operationalized in the companion methodology *Slow AI Kitchen* ([github.com/rolldabones/slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen)).
 
-Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts it produces into the operating cadence of your enterprise. The document is designed to be read top to bottom once and then worked module by module. Module outputs are formatted as checklists so a forked copy can track completion. The [Artifact Index](#artifact-index) maps every module output to the Governance Test item it evidences. Version history is recorded in [CHANGELOG.md](CHANGELOG.md), with the current version noted at the [end of the document](#version-history). Attribution and use terms are stated in [License and Attribution](#license-and-attribution).
+Fork it, mark it up, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts it produces into the operating cadence of your enterprise. The document is designed to be read top to bottom once and then worked module by module. Module outputs are formatted as checklists so a forked copy can track completion. To work one module on its own, copy its section from the module heading to the end of its OUTPUTS checklist into a working file; the Artifact Index names the outputs to carry with it. The [Artifact Index](#artifact-index) maps every module output to the Governance Test item it evidences. Version history is recorded in [CHANGELOG.md](CHANGELOG.md), with the current version noted at the [end of the document](#version-history). Attribution and use terms are stated in [License and Attribution](#license-and-attribution).
 
 ## Contents
 
@@ -76,7 +76,7 @@ A note on scope. The workbook helps organizations address governance, risk manag
 
 Part I unpacks the equation. It treats governance, risk management and compliance as an integrated capability rather than three adjacent functions, and it builds the integrated capability element by element across the four phases of the cycle. The reader who completes Part I has a working mechanism.
 
-Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent is the condition that authorization is meaningful only when the authorizing human knows what is being authorized. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
+Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
 
 Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen and audited within the same Operational Cycle. The unit of analysis becomes the AI system rather than the organization, but the elements and outcomes are the same.
 
@@ -118,9 +118,11 @@ Slow AI: AI that cannot be governed, explained and audited is not deployed; the 
 
 **Informed Intent**
 
-*Authorization is meaningful only when the authorizing human knows what is being authorized.*
+*No AI system, and above all no AI agent, acts on the organization's behalf without prior authorization that specifies what it may do, on whose authority, within what boundaries and with what exit, given by a human who is in a position to give it.*
 
-Informed Intent requires that any consequential artificial intelligence action be authorized by a human who has the knowledge, the evidence, the authority, the time and the permission to authorize it. Each of the five conditions is necessary. A signature without knowledge is administrative. A signature without evidence is unfounded. A signature without authority is invalid. A signature without time is reflexive. A signature without permission is unfree. The doctrine is operationalized by treating each authorization point in the cycle as a five-condition gate. It is the watch's crown. Small, decisive, valid only when turned by a hand that knows what is being set.
+Informed Intent: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions. The doctrine has two limbs, both required, as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md) section 2. The instrument is what the authorization must contain: purpose, authority, boundaries, exit. The authorizer is whether the signature counts, and this workbook operationalizes that limb as the five-condition gate of Module 10.
+
+The authorizer limb requires that any consequential artificial intelligence action be authorized by a human who has the knowledge, the evidence, the authority, the time and the permission to authorize it. Each of the five conditions is necessary. A signature without knowledge is administrative. A signature without evidence is unfounded. A signature without authority is invalid. A signature without time is reflexive. A signature without permission is unfree. The doctrine is operationalized by treating each authorization point in the cycle as a five-condition gate. It is the watch's crown. Small, decisive, valid only when turned by a hand that knows what is being set.
 
 **Final Liability**
 
@@ -168,7 +170,7 @@ Begin by locating the organization on each variable in the equation. Brief, cand
 
 - State the organization's Principled Performance in one sentence. The reliable achievement, the uncertainty addressed and the conduct standard.
 - Identify whether the four phases of the cycle are present, named and connected by feedback. Note which phase is weakest.
-- List which of the twenty elements the organization can name and locate today. Note which it cannot.
+- List which of the twenty elements the organization can name and locate today, with the current owner of each. Note which it cannot locate and which has no owner.
 - Name the Starting Point. SP0 Blank Canvas, SP1 Topical, SP2 Discipline, SP3 Element or SP4 Crisis. Justify the choice.
 - Rank the ten Universal Outcomes in order of current priority for the organization. The ranking is the operating thesis.
 - Identify the single variable in the equation most responsible for current weakness. Be specific.
@@ -176,7 +178,7 @@ Begin by locating the organization on each variable in the equation. Brief, cand
 **OUTPUTS**
 
 - [ ] One-sentence Principled Performance statement.
-- [ ] Element inventory. Twenty entries marked present, partial or absent.
+- [ ] Element inventory. Twenty entries marked present, partial or absent, each with its current owner.
 - [ ] Starting Point declaration with rationale.
 - [ ] Universal Outcomes ranking, dated and signed.
 - [ ] Equation diagnosis. The weakest variable and its consequence.
@@ -225,11 +227,11 @@ Complete one entry per element. Brevity is permitted. Accuracy is not optional.
 - Internal Context. State the operating model in five sentences. Identify the single largest gap between the diagram and the reality.
 - Culture. Name three repeatable behaviors that reveal what this organization actually rewards. Cite evidence.
 - Stakeholders. Identify the stakeholder whose interests are least represented in current decision forums and explain why.
-- Cadence. State how often each of the above is refreshed and by whom.
+- Cadence. State how often each of the above is refreshed and by whom. The External Context register is refreshed at least every ninety days.
 
 **OUTPUTS**
 
-- [ ] Dated External Context register.
+- [ ] Dated External Context register, refreshed at least every ninety days.
 - [ ] Internal Context narrative, signed.
 - [ ] Culture evidence file. Behaviors, examples, dates.
 - [ ] Stakeholder map. Parties, requirements, channels.
@@ -570,7 +572,7 @@ The metaphor is a thinking aid. Use it where it sharpens thinking and let it fal
 
 Part II turns to the augmentation of the integrated capability with artificial intelligence. The same equation governs. PP ≈ Ω(C | SP) ↑ UO. The integration of artificial intelligence does not alter the equation. It changes the way capabilities are deployed within it. Part II frames that integration through three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI. Informed Intent. Final Liability.
 
-Prompt or agent, one rule. **Human-made, for Easy Work, Simply Done.** Grounded in the workflow. Built to make it easier. Easy to maintain, operate and fix.
+Prompt or agent, one rule. **Human-made, for Easy Work, Simply Done.** Grounded in the workflow. Built to make it easier. Easy to maintain, operate and fix. The work can be easy because the machine does the fetching and the assembly; what stays human-made is the governance, which the three doctrines below secure.
 
 ### Module 9. Slow AI Inside the Cycle
 
@@ -644,6 +646,7 @@ The five conditions are tested at the level of the action, not the level of the 
 
 Use a single artificial intelligence authorization in the organization as the test case. Run the five conditions against it.
 
+- Instrument. Confirm that the authorization states its purpose, authority, boundaries and exit. Record the boundaries and the exit as written. An authorization with no stated exit fails this line.
 - Knowledge. State what the authorizing human is required to know in order to authorize. Confirm whether that knowledge is documented.
 - Evidence. List the evidence available at the moment of authorization. Confirm whether dissenting views and alternatives considered are included.
 - Authority. Confirm that the authorizing human has the documented institutional power to bind the organization to the action.
@@ -653,6 +656,7 @@ Use a single artificial intelligence authorization in the organization as the te
 
 **OUTPUTS**
 
+- [ ] Authorization instrument record per authorization point: purpose, authority, boundaries, exit.
 - [ ] Five-condition gate documentation per authorization point.
 - [ ] Per-action audit log with red entries identified.
 - [ ] Evidence-availability checklist embedded in workflow.
@@ -661,7 +665,7 @@ Use a single artificial intelligence authorization in the organization as the te
 
 ### Module 11. Final Liability and the Evidence Pack
 
-> *"The artificial intelligence carries no consequence. The named human does. The system is designed around that fact."*
+> *"The artificial intelligence is accountable for nothing. The named human is. The system is designed around that fact."*
 >
 > **The watch.** *The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. Accountability attaches to a named human only when the record is preserved.*
 
@@ -719,7 +723,7 @@ In PERFORM, artificial intelligence operates Controls, drafts Policies, drives C
 
 In REVIEW, artificial intelligence performs Monitoring, contributes to Assurance and proposes Improvement actions. The phase is the most dangerous for artificial intelligence because it is the phase that catches errors. An artificial intelligence reviewing its own outputs is structurally compromised. Slow AI prohibits closed-loop Assurance. Informed Intent requires that the human Assurance reviewer can override the artificial intelligence. Final Liability is the named independent reviewer.
 
-The table below provides a per-element view. The reader is expected to populate the right-hand columns for the organization being assessed.
+The table below provides a per-element view. The table is populated with the workbook's prescribed patterns and constraints. The reader adds an organization column recording the current practice of the organization being assessed against each row.
 
 **AUGMENTATION TABLE BY ELEMENT**
 
@@ -748,7 +752,7 @@ The table below provides a per-element view. The reader is expected to populate 
 
 **WORKSHEET**
 
-Populate the right two columns of the table above for your organization. Note any element where the augmentation pattern is currently absent or undisciplined.
+Add an organization column to the table above recording your organization's current practice against each element's pattern and constraint. Note any element where the augmentation pattern is currently absent or undisciplined.
 
 - For each of the four phases, identify the single highest-value augmentation underway.
 - For each, identify the single highest-risk augmentation underway.
@@ -757,7 +761,7 @@ Populate the right two columns of the table above for your organization. Note an
 
 **OUTPUTS**
 
-- [ ] Populated augmentation table.
+- [ ] Augmentation table with the organization column completed.
 - [ ] Phase-level highest-value and highest-risk lists.
 - [ ] Doctrinal constraint audit per phase.
 - [ ] Replacement audit flagging any unintended substitution.
@@ -801,7 +805,7 @@ These functions are commonly grouped under the three lines of defense convention
 
 **WORKSHEET**
 
-Populate the table for your organization. The constraint column is the one most often left implicit and most often the source of failure.
+Add an organization column to the table recording your organization's current practice against each function's patterns and constraints. The constraint column is the one most often left implicit and most often the source of failure.
 
 - For each function, name the lead and confirm their Final Liability artifact set.
 - For each function, identify the artificial intelligence currently in use and the tier under the Slow AI scale.
@@ -869,9 +873,9 @@ Informed Intent governs the first reading. Article 6 turns on intended purpose, 
 
 Final Liability governs the second reading. Intent does not shield the provider. A system built only for efficiency or comfort is still a safety component if its failure could endanger health or safety. The Commission's own illustrations are combustion-efficiency control that could cause a fire, lift-door timing that could injure and lane assistance that could steer into a collision. Consequence governs, not the label. Liability also migrates. A distributor, importer or deployer that puts its name on a system, modifies it substantially or repurposes it into a high-risk use inherits the provider's obligations. The named human is whoever last shaped purpose or presentation. A lighter conformity route does not lower the classification, because procedure does not dissolve accountability.
 
-Slow AI governs the timing. The guidance hands the careful operator a failure-mode vocabulary. Incorrect outputs, loss of function, performance instability and drift, latency errors and misclassification that drives a hazardous decision, each judged in the product context rather than in the abstract. Classification is fast. Understanding how the system fails is slow, and it is the work that follows the gate. The European timetable rewards the deliberate, deferring the substantive obligations for the listed use cases and the regulated products to dates years after the Act's entry into force, with a later backstop for public authorities, and a system loses its grandfathered status the moment it undergoes a significant design change. Because those application dates have been legislated, deferred and revised, this example does not pin to any of them; the operator should confirm the current schedule against the primary source. The dates do not move with the technical standards, which remain unfinished, so the inventory and the failure analysis begin now.
+Slow AI governs the timing. The guidance hands the careful operator a failure-mode vocabulary. Incorrect outputs, loss of function, performance instability and drift, latency errors and misclassification that drives a hazardous decision, each judged in the product context rather than in the abstract. Classification is fast. Understanding how the system fails is slow, and it is the work that follows the gate. The European timetable rewards the deliberate, deferring the substantive obligations for the listed use cases to 2 December 2027 and for the regulated products to 2 August 2028 under Regulation (EU) 2026/1744 (Article 113, third paragraph, point (c), as replaced), with a later backstop for public authorities, and a system loses its grandfathered status the moment it undergoes a significant design change. Because those application dates have been legislated, deferred and revised, the operator should confirm the current schedule against the primary source. The dates do not move with the technical standards, which remain unfinished, so the inventory and the failure analysis begin now.
 
-Worked into the inventory, the European instance fills the fields the module already requires. The applicable pathway, Article 6(1) for the product-safety route or Article 6(2) for a listed use case, and, where the Article 6(3) derogation is relied on, the documented assessment and the Article 49(2) registration. The intended purpose as expressed across all materials. The failure modes that could create a safety hazard. The conformity route and the entry-into-application date. The named human who carries Final Liability. The method does not change at the border. The regime supplies the rules and the doctrines supply the discipline for reading them.
+Worked into the inventory, the European instance fills the fields the module already requires. The applicable pathway, Article 6(1) for the product-safety route or Article 6(2) for a listed use case, and, where the Article 6(3) derogation is relied on, the documented assessment and the Article 49(2) registration. The intended purpose as expressed across all materials. The failure modes that could create a safety hazard. The conformity route and the entry-into-application date. The named human owner to whom the outcome attaches. The method does not change at the border. The regime supplies the rules and the doctrines supply the discipline for reading them.
 
 ### Module 15. Human Oversight as Capability, Not Compliance
 
@@ -992,6 +996,7 @@ Build the AI audit plan against the inventory.
 - Independence. Confirm the audit function's reporting line and access.
 - Conformity. For each system subject to a high-consequence classification under any applicable regime, identify the technical file or equivalent documentation status and the named owner. Different jurisdictions impose analogous obligations under different document sets and the reader is responsible for identifying them.
 - Cadence. Define audit cadence per consequence tier. Identify any system overdue.
+- Incidents. Maintain an AI incident register recording each incident and near miss, its named owner and its corrective and preventive action. Review the register at least quarterly.
 
 **OUTPUTS**
 
@@ -1000,12 +1005,13 @@ Build the AI audit plan against the inventory.
 - [ ] Audit independence confirmation.
 - [ ] Conformity assessment status register.
 - [ ] Audit cadence calendar.
+- [ ] AI incident register, reviewed at least quarterly.
 
 ### Module 18. The Governance Test
 
 > *"An organization that cannot answer thirty-seven questions about its AI program, each Yes or No, with Not applicable on items 32 and 34, does not have a program. It has a position."*
 >
-> **The watch.** *A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
+> **The watch.** *A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test gives no partial credit because counterfeits depend on it.*
 
 **CONCEPT**
 
@@ -1124,14 +1130,14 @@ The workbook produces its capability through artifacts. The index below gathers 
 | **7. Starting Point and Outcomes**  | Starting Point declaration with evidence. Residue analysis. Universal Outcomes ranking. Trend and risk notes.                               | 4 and 5        |
 | **8. The Watch**                    | Selective metaphor map. Dial audit. Service interval calendar.                                                                              | None scored    |
 | **9. Slow AI**                      | Tier scale. Use-case register. Tier movement evidence file. Retraction protocol. Cycle-phase tier map.                                      | 26             |
-| **10. Informed Intent**             | Five-condition gate documentation. Per-action audit log. Evidence-availability checklist. Authority register. Refusal cases catalog.        | 27             |
+| **10. Informed Intent**             | Authorization instrument record. Five-condition gate documentation. Per-action audit log. Evidence-availability checklist. Authority register. Refusal cases catalog.        | 27             |
 | **11. Final Liability**             | Named-human register. Evidence pack template and retention policy. Corrective capacity confirmation. Coverage audit. Continuity register.   | 28             |
-| **12. Augmentation by Phase**       | Populated augmentation table. Value and risk lists per phase. Doctrinal constraint audit. Replacement audit.                                | 26 to 28       |
+| **12. Augmentation by Phase**       | Augmentation table with organization column. Value and risk lists per phase. Doctrinal constraint audit. Replacement audit.                 | 26 to 28       |
 | **13. Augmentation by Function**    | Function leader register. Use-case inventory with tiering. Function-level Informed Intent audit. Constraint-gap list.                       | 26 to 28       |
 | **14. Inventory and Classification** | AI inventory. Shadow AI disposition plan. Multi-jurisdictional classification. Internal consequence classification. Review trigger list.   | 29 and 30      |
 | **15. Oversight**                   | Oversight role definitions. Authority register. Information design review. Calibration table. Effectiveness log.                            | 31             |
 | **16. Agentic AI**                  | Agent inventory. Reversibility classification. Switch register. Final Liability artifact set per agent. Scope expansion log.                | 32             |
-| **17. Audit and Assurance**         | AI audit plan. Evidence-layer status. Independence confirmation. Conformity status register. Audit cadence calendar.                        | 33 to 36       |
+| **17. Audit and Assurance**         | AI audit plan. Evidence-layer status. Independence confirmation. Conformity status register. Audit cadence calendar. AI incident register.  | 33 to 36       |
 | **18. The Governance Test**         | Completed test with result: count, plus cap and failed item where any critical item is No. Remediation owners and dates. Administration schedule. | 37 |
 
 ## Quick Mapping Reference
@@ -1213,7 +1219,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.4 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.5 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1223,7 +1229,7 @@ The workbook treats the following instruments as reference points. The reference
 
 **A note on AI law**
 
-AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what win. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care as a precondition of deployment. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
+AI liability is not robot law. It is ordinary governance at machine speed. In the author's synthesis, offered as a working heuristic rather than a legal standard, much of the analysis across jurisdictions turns on one question. Did the organization run reasonable controls before and after deployment? No single authority states that test, and it does not displace specific regulatory duties: under the EU AI Act, the prohibited practices of Article 5, the requirements for high-risk systems in Articles 9 to 15 and the provider obligations in Article 16 apply as written, whether or not the controls around them were reasonable. Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what win. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care as a precondition of deployment. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
 
 **OCEG GRC Capability Model 3.5 (Red Book)**
 
@@ -1265,11 +1271,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.4 (20 October 2026, KST)**. Patch release. LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.5 (20 October 2026, KST)**. Patch release. Corrections from the independent review of 20 October 2026: legal and standards references corrected against primary sources, the Governance Test wording aligned with its scoring, the Final Liability and Informed Intent statements aligned with DOCTRINE.md, missing outputs added to Modules 1, 2, 10 and 17 and the LICENSE section 6 lettering matched to the Creative Commons legal code. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.5. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
