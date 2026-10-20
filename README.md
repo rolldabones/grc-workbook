@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.3, 18 October 2026 (KST)*
+*v4.3.4, 20 October 2026 (KST)*
 
 ---
 
@@ -1213,7 +1213,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.3 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.4 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1265,11 +1265,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.3 (18 October 2026, KST)**. Patch release, session T4 of the whole-account review of 15 October 2026, carried over from T3. Amendment note, 18 October 2026 (KST): Module 11's Final Liability concept listed the named human's means as "knowledge, evidence and capacity to remediate", a list that matched neither the canon's three attributes nor this workbook's own Three Doctrines section; it now names the three attributes, with the evidence to defend the decision and the capacity to remediate. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to any worksheet or to the Governance Test. The v4.3.2 line (17 October 2026): the Slow AI statements in the overview, The Three Doctrines, Module 9 and the Closing stated the doctrine as a rate of release; DOCTRINE.md states it as a precondition with three conjunctive tests. They now state the canon, and release tiering stays the instrument. The Final Liability attributes in The Three Doctrines take the canon list form. The ecosystem, license, references, version and citation sections now precede the Closing, so the closing line is last. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to the Governance Test, its scoring or any worksheet. The v4.3.1 line recast the Module 18 lines to agree with the SCORING block and added the doctrine citation line; the v4.3 line gave the Governance Test scoring a critical-item cap (a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are the author's judgment). The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.4 (20 October 2026, KST)**. Patch release. LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged. The v4.3.3 line (18 October 2026): patch release, session T4 of the whole-account review of 15 October 2026, carried over from T3. Amendment note, 18 October 2026 (KST): Module 11's Final Liability concept listed the named human's means as "knowledge, evidence and capacity to remediate", a list that matched neither the canon's three attributes nor this workbook's own Three Doctrines section; it now names the three attributes, with the evidence to defend the decision and the capacity to remediate. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to any worksheet or to the Governance Test. The v4.3.2 line (17 October 2026): the Slow AI statements in the overview, The Three Doctrines, Module 9 and the Closing stated the doctrine as a rate of release; DOCTRINE.md states it as a precondition with three conjunctive tests. They now state the canon, and release tiering stays the instrument. The Final Liability attributes in The Three Doctrines take the canon list form. The ecosystem, license, references, version and citation sections now precede the Closing, so the closing line is last. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to the Governance Test, its scoring or any worksheet. The v4.3.1 line recast the Module 18 lines to agree with the SCORING block and added the doctrine citation line; the v4.3 line gave the Governance Test scoring a critical-item cap (a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are the author's judgment). The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.3. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.4. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

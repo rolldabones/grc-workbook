@@ -2,6 +2,11 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.4 (2026-10-20, KST)
+
+- LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged.
+- README masthead, Version History, suggested attribution, How to Cite and `CITATION.cff` to v4.3.4 in lockstep.
+
 ## v4.3.3 (2026-10-18, KST)
 
 Patch. Session T4 of the whole-account review of 15 October 2026, worked first under determination D4 as the item T3 carried over. Found outside the review in T3 and ruled by Michael on 17 October 2026: Module 11's Final Liability concept listed the named human's means in words that are neither the canon's three attributes (DOCTRINE.md section 8, list form) nor the list this workbook's own The Three Doctrines section uses. That is a variant compression, so the superseded wording is **STRUCK** below.
