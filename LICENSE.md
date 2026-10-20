@@ -25,7 +25,7 @@ This summary is not a substitute for the license. The full legal code at the lin
 
 ## Scope
 
-This license applies to the Governance, Risk Management and Compliance Workbook in its entirety, per the License and Attribution section of the workbook. The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license; the whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
+This license applies to the Governance, Risk Management and Compliance Workbook in its entirety, per the License and Attribution section of the workbook. The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license; the whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
 ---
 
@@ -179,11 +179,11 @@ Section 6 – Term and Termination.
 
           2. upon express reinstatement by the Licensor.
 
-     c.	For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+     For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
-     d.	For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+     c.	For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
-     e.	Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+     d.	Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 Section 7 – Other Terms and Conditions.
 

@@ -2,7 +2,7 @@
 
 *Foundations, Augmentation and AI Governance*
 
-Built on the OCEG GRC Capability Model
+Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 **PP ≈ Ω(C | SP) ↑ UO**
 
@@ -12,7 +12,7 @@ Built on the OCEG GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.4, 20 October 2026 (KST)*
+*v4.3.4, 20 October 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -76,13 +76,13 @@ A note on scope. The workbook helps organizations address governance, risk manag
 
 Part I unpacks the equation. It treats governance, risk management and compliance as an integrated capability rather than three adjacent functions, and it builds the integrated capability element by element across the four phases of the cycle. The reader who completes Part I has a working mechanism.
 
-Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent is the condition that authorization is meaningful only when the authorizing human knows what is being authorized. Final Liability is the constraint that a named human carries the consequence of every consequential artificial intelligence action.
+Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent is the condition that authorization is meaningful only when the authorizing human knows what is being authorized. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
 
 Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen and audited within the same Operational Cycle. The unit of analysis becomes the AI system rather than the organization, but the elements and outcomes are the same.
 
 The work is sequential. Part I cannot be skipped without leaving the augmentation in Parts II and III standing on air. The most common failure pattern in artificial intelligence governance is to begin with Part III and discover, after enforcement or incident, that Part I was never built.
 
-Each module has the same anatomy. Concept. Application. Worksheet. Outputs. The output of each worksheet is a small concrete artifact. Register. Map. Statement. Test record. The output of the whole workbook is a thirty-seven item Governance Test that converts the program into a single audited count. The reader is invited to mark up this workbook, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts produced into the actual operating cadence of the enterprise.
+Each module has the same anatomy. Concept. Application. Worksheet. Outputs. The output of each worksheet is a small concrete artifact. Register. Map. Statement. Test record. The output of the whole workbook is a thirty-seven item Governance Test, each item answered Yes or No, with Not applicable on items 32 and 34. The reader is invited to mark up this workbook, refuse where refusal is warranted, substitute jurisdiction-specific or sector-specific language and bring the artifacts produced into the actual operating cadence of the enterprise.
 
 A note on the watch. The workbook uses the mechanical watch as a recurring illustration of the GRC capability. Each module opens with a short watch motif and Module 8 develops the analogy in full. The watch is a thinking aid, not a thesis. It earns its place where it sharpens the discipline and is dropped where it would obscure it. Readers who prefer to read past the metaphor lose nothing of the model.
 
@@ -104,7 +104,7 @@ Universal Outcomes (↑ UO) are the ten overarching aims toward which the progra
 
 Two organizations using the same model produce different programs because they sit at different Starting Points and rank the Universal Outcomes differently. The equation is the stable reference under change. Strategies, regulations and technologies change. The four components, twenty elements, Starting Points and Universal Outcomes have remained workable for two decades because they describe how organizations behave rather than what they comply with.
 
-Note on attribution. The four components, twenty elements, ten Universal Outcomes and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), which is an open standard. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG. The equation form above is a compression used in this workbook to keep the model accessible.
+Note on attribution. The four components, twenty elements, ten Universal Outcomes and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), which is an open standard. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG. The equation form above is a compression used in this workbook to keep the model accessible.
 
 ## The Three Doctrines
 
@@ -195,7 +195,7 @@ LEARN is also where most programs underinvest. PERFORM is visible. LEARN is not.
 
 **L1. External Context**
 
-External Context covers the regulatory environment, the market, the geopolitical landscape, the supply base, technology change and any other condition originating outside the organization that affects its capacity to operate. For an artificial intelligence vendor the External Context now includes jurisdictional AI statutes, NIST AI 100-1 and 600-1, ISO/IEC 42001:2023, sector regulators in every jurisdiction of operation and the public expectations expressed through media, civil society and incident litigation.
+External Context covers the regulatory environment, the market, the geopolitical landscape, the supply base, technology change and any other condition originating outside the organization that affects its capacity to operate. For an artificial intelligence vendor the External Context now includes jurisdictional AI statutes, National Institute of Standards and Technology (NIST) AI 100-1 and 600-1, ISO/IEC 42001:2023, sector regulators in every jurisdiction of operation and the public expectations expressed through media, civil society and incident litigation.
 
 External Context is read continuously. It is documented in a form that an executive, a regulator or an auditor can inspect. The document has a date and an owner. When the context changes, the document changes and the change triggers the next phase of the cycle.
 
@@ -315,7 +315,7 @@ Controls are rated by design and by operating effectiveness. A control that is d
 
 **P2. Policies**
 
-Policies are the codified expression of mandatory and recommended behavior. They are the rulebook. A policy is judged by clarity, by accessibility, by enforceability and by reflection in actual conduct. Policies that no one can find, read or apply are unforced.
+Policies are the codified expression of mandatory and recommended behavior. They are the rulebook. A policy is judged by clarity, by accessibility, by enforceability and by reflection in actual conduct. Policies that no one can find, read or apply are unenforced.
 
 Policy hygiene matters. Policies are dated, versioned, owned, reviewed on schedule and explicitly retired when superseded. An organization with multiple living policies on the same subject has no policy on that subject.
 
@@ -335,7 +335,7 @@ Education has a curriculum, a delivery, a practice component and an evaluation. 
 
 Incentives are what the organization actually rewards. They include compensation, but extend to promotion, recognition, autonomy and the assignment of high-visibility work. Incentives are the most powerful single determinant of behavior, and they are the element most prone to contradiction with stated Direction.
 
-A Direction that says safety first and a bonus plan that pays only on shipped units has chosen the bonus plan. An incentive audit asks against what this organization actually pays, in any currency, and whether that is consistent with what it has told its people to do.
+A Direction that says safety first and a bonus plan that pays only on shipped units has chosen the bonus plan. An incentive audit asks what this organization actually pays for, in any currency, and whether that is consistent with what it has told its people to do.
 
 **WORKSHEET**
 
@@ -423,7 +423,7 @@ Monitoring is calibrated. A green indicator that stays green when the underlying
 
 **R2. Assurance**
 
-Assurance is independent confirmation that the capability is designed and operating as represented. The Red Book aligns Assurance with the integrated audit and assurance discipline expressed in its companion Burgundy Book. Assurance is performed by a function or party that is not the owner of the capability under review.
+Assurance is independent confirmation that the capability is designed and operating as represented. The Red Book aligns Assurance with the integrated audit and assurance discipline expressed in its companion Burgundy Book, the GRC Assessment Framework™. Assurance is performed by a function or party that is not the owner of the capability under review.
 
 Assurance has multiple sources. Internal audit, external audit, regulatory examination, third-party certification and second-line review each contribute. A coherent assurance map names each source, the scope, the cadence and the dependency. Overlapping assurance is acceptable. Unmapped assurance is dangerous.
 
@@ -663,11 +663,11 @@ Use a single artificial intelligence authorization in the organization as the te
 
 > *"The artificial intelligence carries no consequence. The named human does. The system is designed around that fact."*
 >
-> **The watch.** *The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. A named human carries the consequence only when the record is preserved.*
+> **The watch.** *The click prevents the mainspring from unwinding backward during winding. In an organization, the click is institutional memory. Records, version history, approval trails, model cards and meeting minutes prevent the enterprise from moving backward into denial. Final Liability requires that the click hold. Accountability attaches to a named human only when the record is preserved.*
 
 **CONCEPT**
 
-Final Liability is the constraint that for every consequential artificial intelligence action, a named human carries the consequence. The doctrine is not allocation of blame. It is allocation of design. When the named human is established in advance, the surrounding system is built so that the named human can actually carry the consequence: decision rights, oversight and the power to intervene, with the evidence to defend the decision and the capacity to remediate.
+Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene. The doctrine is not allocation of blame. It is allocation of design. When the named human is established in advance, the surrounding system is built so that the named human can actually carry the consequence: decision rights, oversight and the power to intervene, with the evidence to defend the decision and the capacity to remediate.
 
 The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. None of the three is optional. An organization with named humans but no evidence packs has nominal liability. An organization with evidence packs but no corrective and preventive action capacity is performing a postmortem without a treatment plan.
 
@@ -730,7 +730,7 @@ The table below provides a per-element view. The reader is expected to populate 
 | **L3. Culture**          | Sentiment analysis of internal communications, exception pattern detection. | Slow AI tier 1. No employee surveillance. Cultural reading remains human.                    |
 | **L4. Stakeholders**     | Stakeholder mapping, requirement extraction, channel monitoring.            | Final Liability. Named human owns map. No automated stakeholder action.                      |
 | **A1. Direction**        | Scenario generation, strategic option synthesis.                            | Slow AI tier 2. Recommendation only. Decision human.                                         |
-| **A2. Objectives**       | Measure design support, OKR drafting, indicator suggestion.                 | Informed Intent. Human authority over Objective adoption.                                    |
+| **A2. Objectives**       | Measure design support, objectives and key results (OKR) drafting, indicator suggestion. | Informed Intent. Human authority over Objective adoption.                                    |
 | **A3. Identification**   | Risk surfacing, scenario expansion, near-miss aggregation.                  | Slow AI tier 2-3. Bias audit on identification set required.                                 |
 | **A4. Analysis**         | Likelihood estimation, consequence modeling, velocity assessment.           | Informed Intent. Confidence and basis recorded with every estimate.                          |
 | **A5. Design**           | Response option generation, control library mapping.                        | Final Liability. Named human on every Design record.                                         |
@@ -782,7 +782,7 @@ Risk management uses artificial intelligence for identification, analysis, model
 
 Information security uses artificial intelligence for detection, triage, response and threat modeling. The doctrinal constraints are calibrated to escalation. Autonomous response is bounded to clearly defined scenarios with reversible action. Human-in-the-loop applies to anything affecting users or partners.
 
-Privacy uses artificial intelligence for impact assessment support, breach analysis, request handling and consent monitoring. The doctrinal constraints are calibrated to data subjects. No automated individual decision-making without legal basis. Named privacy owner on every assessment.
+Privacy uses artificial intelligence for impact assessment support, breach analysis, request handling and consent monitoring. The doctrinal constraints are calibrated to data subjects. No solely automated decision with legal or similarly significant effects except under the three exceptions in Article 22(2) of the General Data Protection Regulation (GDPR): necessity for a contract, explicit consent or authorization by Union or Member State law. Named privacy owner on every assessment.
 
 Internal Audit uses artificial intelligence for population testing, sample selection, anomaly detection and drafting support. The doctrinal constraints are calibrated to independence. The artificial intelligence is not the auditor. It is the auditor's tool. The auditor's conclusion is human.
 
@@ -796,7 +796,7 @@ These functions are commonly grouped under the three lines of defense convention
 | **Compliance**           | Obligation mapping. Policy drafting. Training content. Control mapping.    | Paraphrased obligations replacing source. Autonomous regulatory disclosure.                        | Mapping auditable to source. Disclosure signed by named officer.       |
 | **Risk**                 | Identification expansion. Analysis support. Scenario generation. Modeling. | Final quantification on high-consequence exposures. Autonomous appetite change.                    | Confidence and basis recorded. Quantification reviewed by named human. |
 | **Information Security** | Detection. Triage. Threat modeling. Drafting incident reports.             | Autonomous response affecting users or partners. Closed-loop self-assurance.                       | Bounded autonomy. Human-on-the-loop for material action.               |
-| **Privacy**              | Impact assessment support. Request triage. Consent log analysis.           | Automated individual decision-making without legal basis. Subject profiling for unstated purposes. | Legal basis confirmed. Named privacy owner per assessment.             |
+| **Privacy**              | Impact assessment support. Request triage. Consent log analysis.           | Solely automated decisions with legal or similarly significant effects outside the three GDPR Article 22(2) exceptions. Subject profiling for unstated purposes. | Legal basis confirmed. Named privacy owner per assessment.             |
 | **Internal Audit**       | Population testing. Sample selection. Anomaly detection. Drafting.         | Self-review of artificial intelligence by artificial intelligence. Conclusion generation.          | Independence preserved. Human auditor conclusion.                      |
 
 **WORKSHEET**
@@ -863,15 +863,15 @@ Begin the inventory immediately, even if incomplete. An incomplete inventory bea
 
 The method above is jurisdiction-agnostic. The European Union supplies a concrete instance worth working in full because each of its moving parts exercises one of the three doctrines. In May 2026 the European Commission published draft guidelines for classifying high-risk AI systems under Article 6 of the AI Act. The guidelines are interpretive and not binding. Only the Court of Justice gives an authoritative reading. They decide whether the obligations attach, not whether a system is safe. They are the gate, not the destination.
 
-Article 6 runs along two pathways. The first covers an AI system that is a safety component of a regulated product, or is itself such a product, where that product must undergo third-party conformity assessment. The second covers the listed use cases. Every entry in the inventory is tested against both.
+Article 6 runs along two pathways. The first covers an AI system that is a safety component of a regulated product, or is itself such a product, where that product must undergo third-party conformity assessment. The second covers the listed use cases. Every entry in the inventory is tested against both. A listed use case falls outside the second pathway only through the Article 6(3) derogation: the system does not pose a significant risk of harm to the health, safety or fundamental rights of natural persons, including by not materially influencing the outcome of decision making, and it meets one of the four conditions that paragraph sets. The derogation is never available where the system performs profiling of natural persons. A provider that relies on it documents its assessment before the system is placed on the market or put into service and provides that documentation on request (Article 6(4)), and registers the system in the EU database before it is placed on the market or put into service (Article 49(2)).
 
 Informed Intent governs the first reading. Article 6 turns on intended purpose, and the Commission reads intent from the provider's own materials. A system presented as broadly capable, without consistent and concrete limits on high-risk use, is deemed to be intended for those uses and is classified high-risk. A disclaimer in the terms of service does not cure a presentation that promotes the use. Intent is real only when it is expressed clearly, concretely and coherently across every document. The classification turns on what the organization said it built, so the inventory records the intended purpose as expressed across all materials rather than as privately understood.
 
 Final Liability governs the second reading. Intent does not shield the provider. A system built only for efficiency or comfort is still a safety component if its failure could endanger health or safety. The Commission's own illustrations are combustion-efficiency control that could cause a fire, lift-door timing that could injure and lane assistance that could steer into a collision. Consequence governs, not the label. Liability also migrates. A distributor, importer or deployer that puts its name on a system, modifies it substantially or repurposes it into a high-risk use inherits the provider's obligations. The named human is whoever last shaped purpose or presentation. A lighter conformity route does not lower the classification, because procedure does not dissolve accountability.
 
-Slow AI governs the timing. The guidance hands the careful operator a failure-mode vocabulary. Incorrect outputs, loss of function, performance instability and drift, latency errors and misclassification that drives a hazardous decision, each judged in the product context rather than in the abstract. Classification is fast. Understanding how the system fails is slow, and it is the work that follows the gate. The European timetable rewards the deliberate, deferring the substantive obligations for the listed use cases and the regulated products by a period of years after classification, with a later backstop for public authorities, and a system loses its grandfathered status the moment it undergoes a significant design change. Because those application dates have been legislated, deferred and revised, this example does not pin to any of them; the operator should confirm the current schedule against the primary source. The dates do not move with the technical standards, which remain unfinished, so the inventory and the failure analysis begin now.
+Slow AI governs the timing. The guidance hands the careful operator a failure-mode vocabulary. Incorrect outputs, loss of function, performance instability and drift, latency errors and misclassification that drives a hazardous decision, each judged in the product context rather than in the abstract. Classification is fast. Understanding how the system fails is slow, and it is the work that follows the gate. The European timetable rewards the deliberate, deferring the substantive obligations for the listed use cases and the regulated products to dates years after the Act's entry into force, with a later backstop for public authorities, and a system loses its grandfathered status the moment it undergoes a significant design change. Because those application dates have been legislated, deferred and revised, this example does not pin to any of them; the operator should confirm the current schedule against the primary source. The dates do not move with the technical standards, which remain unfinished, so the inventory and the failure analysis begin now.
 
-Worked into the inventory, the European instance fills the fields the module already requires. The applicable pathway, Article 6(1) for the product-safety route or Article 6(2) for a listed use case. The intended purpose as expressed across all materials. The failure modes that could create a safety hazard. The conformity route and the entry-into-application date. The named human who carries Final Liability. The method does not change at the border. The regime supplies the rules and the doctrines supply the discipline for reading them.
+Worked into the inventory, the European instance fills the fields the module already requires. The applicable pathway, Article 6(1) for the product-safety route or Article 6(2) for a listed use case, and, where the Article 6(3) derogation is relied on, the documented assessment and the Article 49(2) registration. The intended purpose as expressed across all materials. The failure modes that could create a safety hazard. The conformity route and the entry-into-application date. The named human who carries Final Liability. The method does not change at the border. The regime supplies the rules and the doctrines supply the discipline for reading them.
 
 ### Module 15. Human Oversight as Capability, Not Compliance
 
@@ -969,7 +969,7 @@ Inventory every live agentic deployment. The unit of analysis is the agent, not 
 
 Audit and assurance over AI systems is the application of REVIEW to a complication whose internals are partially opaque. The auditor cannot read every weight. The auditor can test inputs, observe outputs, examine training data documentation, examine evaluation results, examine change records, examine incident logs and form a judgment supported by evidence.
 
-Assurance over AI is converging with general assurance over GRC capabilities, with the OCEG Burgundy Book and the ISO/IEC 42001 audit guidance as anchors. NIST AI 100-1 and NIST AI 600-1 inform the testable expectations. Jurisdictional AI statutes add conformity assessment requirements for high-consequence systems. Sector regulators add their own. The assurance plan is built across these sources rather than from one.
+Assurance over AI is converging with general assurance over GRC capabilities, with the OCEG Burgundy Book (GRC Assessment Framework™ 3.5.1) and the ISO/IEC 42001 audit guidance as anchors. NIST AI 100-1 and NIST AI 600-1 inform the testable expectations. Jurisdictional AI statutes add conformity assessment requirements for high-consequence systems. Sector regulators add their own. The assurance plan is built across these sources rather than from one.
 
 **APPLICATION**
 
@@ -1003,13 +1003,13 @@ Build the AI audit plan against the inventory.
 
 ### Module 18. The Governance Test
 
-> *"An organization that cannot answer thirty-seven binary questions about its AI program does not have a program. It has a position."*
+> *"An organization that cannot answer thirty-seven questions about its AI program, each Yes or No, with Not applicable on items 32 and 34, does not have a program. It has a position."*
 >
 > **The watch.** *A counterfeit watch can keep time. It can pass for an original to a casual observer. It is still a counterfeit. An organization that scores well on a test administered by a system that cannot be inspected is the same. The Governance Test is binary because counterfeits depend on partial credit.*
 
 **CONCEPT**
 
-The Governance Test is a thirty-seven item diagnostic across the OCEG cycle, the three doctrines, the AI inventory, oversight, agentic AI and audit. Each item is binary. Yes means the artifact exists, is current and would survive inspection. No means it does not. There is no partial credit. The partial credit is granted by no regulator.
+The Governance Test is a thirty-seven item diagnostic across the OCEG cycle, the three doctrines, the AI inventory, oversight, agentic AI and audit. Each item is answered Yes or No, with Not applicable on items 32 and 34 on a written basis under SCORING below. Yes means the artifact exists, is current and would survive inspection. No means it does not. There is no partial credit. The partial credit is granted by no regulator.
 
 The test is administered to the organization at least quarterly, more often during a Crisis Starting Point. It is the most efficient single artifact to put in front of an executive sponsor or a board committee. The test produces no narrative. It produces a count, and where a critical item is failed, the cap and the failed item with it.
 
@@ -1017,7 +1017,7 @@ The test is administered to the organization at least quarterly, more often duri
 
 An organization that scores below twenty-five is at material risk. An organization that scores between twenty-five and thirty-two has the structure but lacks discipline. An organization that scores thirty-three or above is mature, provided it has failed no critical item. Items 28, 29, 30 and 31 are critical, and items 32 and 34 are critical where they apply. A No on any of them caps the reading at structure without discipline whatever the count, because a count that outvotes a critical failure is partial credit readmitted at the aggregate, and the watch above says what partial credit is for. The scores are not absolute. They are relative to the consequence of the program, and the thresholds are the author's judgment rather than a validated scale. A clinical AI vendor at thirty-three is doing better than an internal-productivity AI user at thirty-three.
 
-**THE GOVERNANCE TEST. 37 BINARY ITEMS**
+**THE GOVERNANCE TEST. 37 ITEMS, YES OR NO, WITH NOT APPLICABLE ON ITEMS 32 AND 34**
 
 Mark each item Yes only if the artifact exists, is current and would survive external inspection. Mark it No otherwise. Items 32 and 34 may be marked Not applicable on a written basis, under SCORING below. No partial credit.
 
@@ -1211,7 +1211,7 @@ Nearest neighbors:
 
 © 2026 Son-U Michael Paik. This workbook is licensed in its entirety under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0, [LICENSE.md](LICENSE.md)). The full license text is at [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anyone is free to read, copy, share and adapt it for any purpose, including commercial use, on two conditions. Attribution: credit the author, link to this repository and note any changes made. ShareAlike: distribute any adaptation under the same license.
 
-The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG.
+The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
 Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.4 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
@@ -1219,17 +1219,17 @@ Nothing in this workbook is legal advice. The legal standing of any specific obl
 
 ## References and Authorities
 
-The workbook treats the following instruments as reference time. The references are not exhaustive. Sectoral, national and emerging instruments overlay them. The reader is responsible for the law and standards applicable to their own enterprise, jurisdiction and use cases. The legal standing of any specific obligation is for qualified counsel to determine. The workbook is a governance instrument, not legal advice.
+The workbook treats the following instruments as reference points. The references are not exhaustive. Sectoral, national and emerging instruments overlay them. The reader is responsible for the law and standards applicable to their own enterprise, jurisdiction and use cases. The legal standing of any specific obligation is for qualified counsel to determine. The workbook is a governance instrument, not legal advice.
 
 **A note on AI law**
 
-AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what wins. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care as a precondition of deployment. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
+AI liability is not robot law. It is ordinary governance at machine speed. Across jurisdictions, the legal test converges on one question. Did the organization run reasonable controls before and after deployment? Defense is built from evidence rather than declarations. Use limits, testing records, oversight records, escalation paths and incident logs are what win. Principles published without operational records lose. Indemnities and supplier contracts allocate loss between parties but do not transfer the duties owed to customers, employees and regulators. A reviewer who cannot override the system is not oversight. The three doctrines of this workbook map to the test. Slow AI is reasonable care as a precondition of deployment. Informed Intent is foreseeability. Final Liability is the named human in whom the duty rests. The references that follow are illustrative rather than exhaustive.
 
 **OCEG GRC Capability Model 3.5 (Red Book)**
 
-Open Compliance and Ethics Group. The open standard on which Part I of this workbook is built, defining four components, twenty elements, ten Universal Outcomes and Principled Performance. Principled Performance, OCEG and GRC Capability Model are registered trademarks of OCEG. The model is distributed under Creative Commons Attribution-ShareAlike.
+Open Compliance and Ethics Group. The open standard on which Part I of this workbook is built, defining four components, twenty elements, ten Universal Outcomes and Principled Performance. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG. The model is distributed under Creative Commons Attribution-ShareAlike.
 
-**OCEG Integrated Audit and Assurance Framework (Burgundy Book)**
+**OCEG GRC Assessment Framework™ 3.5.1 (Burgundy Book; formerly GRC Assessment Tools)**
 
 OCEG's companion standard for the audit and assurance of GRC capabilities, used in Module 6 (REVIEW) and Module 17 (Audit and Assurance of AI Systems).
 
@@ -1247,7 +1247,7 @@ Published December 2023 by ISO and IEC. The first international, certifiable man
 
 **Risk-tiered AI statutes**
 
-Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application. Regulatory-currency note (30 July 2026): the Digital Omnibus on AI amending the Act was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. It defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. Those deferrals are now binding law. The Act's general application date of 2 August 2026 is unchanged. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
+Several jurisdictions have enacted or are preparing risk-tiered statutes that classify AI systems by use case and consequence, impose phased obligations on developers and deployers and define enforcement mechanisms. The European Union's Artificial Intelligence Act, Regulation (EU) 2024/1689, is the most fully articulated example at the time of writing, with prohibited categories, high-consequence classifications, transparency obligations for a middle band and separate obligations for general-purpose AI models. It entered into force in August 2024 with phased application. Regulatory-currency note (20 October 2026): the Digital Omnibus on AI amending the Act was adopted as Regulation (EU) 2026/1744 of 8 July 2026, published in the Official Journal on 24 July 2026 (OJ L, 2026/1744, 24.7.2026) and in force since 27 July 2026. It defers stand-alone (Annex III) high-risk obligations to 2 December 2027 and obligations for AI embedded in Annex I regulated products to 2 August 2028. Those deferrals are now binding law. The Act's general application date of 2 August 2026 is unchanged. The Omnibus also adds two prohibited practices to Article 5(1), points (ba) and (bb), on sexually explicit content made without explicit consent and on child sexual abuse material, which apply from 2 December 2026 (Article 113, third paragraph, point (a), as replaced). Under new Article 111(4), providers of AI systems, including general-purpose AI systems, that generate synthetic content and were placed on the market before 2 August 2026 have until 2 December 2026 to comply with the Article 50(2) marking obligation. The Module 14 worked example treats the Article 6 classification regime in detail. Other jurisdictions are following structurally similar patterns through different statutory routes. The reader is responsible for identifying the statutes in force, in draft or anticipated in every jurisdiction in which the enterprise operates.
 
 **National and sub-national AI legislation**
 
@@ -1265,7 +1265,7 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.4 (20 October 2026, KST)**. Patch release. LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged. The v4.3.3 line (18 October 2026): patch release, session T4 of the whole-account review of 15 October 2026, carried over from T3. Amendment note, 18 October 2026 (KST): Module 11's Final Liability concept listed the named human's means as "knowledge, evidence and capacity to remediate", a list that matched neither the canon's three attributes nor this workbook's own Three Doctrines section; it now names the three attributes, with the evidence to defend the decision and the capacity to remediate. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to any worksheet or to the Governance Test. The v4.3.2 line (17 October 2026): the Slow AI statements in the overview, The Three Doctrines, Module 9 and the Closing stated the doctrine as a rate of release; DOCTRINE.md states it as a precondition with three conjunctive tests. They now state the canon, and release tiering stays the instrument. The Final Liability attributes in The Three Doctrines take the canon list form. The ecosystem, license, references, version and citation sections now precede the Closing, so the closing line is last. The superseded wording is struck in [CHANGELOG.md](CHANGELOG.md). No change to the Governance Test, its scoring or any worksheet. The v4.3.1 line recast the Module 18 lines to agree with the SCORING block and added the doctrine citation line; the v4.3 line gave the Governance Test scoring a critical-item cap (a No on item 28, 29, 30 or 31, or on 32 or 34 where they apply, caps the reading at Structure without discipline regardless of the count, and the 33 and 25 thresholds are the author's judgment). The full version history from v3.10 forward is in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.4 (20 October 2026, KST)**. Patch release. LICENSE: two defects against the Creative Commons legal code corrected (the space in 'ShareAlike. In'; the CC0 sentence of the closing notice). Operative terms unchanged. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
@@ -1279,7 +1279,7 @@ Governance, risk management and compliance is the discipline of converting organ
 
 Artificial intelligence does not change the equation. It tests it. The energy profile is higher, the cycle must turn faster, the capabilities must hold under greater load and the oversight must function in real time. The three doctrines are the operating constraints that make that possible. Slow AI sets the precondition for deployment. Informed Intent disciplines authorization. Final Liability holds the named human in place when the system runs.
 
-The Governance Test in Module 18 is the diagnostic. Thirty-seven binary items. No partial credit. The score is not the goal. The score is the audit. The goal is a program that can be read, run, audited and improved by people who do not need to invent every artifact from scratch.
+The Governance Test in Module 18 is the diagnostic. Thirty-seven items, each Yes or No, with Not applicable on items 32 and 34. No partial credit. The score is not the goal. The score is the audit. The goal is a program that can be read, run, audited and improved by people who do not need to invent every artifact from scratch.
 
 The watch returns one last time. The deepest point of the metaphor is governed release. The mainspring alone cannot tell time. Power alone cannot tell time. Motion alone cannot tell time. Innovation alone cannot tell time. Artificial intelligence alone cannot tell time. The watch tells time because power is released through a disciplined architecture of constraint. The GRC capability is that discipline applied to organizational energy. The goal is not to stop motion. A stopped watch has eliminated operational risk by eliminating operation. The goal is better motion. Motion with purpose, tolerance, memory, correction, proof and a named human accountable when the mechanism runs out.
 
