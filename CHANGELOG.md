@@ -2,6 +2,10 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.6 (2026-11-02, KST)
+
+Patch release. The Final Liability epigraph in the doctrines block (README) read "Every consequential artificial intelligence action attaches to a named human ...", neither DOCTRINE.md section 3 nor a section 8 short form, while the Slow AI and Informed Intent epigraphs are verbatim; it now carries the section 8 short form verbatim. Found by the whole-account review of 24 October 2026 (reader report 02); train B. Version occurrences to v4.3.6. Prepared with Claude, approved by Michael Paik.
+
 ## v4.3.5 (2026-10-20, KST)
 
 Patch. Independent review of 20 October 2026; changes made with Claude, approved by Michael Paik.

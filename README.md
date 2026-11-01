@@ -12,7 +12,7 @@ Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.5, 20 October 2026 (Korea Standard Time, KST)*
+*v4.3.6, 2 November 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -126,7 +126,7 @@ The authorizer limb requires that any consequential artificial intelligence acti
 
 **Final Liability**
 
-*Every consequential artificial intelligence action attaches to a named human with decision rights, oversight and the power to intervene.*
+*Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.*
 
 Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who holds the accountability: decision rights, oversight and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
 
@@ -1219,7 +1219,7 @@ Nearest neighbors:
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.5 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.6 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1271,11 +1271,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.5 (20 October 2026, KST)**. Patch release. Corrections from the independent review of 20 October 2026: legal and standards references corrected against primary sources, the Governance Test wording aligned with its scoring, the Final Liability and Informed Intent statements aligned with DOCTRINE.md, missing outputs added to Modules 1, 2, 10 and 17 and the LICENSE section 6 lettering matched to the Creative Commons legal code. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.6 (2 November 2026, KST)**. Patch release. The Final Liability epigraph is the short form of DOCTRINE.md section 8, verbatim. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.5. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.6. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
