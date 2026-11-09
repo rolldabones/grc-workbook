@@ -12,7 +12,7 @@ Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.6, 2 November 2026 (Korea Standard Time, KST)*
+*v4.3.7, 9 November 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -1217,9 +1217,11 @@ Nearest neighbors:
 
 © 2026 Son-U Michael Paik. This workbook is licensed in its entirety under the Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0, [LICENSE.md](LICENSE.md)). The full license text is at [creativecommons.org/licenses/by-sa/4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anyone is free to read, copy, share and adapt it for any purpose, including commercial use, on two conditions. Attribution: credit the author, link to this repository and note any changes made. ShareAlike: distribute any adaptation under the same license.
 
+Commercial use is permitted under this license; how it sits beside the account's NonCommercial repositories is set out in [LICENSING.md](https://github.com/rolldabones/rolldabones/blob/main/LICENSING.md).
+
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.6 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.7 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1271,11 +1273,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.6 (2 November 2026, KST)**. Patch release. The Final Liability epigraph is the short form of DOCTRINE.md section 8, verbatim. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.7 (9 November 2026, KST)**. Patch release. The License section points to LICENSING.md in the profile repository, which states how this license sits beside the account's NonCommercial repositories. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.6. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.7. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
