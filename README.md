@@ -12,7 +12,7 @@ Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.7, 9 November 2026 (Korea Standard Time, KST)*
+*v4.3.8, 26 November 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -76,7 +76,7 @@ A note on scope. The workbook helps organizations address governance, risk manag
 
 Part I unpacks the equation. It treats governance, risk management and compliance as an integrated capability rather than three adjacent functions, and it builds the integrated capability element by element across the four phases of the cycle. The reader who completes Part I has a working mechanism.
 
-Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed. Informed Intent: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
+Part II turns to augmentation with artificial intelligence. The same equation governs. Artificial intelligence does not change the equation. It changes the way capabilities are deployed within it. The augmentation is conditioned by three operating doctrines that the workbook treats as fixed constraints rather than aspirations. Slow AI: AI that cannot be governed, explained and audited is not deployed; the three tests are conjunctive, and the doctrine is a precondition, not a speed limit. Informed Intent: no AI system acts without prior authorization stating its purpose, authority, boundaries and exit, given by a human who meets the five authorizer conditions. Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.
 
 Part III turns the discipline on artificial intelligence itself. Every AI system the organization deploys is a complication that must be inventoried, classified, overseen and audited within the same Operational Cycle. The unit of analysis becomes the AI system rather than the organization, but the elements and outcomes are the same.
 
@@ -128,7 +128,7 @@ The authorizer limb requires that any consequential artificial intelligence acti
 
 *Final Liability rests with the Human: every material outcome attaches to a named human owner with decision rights, oversight and the power to intervene.*
 
-Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system. A human is named, in advance, as the party who holds the accountability: decision rights, oversight and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
+Final Liability is the constraint that every material outcome produced by an artificial intelligence system attaches to a named human owner, and that none attaches to the system. A human is named, in advance, as the party who holds the accountability: decision rights, oversight and the power to intervene. A name without those three is a nominee, and nominating one is worse than naming nobody, because it manufactures the appearance of accountability. The doctrine has three operational requirements. A named human at each decision point. An evidence pack sufficient to defend the decision in retrospect. A corrective and preventive action capacity sufficient to absorb the failure mode. The doctrine does not transfer liability to the artificial intelligence. It refuses to allow the question of liability to be left open. It is the watch's click. Once the record is preserved, the organization cannot unwind backward into denial.
 
 ## Part I. Fundamental Governance, Risk Management and Compliance
 
@@ -1221,7 +1221,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.7 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.8 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1273,11 +1273,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.7 (9 November 2026, KST)**. Patch release. The License section points to LICENSING.md in the profile repository, which states how this license sits beside the account's NonCommercial repositories. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.8 (26 November 2026, KST)**. Patch release. Two doctrine sentences are brought into line with DOCTRINE.md in the profile repository: the Slow AI sentence that introduces Part II carries the section 8 short form verbatim, and the Final Liability sentence in The Three Doctrines no longer allows an outcome to be attributed in part to a system. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.7. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.8. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

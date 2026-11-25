@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.8 (2026-11-26, KST)
+
+Patch release. Two doctrine sentences in the README corrected against DOCTRINE.md. Account review of 10 November 2026, High findings, accepted by Michael Paik that day (`account-maintenance/reviews/2026-11-10/Recommended_Rulings_Account_v0.2.md`); worked ahead of the repository's rotation slot on his ruling of 26 November 2026. Prepared with Claude, approved by Michael Paik.
+
+- **The Slow AI sentence that introduces Part II** (CSV row 942, ruling #55) read "Slow AI is the precondition that AI which cannot be governed, explained and audited is not deployed.", the one variant compression of the three; the Informed Intent and Final Liability sentences beside it were already verbatim. It now carries the section 8 short form verbatim.
+- **The Final Liability sentence in The Three Doctrines** (CSV row 943, ruling #56) read "Final Liability is the constraint that no consequential artificial intelligence action is attributed solely to a system." "Solely" allowed an outcome to be attributed in part to the system, against DOCTRINE.md section 3, and "consequential artificial intelligence action" is the wording v4.3.6 struck from the epigraph. It now reads: every material outcome produced by an artificial intelligence system attaches to a named human owner, and none attaches to the system.
+- Read and left for the repository's rotation slot: the phrase "consequential artificial intelligence action" in the authorizer limb of The Three Doctrines, in Module 10 and in Module 11, where it names the action an authorization covers and does not state a doctrine's rule.
+- README title block, the Current version note, Suggested attribution, How to Cite and `CITATION.cff` (both version fields) to v4.3.8; no module's instrument changed.
+
 ## v4.3.7 (2026-11-09, KST)
 
 Patch release. Train D of the improvement rotation (review of 24 October 2026). Prepared with Claude, approved by Michael Paik.
