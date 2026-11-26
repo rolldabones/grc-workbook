@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README and this file version in lockstep; prior versions are superseded, never silently overwritten.
 
+## v4.3.9 (2026-11-26, KST)
+
+Patch release: pointers only. On Michael Paik's rulings of 26 November 2026, recorded in DISPOSITION.md in the profile repository: thirteen repositories of the account were archived that day as dated editions. Prepared with Claude, approved by Michael Paik.
+
+- **README, Part of the ecosystem:** the 2 archived neighbors are marked "archived edition", with one sentence pointing to DISPOSITION.md. No module or instrument changes.
+- README title block, the Current version note, Suggested attribution, How to Cite and `CITATION.cff` (both version fields) to v4.3.9. No file is added, removed, renamed or moved.
+
 ## v4.3.8 (2026-11-26, KST)
 
 Patch release. Two doctrine sentences in the README corrected against DOCTRINE.md. Account review of 10 November 2026, High findings, accepted by Michael Paik that day (`account-maintenance/reviews/2026-11-10/Recommended_Rulings_Account_v0.2.md`); worked ahead of the repository's rotation slot on his ruling of 26 November 2026. Prepared with Claude, approved by Michael Paik.

@@ -12,7 +12,7 @@ Built on the Open Compliance and Ethics Group (OCEG) GRC Capability Model
 
 Son-U Michael Paik
 
-*v4.3.8, 26 November 2026 (Korea Standard Time, KST)*
+*v4.3.9, 26 November 2026 (Korea Standard Time, KST)*
 
 ---
 
@@ -1207,11 +1207,13 @@ This workbook is one component of a larger body of AI governance, risk managemen
 The three doctrines are used in this repository as stated in [DOCTRINE.md](https://github.com/rolldabones/rolldabones/blob/main/DOCTRINE.md), the account's single normative statement. Where this repository restates a doctrine, it restates it at its own altitude and adds instruments, not doctrine (ECOSYSTEM.md protocol item 6).
 
 Nearest neighbors:
-- [grc](https://github.com/rolldabones/grc): the working method for the OCEG GRC Capability Model this workbook is built on, with build guides, a prompt pack and operating templates
+- [grc](https://github.com/rolldabones/grc) (archived edition): the working method for the OCEG GRC Capability Model this workbook is built on, with build guides, a prompt pack and operating templates
 - [ai-governance-for-boards](https://github.com/rolldabones/ai-governance-for-boards): the board layer of the same suite; the handbook directs what this workbook builds
 - [slow-ai-kitchen](https://github.com/rolldabones/slow-ai-kitchen): the task-level method that operationalizes the workbook's three doctrines for individual and team work
 - [AI-Governance-Academy](https://github.com/rolldabones/AI-Governance-Academy): the structured delivery programs that teach and implement the workbook in Client engagements
-- [RedCap-01](https://github.com/rolldabones/RedCap-01): a focused ERM diagnostic testing one slice of the capability this workbook builds, the link from objectives through risk to decisions
+- [RedCap-01](https://github.com/rolldabones/RedCap-01) (archived edition): a focused ERM diagnostic testing one slice of the capability this workbook builds, the link from objectives through risk to decisions
+
+Entries marked archived edition are dated editions that receive no corrections; [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md) lists them.
 
 ## License and Attribution
 
@@ -1221,7 +1223,7 @@ Commercial use is permitted under this license; how it sits beside the account's
 
 The four components, twenty elements, ten Universal Outcomes, Starting Points and the concept of Principled Performance are taken from the OCEG GRC Capability Model 3.5 (Red Book), an open standard distributed under a Creative Commons Attribution-ShareAlike license. The whole-document share-alike licensing of this workbook honors the terms of that source. Principled Performance and OCEG are registered trademarks of OCEG, and GRC Capability Model™ is a trademark of OCEG.
 
-Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.8 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
+Suggested attribution: Son-U Michael Paik, *The Governance, Risk Management and Compliance Workbook*, v4.3.9 (2026), [github.com/rolldabones/grc-workbook](https://github.com/rolldabones/grc-workbook), CC BY-SA 4.0.
 
 Nothing in this workbook is legal advice. The legal standing of any specific obligation is for qualified counsel to determine. References to statutes, regulations and standards reflect the instruments as at the version date and are subject to ongoing implementation adjustments.
 
@@ -1273,11 +1275,11 @@ The workbook itself is auditable work product. Reader, instructor and assessor a
 
 ## Version History
 
-Current version: **v4.3.8 (26 November 2026, KST)**. Patch release. Two doctrine sentences are brought into line with DOCTRINE.md in the profile repository: the Slow AI sentence that introduces Part II carries the section 8 short form verbatim, and the Final Liability sentence in The Three Doctrines no longer allows an outcome to be attributed in part to a system. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
+Current version: **v4.3.9 (26 November 2026, KST)**. Patch release. Part of the ecosystem marks the two neighbors archived on 26 November 2026, grc and RedCap-01, as archived editions; no module or instrument changes. Earlier releases, and the superseded wording each one struck, are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## How to Cite
 
-> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.8. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
+> Paik, Son-U Michael. *The Governance, Risk Management and Compliance Workbook*, v4.3.9. GRC Solutions Korea, 2026. https://github.com/rolldabones/grc-workbook
 
 A machine-readable citation is in [CITATION.cff](CITATION.cff).
 

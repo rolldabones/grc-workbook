@@ -4,7 +4,7 @@ title: "The Governance, Risk Management and Compliance Workbook"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 4.3.8
+version: 4.3.9
 date-released: "2026-11-26"
 license: CC-BY-SA-4.0
 repository-code: "https://github.com/rolldabones/grc-workbook"
@@ -15,7 +15,7 @@ preferred-citation:
   authors:
     - family-names: "Paik"
       given-names: "Son-U Michael"
-  version: 4.3.8
+  version: 4.3.9
   year: 2026
   publisher:
     name: "GRC Solutions Korea"
